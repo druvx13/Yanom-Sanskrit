@@ -1,0 +1,456 @@
+=====================================================================
+| The coding of the following text was a part of the project of the Joint |
+| Seminar on `Law \dharma) and Society in Classical India' headed by Prof.|
+| Y. Ikari at the Institute for Research in Humanities, Kyoto University. |
+| The text may be freely distributed and used for scholarly purposes, but |
+| we are not responsible for any trouble which might be caused by the use |
+| of this file.  Suggestions for corrections are most welcome.        |
+| Please contact yanom@cc.kyoto-su.ac.jp or  ikari@zinbun.kyoto-u.ac.jp   |
+===================================================================== 
+
+Text Input System 
+(1)     Sanskrit characters which should bear diacritical marks
+        when Romanized have been input mostly by capitals.  
+        
+        vowels:     a, aa, i, ii, u, uu, R, RR, L, e, ai, o, au
+        gutturals:  k, kh, g, gh, G
+        palatals:   c, ch, j, jh, J
+        linguals:   T, Th, D, Dh, N
+        dentals:    t, th, d, dh, n
+        labials:    p, ph, b, bh, m
+        semivowels: y, r, l, v
+        sibilants:  z, S, s
+        aspiration: h
+        anusvAra:   M
+        visarga:    H
+
+\2) Members of a compound are separated by periods. 
+\3) External sandhi is decomposed with `-' \hyphen).
+\4) Verbs are marked by `\'.
+
+
+
+Vaikhaanasa Dharmasuutra \VKHDHS)1-3 = Vaikhaanasa Smaartasuutra 8-10
+
+Text: edited by W.Caland, Vaikhaanasasmaartasuutram, the domestic rules of the Vaikhaanasa school 
+belonging to the Black Yajurveda, Calcutta 1927
+
+Computerized by Hiromichi Hikita,  and collated by Yuuko Matsuda and Yasuke Ikari,  March 1992, 
+May 1996. 
+
+
+
+VKHDHS 01.01.(112.1)/ atha varNa.aazrama.dharmaM 
+VKHDHS 01.01.(112.1-2)/ braahmaNa.kSatriya.vaizya.zuudraa mukha.baahu.uuru.paadeSu jaataaz catvaaro varNaa.
+VKHDHS 01.01.(112.2-3)/ yasmaad braahmaNo asya mukham \aasiid iti zrutiH.
+VKHDHS 01.01.(112.3-4)/ puurveSaaM trayaaNaaM niSeka.aadyaaH saMskaaraa \vidhiiyante.
+VKHDHS 01.01.(112.4)/ teSaaM dvijanmanaaM veda.adhikaaras.
+VKHDHS 01.01.(112.4-5)/ tasmaad braahmaNasya-adhyayana.adhyaapana.yajana.yaajana.daana.pratigrahaaNi SaT karmaaNi \bhavanti.
+VKHDHS 01.01.(112.6)/ kSattriya.vaizyayor yajana.adhyayana.daanaani.
+VKHDHS 01.01.(112.6-7)/ kSatriyasya prajaa.paalaya.duSTa.nigraha.yuddhaaH.
+VKHDHS 01.01.(112.7)/ vaizyasya paazupaalya.kusiida.vaaNijyaani.
+VKHDHS 01.01.(112.8)/ zuudrasya dvijamanaaM zuzruuSaa kRSiz ca-eva.
+VKHDHS 01.01.(112.8-9)/ braahmaNasya-aazramaaz catvaaraH  kSatriyasya-aadyaas trayo vaizyasya dvaav eva.
+VKHDHS 01.01.(112.9-10)/ tad.aazramiNaz  catvaaro  brahmacaarii  gRhastho vaanaprastho bhikSur iti.
+VKHDHS 01.02.(112.11-13)/ upaniito brahmacaarii mekhalaa.upaviita.ajina.daNDa.dhaarii snaatvaa tarpaNaM brahmayajJaM saayaM.praataH sandhyaa.upaasana.samidd.homau ca kurvan guroH paadaav upasaMgRhya nitya.abhivandii vratena-adhyayanaM \karoti.
+VKHDHS 01.02.(112.13-15) sthite gurau stheyaad utthite puurvam utthaaya vrajantam \anugacched. aasiine zayaane ca niyukto niicair anvaasana.zayane \kuryaad.
+VKHDHS 01.02.(112.15-16)anukto yat kiJcit karma na-\aacarati. 
+VKHDHS 01.02.(112.16)/ anukto-api svaadhyaaya.nityakarmaaNy \aacared.
+VKHDHS 01.02.(112.16-113.3) uSNaambusnaana.dantadhaavana.aJjana.anulepana.gandha.puSpa.upaanaT.chatra.divaasvaapa.retaHskanda.striidarzana.sparzana.maithunaani kaama.krodha.lobha.moha.mada.maatsarya.hiMsaadiini varjayitvaa sadaazuzruuSur guroH priya.hita.karmaaNi \kurviita.
+VKHDHS 01.02.(113.3)/ adveSii vaak.citta.anukuulaH priyaM satyaM \vadaty.
+VKHDHS 01.02.(113.3-4)/ aarto-apy asatya.apriyaM nindaM na-\aacakSiita.
+VKHDHS 01.02.(113.4-5) madhu.maaMsa.matsya.rasa.zuktaady.abhojyabhojana.varjii bhaikSa.aacaraNaM \kRtvaa guruNaa-anujJaato bhaikSa.annam \azniiyaad. 
+VKHDHS 01.02.(113.5-6)/ guru.vRddha.diikSitaanaam aakhyaaM na \bruuyaad.
+VKHDHS 01.02.(113.6-7) guru.abhaave tat.putre ca guruvat karma-\aacarati.
+VKHDHS 01.03.(113.8-9) brahmacaariNaz caturvidhaa gaayatro braahmaH praajaapatyo naiSThika-iti.
+VKHDHS 01.03.(113.9-10)/ gaayatra.upanayanaad uurdhvaM tri.raatram akSaara.lavaNa.azii gaayatriim \adhiitya-aa saavitra.vrata.samaapter atra vratacaarii.
+VKHDHS 01.03.(113.10-14) braahmaH saavitra.vrataad uurdhvam anabhizasta.apatitaanaaM gRhasthaanaaM gRheSu bhaikSa.aacaraNaM veda.vratacaraNaM ca \kRtvaa dvaadaza samaa viMzati samaa vaa guru.kule \sthitvaa vedaan vedau vedaM vaa suutra.sahitam adhyayanaM \kRtvaa gaarhasthya.anusaraNaM \kuryaat.
+VKHDHS 01.03.(113.14-15)/ praajaapatyaH \snaatvaa nityakarma.brahmacarya.ziilo naaraayaNa.paraayaNo veda.vedaaGga.arthaan \vicaarya daara.saMgrahaNaM \karoti.
+VKHDHS 01.03.(113.15-16)/ praajaapatye trisaMvatsaraad uurdhvaM na \tiSThed ity RSayo \vadanti.
+VKHDHS 01.03.(113.16-114.3)/ naiSThikaH kaaSaayaM dhaatu.vastram ajinaM valkalaM vaa paridhaaya jaTii zikhii vaa mekhalii daNDii suutra.ajina.dhaarii brahmacaarii zucir a.kSaara.lavaNa.aazii yaavad aatmano viprayogas taavad guru.kule \sthitvaa nivedita.bhaikSa.bhojii \bhavati.
+VKHDHS 01.04.(114.4-7)/ daaraan saMgRhya gRhastho-api snaanaadi.niyama.aacaaro nityam aupaasanaM \kRtvaa paakayajJa.yaajii vaizvadeva.homaante gRha.aagataM guruM snaatakaM ca \pratyutthaaya-\abhivandya-aasana.paadya.aacamanaani pradaaya ghRta.dadhi.kSiira.mizraM madhuparkaM ca dattvaa-annaadyair yathaazakti \bhojayati.
+VKHDHS 01.04.(114.7-10)/ bhikSuun brahmacaariNo-atithiin vedavidaH zrotriyaan pitRvya.aacaarya.Rtvij.maatula.zvazura.aadiin abhyaagataan baala.vRddhaan anaatha.aarta.adhvazraantaaMz ca yathaarthaM \puujayaty.
+VKHDHS 01.04.(114.10)/ azakto-apy-agraM bhikSaaM vaa sa.udakaM dattvaa zeSaM \bhuJjiita).
+VKHDHS 01.04.(114.11-13) dayaa.satya.zauca.aacaara.yutaH svaadhyaaya.tarpaNaabhyaam RSiin yajJna.bali.homa.jala.puSpa.aadyair devaan zraaddhaiH putraiz ca pitRRn balinaa bhuutaan annaadyair manuSyaaMz ca nityam \arcayed.
+VKHDHS 01.04.(114.13)/ RNa.trayeNa mukto-anRNo \bhavati).
+VKHGS.08.05.(114.14)/ gRhasthaaz caturvidhaa vaartaa.vRttiH zaaliina.vRttir yaayaavaro ghora.aacaarikaz ca-iti.
+VKHGS.08.05.(114.14)/ vaartaa.vRttiH kRSi.gorakSya.vaaNijya.upajiivii.
+VKHGS.08.05.(114.14-15) zaaliina.vRttir niyamair yutaH paakayajJair \STvaa-agniin \adhaaya pakSe pakSe darzapuurNamaasa.yaajii caturSu caturSu maaseSu caaturmaasya.yaajii SaTsu SaTsu maaseSu pazubandha.yaajii prati.saMvatsaraM soma.yaajii ca.
+VKHDS.01.05.(115.1-3)/ yaayaavaro haviryajJaiH somayajJaiz ca \yajate \yaajayaty adhiite-\adhyaapayati dadaati \pratigRhNaati SaT.karma.nirato nityam agni.paricaraNam atithibhyo-abhyaagatebhyo-annaadyaM ca \kurute).
+VKHDS.01.05.(115.3-7)/ ghora.aacaariko niyamair yukto \yajate) na \yaajayaty) adhiite na-\adhyaapayati dadaati)  na \pratigRhNaaty)  uJccha.vRttim \upajiivati) naaraayaNa.paraayaNaHsaayaM.praatar agnihotraM \hutvaa maargaziirSa.jyeSTha.maasayor asidhaaraa.vrataM vana.oSadhibhir agni.paricaraNaM \karoti).
+VKHDHS 01.06.(115.8-11)/ gRhasthaH sa.patniikaH paJcaagnibhis tretaagnibhir vaa gRhaad vana.aazramaM \yaasyann aahita.agnir anaahita.agniz ca-aupaasanam araNyaam \aaropya gRhe \mathitvaa zraamaNakiiya.vidhaanena-\aadhaaya-aaghaaraM \hutvaa zraamaNaka.agnim \aadaaya tRtiiyam aazramaM \gacchet).
+VKHDHS 01.06.(115.11-12)/ puurvavad agni.aalaya.prokSaNa.ullekhana.aadi karma \kuryaat).VKHDHS 01.06.(115.12-14) tRtiiyaam api vediM \parimRjya SaD.aGgula.agner darbhair grathite-adhas tridhaa.kRtaM rajjuvat- muule baddhaM SaTtriMzad aGgula.pramaaNaM paristaraNa.kuurcaM kRtvaa madhyavedyaaM \paristRNaati) zraamaNakaM.
+VKHDHS 01.06.(115.15-17)/ zraamaNaka.yajJaM yajJadaivavizvaan devaan ity-antam \aavaahya-aajyaM niruupya zraamanakaaya svaahaa zraamaNaka.yajJaaya svaahaa yajJadaivatavizvebhyo devebhyaH svaahaa-ity antaM \hutvaa caruM \juhuyaad) ity aadhaara.vizeSaH.
+VKHDHS 01.06.(115.18-116.1) zraamaNaka.agnez ca-uurdhva.vedir dvaatriMzad.aGguli.aayataa catur.aGguli.vistaara-unnataa.
+VKHDHS 01.06.(116.1-2)/ madhyamaa tat.parigataa paJca.aGguli.vistaaraa catur.aGgula.utsedhaa.
+VKHDHS 01.06.(116.2)/ adhastaad uurdhva.vedi.vistaara.unnataa tRtiiyaa vedir.
+VKHDHS 01.06.(116.2-5)/ dvaadaza.aGgulaM madhye nimnaM tri.vedi.sahitaM kuNDaM kRtvaa-\aadhaaya vanastho nityam aupaasanavat saayaM.praatar.aahutiir \hutvaa mahaavyaahRtibhiH zraamaNaka.agniM \juhuyaad).
+VKHDHS 01.06.(116.5)/ patniiko daarair agnibhir vinaa vanaM \gacchet).
+VKHDHS 01.07.(116.6)/ vaanaprasthaaH sa.patniikaa-a.patniikaaz ca-iti.
+VKHDHS 01.07.(116.6-7)/ sa.patniikaaz caturvidhaa.
+VKHDHS 01.07.(116.7)/ audumbaro vairiJco vaalakhilyaH phenapaz ca-iti.
+VKHDHS 01.07.(116.7-11) audumbaro-akRSTa.phala.avaapya.oSadhi.bhojii  muula.phala.aazii vaa‡lavaNa.hiGgu.lazuna.madhu.matsya.maaMsa.puutyanna.dhaanya.amla.parasparzana.parapaaka.varjii deva.RSi.pitR.manuSya.puujii vana.caro graama.bahiSkRtaH saayaM.praatar.agnihotraM \hutvaa zraamaNaka.agni.homaM  vaizvadeva.homaM \kurvaMs tapaH \samaacarati).
+VKHDHS 01.07.(116.12)/ zraamaNaka.agnim ekam eva-aadhaaya \juhoti)-ity eke.
+VKHDHS 01.07.(116.12-15)/ vairiJcaH praatryaaM dizaM \prekSate taaM dizaM \gatvaa tatra priyaGgu.yava.zyaamaaka.niivaara.aadibhir labdhaiH svakiiyaan atithiiMz ca poSayitvaa-agnihotra.zraamaNaka.vaizvadeva.homii naaraayaNa.paraayaNas tapaH.ziilo \bhavati).
+VKHDHS 01.07.(116.15-17) vaalakhilyo jaTaa.dharaz ciira.valkala.vasano-arka.agniH kaarttikyaaM paurNamaasyaaM puSkalaM bhuktam \utsRjya-anyathaa zeSaan maasaan upajiivya tapaH \kuryaat).
+VKHDHS 01.07.(116.18)/ asya suurya-eva-agnir \bhavati)-ity \aamananti).
+VKHDHS 01.07.(116.18-117.2)/ phenapa ud.daNDaka unmattako nirodhakaH ziirNa.patita.pattra.aahaarii caandraayaNa.vrataM caran pRthivii.zaayii naaraayaNaM \dhyaayan mokSam eva \praarthayate).
+VKHDHS 01.08.(117.3)/ a.patniikaa bahuvidhaaH.
+VKHDHS 01.08.(117.3-11)) kaala.azikaa uddaNDa.saMvRttaa azma.kuTTaa  udagra.phalino danta.uluukhalikaa uJcha.vRttikaaH saMdarzana.vRttikaaH kapota.vRttikaa mRga.caarikaa hasta.aadaayinaH zaila.phalaka.aadino-arka.dagdha.azino bailva.azinaH kusuma.azinaH paaNDu.pattra.azinaH kaala.antara.bhojina eka.kaalikaaz catuS.kaalikaaH kaNTaka.zaayino viiraasana.zaayinaH paJcaagni.madhya.zaayino dhuuma.azinaH paaSaaNa.zaayino-abhyavagaahina udakumbha.vaasino mauninaz ca-avaak.zirasaH suurya.pratimukhaa uurdhva.baahukaa eka.paada.sthitaaz ca-iti vividha.aacaaraa \bhavanti)-iti \vijJaayate).
+VKHDHS 01.09.(117.12-13)/ atha bhikSukaa mokSa.arthinaH kuTiicakaa bahu.udakaa haMsaaH paramahaMsaaz ca-iti caturvidhaa \bhavanti).
+VKHDHS 01.09.(117.13-15)tatra kuTiicakaa gautama.bhaaradvaaja.yaajJavalkya.haariita.prabhRtiinaam aazrameSv aSTau graasaaMS caranto yogamaarga.tattvajJaa mokSam eva \praarthayante).
+VKHDHS 01.09.(117.15-118.1) bahu.udakaas tridaNDa.kamaNDalu.kaaSaaya.dhaatu.vastra.grahaNa.veSa.dhaariNo  brahmarSi.gRheSu  ca-anyeSu  saadhu.vRtteSu maaMsa.lavaNa.paryuSita.annaM varjayantaH sapta.agaareSu bhaikSaM \kRtvaa mokSam eva \praarthayante).
+VKHDHS 01.09.(118.1-4)/ haMsaa naama graame ca-ekaraatraM nagare paJcaraatraM vasantas tad.upari na vasanto gomuutra.gomaya.aahaariNo vaa maasa.upvaasino vaa nitya.caandraayaNa.vratino nityam utthaanam eva \praarthayante).
+VKHDHS 01.09.(118.4-5) paramahaMsaa naama vRkSa.ekamuule zuunya.agaare zmazaane aa vaasinaH sa.ambaraa dig.ambaraa vaa.
+VKHDHS 01.09.(118.5-6)/ na teSaaM dharma.adharmau satya.anRte zuddhi.azuddhi.aadi dvaitaM.
+VKHDHS 01.09.(118.6-7)/ sarva.samaaH sarva.aatmanaH sama.loSTa.kaaJcanaaH sarva.varNeSu bhaikSa.aacaraNaM \kurvanti).
+VKHDHS 01.09.(118.7-8)/ braahmaNaanaaM caaturaazramyaM kSatriyaaNaaM traya.aazramyaM vaizyaanaaM dvi.aazramyaM vihitaM.
+VKHDHS 01.09.(118.8-9)/ tat.phalaM hi sa.kaamaM niS.kaamaM ca-iti dvividhaM \bhavati).
+VKHDHS 01.09.(118.9-11) sa.kaamaM naama-iha saMsaare-abhivRddhiM \jJaatvaa putra.laabha.aadi.abhikaaGkSaNam anyat svarga.aadi.phala.kaaGkSaNaM vaa.
+VKHDHS 01.09.(118.11-12)/ niS.kaamaM naama kiJcid \an.abhikaaGkSya yathaavihita.anuSThaanam iti.
+VKHDHS 01.09.(118.12-13)/ tatra niS.kaamam dvividhaM bhavati pravRttir nivRttiz ca-iti.
+VKHDHS 01.09.(118.13-15)/ pravRttir naama saMsaaram \an.aadRtya saGkhya.jJaanaM \samaazritya praaNaayaama.aasana.pratyaahaara.dhaaraNaa.yukto vaayu.jayaM \kRtvaa-aNima.aady.aizvarya.praapaNaM.
+VKHDHS 01.09.(118.15-119.1) tat punar api tapaH.kSayaaj janma.praapakatvaad vyaadhi.baahulyaac ca na-\aadriyante) paramarSayo.
+VKHDHS 01.09.(119.1-6)/ nivRttir naama lokaanaam anityatvaM \jJaatvaa paramaatmano-anyan na kiJcid asti-iti saMsaaram \anaadRtya \cchitvaa bhaaryaa.mayaM paazaM jita.indriyo \bhuutvaa zariiraM \vihaaya kSetrajJa.paramaatmanor yogaM \kRtvaa-atiindriyaM sarvajagad.biijam  azeSa.vizeSaM nitya.aanandam amRta.rasa.paanavat sarvadaa tRpt.karaM paraM jyotiH pravezakam iti \vijJaayate).
+VKHDHS 01.10.(119.7-8) nivRtti.aacaara.bhedaadd-hi yoginas trividhaa \bhavanti) saaraGgaa eka.arthyaa visaragaaz ca-iti.
+VKHDHS 01.10.(119.8-9)/ a.nirodhakaa nirodhakaa maarga.gaa vimaarga.gaaz ca-iti caturvidhaa saaraGgaa.
+VKHDHS 01.10.(119.9-10)/ duura.gaa aduura.gaa bhruumadhya.gaa a.saMbhaktaaH saMbhaktaaz ca-ity eka.arthyaaH paJcadhaa \bhavanti).
+VKHDHS 01.10.(119.10-11)/ na saGkhyaavanto visaragaas.
+VKHDHS 01.10.(119.11-13)/ tatra saaraGgaaH saaraM kSetrajJas taM \gacchanti)-iti saaraGgaas teSv a.nirodhakaa ahaM viSNur iti \dhyaatvaa ye \caranti) teSaaM praaNaayaama.aadayo na \santi).
+VKHDHS 01.10.(119.13-14)/ ye tu nirodhakaas teSaaM 
+praaNaayaama.pratyaahaara.dhaaraNaa.aadayaH SoDaza kalaaH \santi).
+VKHDHS 01.10.(119.14-15)/ ye maarga.gaas teSaaM SaD eva praaNaayaama.aadayo.
+VKHDHS 01.10.(119.15-17) ye vimaargaas teSaaM yama.niyama.aasana.praaNaayaama.pratyaahaara.dhaaraNaa.dhyaana.samaadhayaz ca-ity aSTa.aGgaan \kalpayanto dhyeyam apy anyathaa \kurvanti).
+VKHDHS 01.11.(120.1)/ atha-ekaarSyaa.
+VKHDHS 01.11.(120.1)/ eka eva-RSir yeSaaM te ekaarSyaas.
+VKHDHS 01.11.(120.1-2)/ teSu ye duura.gaas teSaam ayaM maargaH.
+VKHDHS 01.11.(120.2-5)/ piGgalayaa naaDikayaa-aaditya.maNDalam \anupravizya tatra.sthena puruSeNa \saMyujya tataz candra.maNDalaM tatra.sthena puruSeNa tato vidyutaM tatra.sthena puruSeNa punaH krameNa vaikuNTha.saayujyaM \yanti).
+VKHDHS 01.11.(120.5)/ ye-aduura.gaas teSaam ayaM dharmaH.
+VKHDHS 01.11.(120.5-7) kSetrajJa.paramaatmanor yogaM kSetrajJa.dvaareNa \kaarayitvaa tatra-eva samasta.vinaazaM dhyaatvaa-aakaazavat sattaa.maatro-aham iti \dhyaayanti).
+VKHDHS 01.11.(120.7-10)/ bhruumadhya.gaaH kSetrajJa.paramaatmanor yoge sattva.ruupa.agni.dvaareNa bhruumadhyaM niitvaa paJcabhyo-aGgSTa.aadibhyaH sthaanebhya-aakarSaNaM punaH piGgalaa.dvaareNa niSkramaNaM pralaya.antaM kSetrajJa.yogaantaM vaa \kurvanti).
+VKHDHS 01.11.(120.10-11)/ a.saMbhaktaa naama manasaa dhyaanaM \kurvanti).
+VKHDHS 01.11.(120.11)/ tat.pratipaadana.aagamaM zrotreNa \zRNvanti).
+VKHDHS 01.11.(120.11-12)/ cakSuSaa devataa.akaaraM \pazyanti).
+VKHDHS 01.11.(120.12)/ ghraaNena gandham \anubhavanti).
+VKHDHS 01.11.(120.12-13)/ paaNinaa devataaM \namaskurvanti).
+VKHDHS 01.11.(120.13-14)/ saMbhaktaa naama braahmaNaH sarva.vyaapakatvaad yuktam ayuktaM yo-asau paramaatmaa tat sa vyaapya-aakaazavat \tiSThati).
+VKHDHS 01.11.(120.15) tasmaad brahmaNo-anyan na kutracid aatmaanaM \pratipadyate)-asau.
+VKHDHS 01.11.(120.16)/ bhruumadhya.gatasya-api saMzayaan niSpramaaNam eva-ity uktaM.
+VKHDHS 01.11.(120.16-121.1)/ tasmaad brahma.vyatiriktam anyan na-\upapadyate).
+VKHDHS 01.11.(121.1-2)/ vividha.saraNaad vividha.darzanaat kupatha.gaamitvaad visara.gaaH.
+VKHDHS 01.11.(121.2-3)/ puraa prajaapatir upadeza.guuhana.arthaM visaraga.pakSaM dRSTavaan.
+VKHDHS 01.11.(121.3)/ taM dRSTvaa munayo-api mohaM \jagmuH) kiM punar manuSyaaH.
+VKHDHS 01.11.(121.4) visaraga.pazuunaam ahaMkaara.yuktaanaaM janma.antareSu muktir na-asmiJ janmani.
+VKHDHS 01.11.(121.5)/ tasmaad visaraga.pakSo na-anuSTheyo.
+VKHDHS 01.11.(121.5-8)/ kecid visargaaH kaaya.klezaat kecin mantra.japaat kecid yena kenacid dhyaanena kecid yena kenacid akSareNa kecid vaayu.jayaad anye paramaatmanaa kSetrajaM saMyojya \dhyaayanty) ete paramaatma.saMyogam eva na-\icchanti).
+VKHDHS 01.11.(121.8-9)/ hRdi.stha-eva puruSa-iti \vadanti).
+VKHDHS 01.11.(121.9-10)/ kecin na kiJcid dhyaanam iti yathaa.ukta.anuSThaanaM yogam iti jJaatvaa muktim \icchanti).
+VKHDHS 01.11.(121.10-11)/ teSaaM visaraga.pazuunaaM‡janma.antareSu muktir na-asmiJ janmani.
+VKHDHS 01.11.(121.11-12)/ tasminn eva janmani mokSa.kaaGkSiNaa visaraga.pakSo na-anuSTheyaH.
+VKHDHS 01.11.(121.12-15)/ sa.guNe brahmaNi buddhiM nivezya pazcaat-nir.guNaM brahma-aazritya yatnaM kuryaad iti \vijJaayate).
+
+
+VKHDHS 02.01.(122.1)/ atha vanasthasya zraamaNaka.vidhaanaM.
+VKHDHS 02.01.(122.1-3)/ gRhasthaH somayaajii putraM pautraM ca dRSTvaa tat.putra.aadiin gRhe saMsthaapya mauNDyaM kRtvaa praajaapatyaM kRcchraM \caret).
+VKHDHS 02.01.(122.3-4) vasante zukla.pakSe puNya.kSetre patnyaa saardhaM vana.aazramaM \yaati).
+VKHDHS 02.01.(122.4-5)/ puurvasmin divase kRta.snaanaH saMkalpya kuza.udakaM piitvaa-upavaasaM \kuryaad).
+VKHDHS 02.01.(122.5-6) aupaasana.homaM hutvaa-agni.mayaM te yonir ity araNyaam \aaropayed).
+VKHDHS 02.01.(122.6-8)/ darzapuurNamaasa.vidhaanena darbha.aadiin saMgRhya puurvavat paristaraNa.kuurcaan paridhiin samidho veNu.daNDa.upaviita.kamaNDalu.valkala.aadiin \saMbharati).
+VKHDHS 02.01.(122.8)/ puurva.ukta.vidhinaa-agni.kuNDaM \kuryaad).
+VKHDHS 02.01.(122.8-10) aparasmin divase vaizvaanara.suuktena-agniM mathitvaa prajvaalya-agna-\aayaahy)/ upaavaroha-ity agniM nidhaaya puurvavat- zraamaNaka.agni.aaghaaraM \juhoti).
+VKHDHS 02.01.(122.10-13)/ praNamya-agniM pariSicya-agne praayazcitte tvam iti paJca.praayazcittaM hutvaa-apo.hiraNya.avamaanair aatmaanaM prokSya brahma.daivatyaM vaiSNavaM paJca.vaaruNaM ca pradhaanaan vyaahRti.antaM \yajet).
+VKHDHS 02.02(122.14-17)/ agneH pratiicyaaM dvau kuzau puurva.agrau nyasya-uurdhve-azmaanaM nidhaaya tat savitur vareNyam iti dakSiNapaada.aGguSThaagreNa-azmaanam \adhitiSThet) tejo.vatsava iti (on the reading of the mantra, cf. Cal p.122n.4) valkalam ajinaM ciiraM vaa paridhaaya puurvavan mekhalaa.aadiiMs triiNy upaviitaany uttariiyaM kRSNaajinaM ca-\aadadaaty).
+VKHDHS 02.02(122.17-123.1) aacamya svasti deva-iti- agniM pradakSiNaM praNaamaM ca kRtvaa-\aasiita).
+VKHDHS 02.02(123.1-3)/ zaM no vediir iti sva.muurdhni prokSya jayaan abhyaataanaan raaSTrabhRto vyaahRtiiz ca hutvaa-aajya.zeSaM praaNaayaamena \praazniiyaad) .
+VKHDHS 02.02(123.3-5)/ yoge yoga iti dvir aacamya zatam in nu zarada-iti praNaamam aagantraa samagan mahi-iti pradakSiNaM ca-aadityasya \kurviita).
+VKHDHS 02.02(123.5-6)/ raaSTrabhRd-asi-iti- uurdhva-agraM kuurcaM \gRhNiiyaat).
+VKHDHS 02.02(123.6-10)/ oM bhuus tat savitur oM bhuvo bhargo devasyoM suvardhiyo yo na iti paccho vyastaam oM bhuur bhuvas tat savitur oM suvardhiyo yo na ity ardharcaam oM bhuur bhuvaH suvas tat savitur iti samastaaM ca saavitriiM japtvaa vanaazramaM pravizya brahmacarya.vrataM \saMkalpayet). 
+VKHDHS 02.03(123-11)/ tat.patnii ca tathaa brahmacaariNii \syaat).
+VKHDHS 02.03(123.11-14) svayam eva-agniM pradakSiNiikRtya-aajyena praajaapatyaM dhaataa.aadiin minda.aahutii vicchinnam aindraM vaizvadevaM vaizNavaM baahyaM viSNornuka.aadiin praajaapatya.suuktaM tad.vrata.bandhaM ca punaH pradhaanaan hutvaapraajaapatya.vrataM \badhnaati).
+VKHDHS 02.03(123.14-16)/ sthitvaa devasya tvaa yo me daNDa iti dvaabhyaaM paJca.sapta.nava.anyatamaiH parvabhir yuktaM kezaanta.aayataM vaa-apy-avakraM vaiSNavaM dvi.daNDam \aadadaati).
+VKHDHS 02.03(123.16-17)/ yena devaa iti kamaNDalu.mRd.grahiNyau puurvavad upaanaT.chatre ca \gRhNaaty).
+VKHDHS 02.03(123.17-20)/ agniin gaarhapatya.aadiin-ca-ujjvaalya-agnihotraM hutvaa-aahavaniiye praajaapatyaM viSNu.suuktaM ca sarvatra-agnaye svaahaa somaaya viSNave svaahaa-iti hutvaa-agniin araNyaam \aaropayati).VKHDHS 02.03(123.20-124.1) vane-adrau vivikte nadii.tiire vanaazramaM praklpya yathaa.uktam agnikuNDaani \kuryaat).
+VKHDHS 02.03(124.1-2)/ patnyaa saha-agniin aadaaya paatraadi.saMbhaara.yukto vanaazramaM \samaazrayati).
+VKHDHS 02.04(124.3-4)/ agnyaayatane prokSya khanitvaa lekhaaH SaD ullikhya suvarNa.zakalaM vriihiiMz ca nidhaaya zraamaNaka.agniM \nidadhyaat).
+VKHDHS 02.04(124.4-7) vanyaan eva paarthivaan vaanaspatyaan kuliira.udghaata.aJchaNaan puraaNaan kuza.darbhaan uurNaa.stukaaM plakSa.agraM sugandhi.tejanaM gugguluM hiraNya.zakalaan suurya.kaantaM ca \saMbharati).
+VKHDHS 02.04(124.7-9)/ vaanaprasthaan Rtvijo vRtvaa-agniM mathitvaa gaarhapatya.aadiiMs tretaa.agniin paJca.agniin vaa-agnyaadheya.krameNa-aadhaaya-aahutii dve dve hutvaa nityaM dvi.kaalaM vanyair eva \juhoti).
+VKHDHS 02.04(124.9-12)/ vanaazramii muniH snaana.zauca.svaadhyaaya.tapo.daana.ijyaa.upavaasa.upasthanigraha.vrata.maunaani-iti niyamaan daza-etaan satya.aanRzaMsya.aarjava.kSamaa.dama.priiti.prasaada.maardava.ahiMsaa.maadhuryaaNi-iti yama.andazaamuuMz ca \samaacarati).
+VKHDHS 02.04(124.12-15)/ bhaktyaa viSNuM dhyaayann-agnihotra.zraamaNaka.agnihomau dvi.kaalaM na-utsRjan graamya.azanaM tyaktvaa vanya.oSadhiiH phalaM muulaM zaakaM vaa nitya.azanaM saMkalpya tirodhaa bhuur ity-aahRtya- aparaahNe svayaM patnii vaa haviSyam aasraavitaM \pacati).
+VKHDHS 02.04(124.16)/ vaizvadeva.ante-athitiin abhyaagataan praazayitvaa mitaM \praaznaati).
+VKHDHS 02.05.(125.1)/ raatrau na-\azniiyaad).
+VKHDHS 02.05.(125.1-2)/ adhastaad darbhaaMs tRNaani parNaani vaa-aastiirya su.vrataH su.vrataaM patniiM vinaa-ekaH \zayiita).
+VKHDHS 02.05.(125.2-3)/ saa-asya zuzruuSaaM \karoty). enaaM na-\upagacchet).
+VKHDHS 02.05.(125.3)/ maatRvan niS.kaamaH prekSeta-uurdhva.retaa jita.indriyo.
+VKHDHS 02.05.(125.4-5)/ darzapuurNamaasau caaturmaasyaM nakSatra.iSTim aagrayaNa.iSTiM ca vanya.oSadhiibhiH puurvavad \yajed) anukramaan.
+VKHDHS 02.05.(125.5-7)/ muulaiH phalaiH pattraiH puSpair vaa tat.tat.kaalena pakvaiH svayam eva saMziirNaiH praaNaM pravartayann uttara.uttare-apy adhikaM tapaH.saMyogaM phalaadi.viziStam \aacared).
+VKHDHS 02.05.(125.7-10)/ atha vaa-aahitaagniH sarvaan agniin araNyaam aaropya sarvaiH saMvaapa.mantraiH paarthivaan vaanaspatyaaMz ca sarvaan samuuhya nirmanthya-etena vidhinaa-agnim agnyaadheya.vidhaanena ca mantraiH sarvaiH sabhyaagny.aayatane zraamaNaka.agnimaadhaaya-\aaharet).
+VKHDHS 02.05.(125.10)/ sabhyasya bhedaH zraamaNaka.agnir ity \aahuH).
+VKHDHS 02.05.(125.10-13)/ a.patniikaz ca bhikSuvad agnau homaM hutvaa-araNyaadi.paatraaNi ca prakSipya putre bhaaryaaM nidhaaya tathaa-agniin aatmany aaropya valkala.upaviita.aadiin bhikSaa.paatraM ca saMgRhya- an.agnir a.daaro gatvaa vane \nivaset).
+VKHDHS 02.05.(125.13-15)/ tapasaaM zramaNam etan muulaM tasmaad etad vidhaanam enam agniM ca zraamaNakam ity \aaha) vikhanaaH.
+VKHDHS 02.06.(125.16-17)/ saMnyaasa.kramaM. saptaty.uurdhvaM vRddho-an.apatyo vidhuro vaa janma.mRtyu.jaraa.aadiin vicintya yoga.arthii yadaa \syaat) tad.
+VKHDHS 02.06.(125.17-18)/ atha vaa putre bhaaryaaM nikSipya paramaatmani buddhiM nivezya vanaat saMnyaasaM \kuryaat).
+VKHDHS 02.06.(125.19-126.4)/ muNDito vidhinaa snaatvaa graamaad baahye praajaapatyaM caritvaa puurvaahNe tri.daNDaM zikyaM kaaSaayaM kamaNDalum ap.pavitraM mRd.grahaNiiM bhikSaa.paatraM ca saMbhRtya trivRtaM praazya- upavaasaM kRtvaa  dine-apare praataH snaatvaa-agnihotraM vaizvadevaM ca hutvaa vaizvaanaraM  dvaadaza.kapaalaM \nirvapet).
+VKHDHS 02.06.(126.4-6)/ gaarhapatya.agnaav aajyaM saMskRtya-aahavaniiye puurNa.aahutii puruSasuuktaM ca hutvaa-agnaye somaaya dhruvaaya dhruva.karaNaaya paramaatmane naaraayaNaaya svaahaa-iti \juhoti).
+VKHDHS 02.07.(126.7-8)/ sruci sruveNa catur gRhiitaM gRhiitvaa sarva.agniSv oM svaahaa-iti \juhuyaad).
+VKHDHS 02.07.(126.8-9)/ agnihotrahavaNiim aahavaniiye mRt.zilaamayebhyo-anyaani  paatraaNI gaarhapatye \prakSipati).
+VKHDHS 02.07.(126.9-10)/ gRhastho-anaahitaagnir aupaasane vanasthaz ca zraamaNaka.agnau homaM hutvaa paatraaNi \prakSipet).
+VKHDHS 02.07.(126.10-12)/ paccho-ardharcazo vyastaaM samastaaM ca saavitriiM japtvaa  bhikSaazramaM pravizaami-iti taM \pravizati).
+VKHDHS 02.07.(126.12-14) antar vedyaaM sthitvaa gaarhapatya.aadiin yaa te agne yajJiya-iti pratyekaM trir aaghraaya bhavataM naH sa.manasaav ity aatmany \aaropayet).
+VKHDHS 02.07.(126.14-16)/ bhuur bhuvaH suvaH saMnyastaM mayaa-iti trir upaaMzu-uccaiz ca praiSam uktvaa dakSiNa.hastena sakRt-jalaM piitvaa-aacamya  tathaa-eva-uktvaa trir jala.aJjaliM \visRjen).
+VKHDHS 02.07.(16-17)/ mekhalaaM catvaary upaviitaany ekaM vaa-upaviitaM kRSNaajinam uttariiyaM ca puurvavad \dadaati).
+VKHDHS 02.08.(126.18-20)/ devasya tvaa yo me daNDaH sakhaa me gopaaya-iti tribhis tri.daNDaM yad asya paare rajasa iti zikyaM yena devaaH pavitreNa- ity appavitraM yena devaa jyotiSa-iti kamaNDalu.mRd.grahaNyaav \aadadiita).
+VKHDHS 02.08.(127.1)/ snaatvaa-aghamarSaNa.suuktena-aghamarSaNaM kuryaat
+VKHDHS 02.08.(127.1-3)/ aacamya SoDaca praaNaayaamaan kRtvaa sahasraM zataM vaa  saavitriiM japtvaa tathaa bhikSaa.paatram alaabu daaravaM mRn.mayaM vaa \gRhNaati).
+VKHDHS 02.08.(127.3-5)  praNava.aady.aadibhiH\cf.Cal p.127n.2) pRthak pRthak sapta.vyaahRtibhis tarpayaami- iti devebhyo jale-adbhis tarpayitvaa-aadyaabhiz catasRbhiH svadhaa-iti pitRbhyas tarpayet 
+VKHDHS 02.08.(127.5-6)/ ud vayaM tamasa ity aadityam \upatiSTheta).
+VKHDHS 02.08.(127.6-7)/ jala.aJjaliM visRjya-abhayaM sarvabhuutebhyo \dadyaad).
+VKHDHS 02.08.(127.7-8)/ adhyaatma.rato yatir bhikSaa.azii niyama.yamaaMz ca samaacaran saMyata.indriyo dhyaana.yogena paramaatmaanam \iikSate).
+VKHDHS 02.09.(127.9)/ dharmyaM sad.aacaaraM.
+VKHDHS 02.09.(127.9-11) niviitii dakSiNe karNe yajJa.upaviitaM kRtvaa-utkaTikam aasiino- ahany udaG.mukho raatrau dakSiNaa.mukhas tRNair antarite muutra.puriiSe \visRjen)-.
+VKHDHS 02.09.(127.11-12)/ nadyaaM goSThe pathi chaayaayaaM bhasmany apsu kuze darbhe vaa na- \aacaret).
+VKHDHS 02.09.(127.12-13) go.vipra.udaka.agni.vaayu.arka.taaraa.induun na pazyan \kuryaat).
+VKHDHS 02.09.(127.13-16) vaama.hastena liGgaM saMgRhya-utthaaya-udakasya paarzve tathaa- aasiino brahmacaarii gRhastho-api zizne dvir hastayoz ca dvir.dvir gude SaTkRtvas- mRdaM dattvaa-uddhRtair eva jalaiH zaucaM \kuryaat).
+VKHDHS 02.09.(127.16-17)/ karaM vaamaM daza kRtvaH karaav ubhau ca tathaa mRdaa-adbhiH \prakSaalayet).
+VKHDHS 02.09.(127.17)/ vanasthasya bhikSoz ca-etad dvi.guNaM \bhavati).
+VKHDHS 02.09.(127.17-18)/ raatrau yathaa.ukta.ardhaM vaa.
+VKHDHS 02.09.(127.18-128.1)/ reto.visarge muutravat-zaucaM kartavyaM. retasas trir ity eke.
+VKHDHS 02.09.(128.1-3)/ sa.upaviitii praaG.mukha udaG.mukho vaa-anyatra-aasitvaa mRdaa-ambunaa puurvavat paadau paaNii ca prakSaalya-aacamya mantreNa- \aacamati).
+VKHDHS 02.10.(128.4-5) braahmaNo hRdgaabhiH kSatriyaH kaNThagaabhir vaizyas taalugaabhir adbhir aacaameta.
+VKHDHS 02.10.(128.5-6)/ aatmaanaM prokSya praty.arkam apo visRjya-arkaM paryety.
+VKHDHS 02.10.(128.6-8)/ udakasya-agner vaama.paarzvaM praaNaan aayamya pratyekam oM.kaaraadi.sapta.vyaahRti.puurvaaM gaayatriim ante sa.ziraskaaM trir \japet). sa praaNaayaamas. triin ekaM vaa praaNaayaamaM kRtvaa puutaH.
+VKHDHS 02.10.(128.8-10) zataM daza aSTau vaa saavitriiM‡japtvaa saayaM.praataH sandhyaam upaasya naizikam aahnikaM ca-eno-\apamRjyate).
+VKHDHS 02.10.(128.10)/ dvijaatiH sandhyaa.upaasana.hiinaH zuudra.samo \bhavati).
+VKHDHS 02.10.(128.11)/ brahmacaarii sva.naama saMkiirtya-abhivaadayed ahaM bho iti.
+VKHDHS 02.10.(128.11-13)/ zrotre ca saMspRzya guroH paadaM dakSiNaM dakSiNena paaNinaa vaamaM vaamena vyatyasya‡jaanvor aapaadam‡upasaMgRhNann aanata.ziirSo-\abhivaadayaty).
+VKHDHS 02.10.(128.14)/ aayuSmaan bhava saumya-ity enaM \zaMsed).
+VKHDHS 02.10.(128.14)/ an.aaziir vaadii na-abhivandyo.
+VKHDHS 02.10.(128.14-15)/ maataa pitaa gurur vidvaaMsaz ca pratyaham abhivaadaniiyaaH.
+VKHDHS 02.11.(128.16)/ anye baandhavaa viproSya pratyaagatya-abhivandyaaH
+VKHDHS 02.11.(128.16-18)/ jyeSTho bhraataa pitRvyo maatulaH zvazuraz ca pitRvat  pitR.Svasaa maatR.Svasaa jyeSTha.bhharyaa bhaginii jyeSThaa ca maatRvat puujitavyaaH.
+VKHDHS 02.11.(128.18-19)/ sarveSaaM maataa zreyasii guruz ca zreyaan.
+VKHDHS 02.11.(128.19-129.1)/ paras triyaM yuvatim aspRzan bhuumaav \abhivaadayed).
+VKHDHS 02.11.(129.1)/ vandyaanaaM vandanaad aayur.jJaana.bala.aarogya.zubhaani \bhavanti).
+VKHDHS 02.11.(129.2)/ yajJa.upaviita.mekhalaa.ajina.daNDaan pareNa dhRtaan na \dhaarayet).
+VKHDHS 02.11.(129.2-4)upaakRtya-an.aalasyaH zuciH praNava.aadyaM vedam adhiiyaano-amaavaasyaayaaM paurNamaasyaaM caturdazyoH pratipador aSTamyoz ca na-adhiiyiita.
+VKHDHS 02.11.(129.4-5)/ nitya.jape home ca-an.adhyaayo na-asti.
+VKHDHS 02.11.(129.5-8)/ maarjaara.nakula.maNDuuka.zva.sarpa.gardabha.varaaha.pazu.aadiSv antaraagateSv ahoraatraM suutaka.pretakayor aazauce taavat kaalaM tisro -aSTakaasu gurau prete ca triraatram an.adhyaayaH \syaat). 
+VKHDHS 02.12.(129.9-10)/ tad.bhaaryaa.putrayoH sva.ziSyasya ca-uparame manuSya.yajJe zraaddha.bhojane ca-ekaaham an.adhyaayaH syaat aapad.aartyor apraayatye.
+VKHDHS 02.12.(129.10-14)/ vRkSa.nau.yaana.zayaneSv aaruuDhaH prasaarita.paado muutra.puriiSa.reto.visarge graame-antaHzave satya.bhakSyaanna.bhojane chardane zmaSaana.deze sandhyaa.stanite bhuu.kampe  dig.daahe-azani.ulkaa.nipaate rudhira.upala.paaMsu.varSe suurya.indu.raahu.grahaNe ca tat tat kaale na-\adhiiyiita).
+VKHDHS 02.12.(129.14-15)/ paratra-iha zreyas.karo vedas. tad adhyetavyo.
+VKHDHS 02.12.(129.15)/ ante visRjya praNavaM \braviiti).
+VKHDHS 02.12.(129.15-16) laukika.agnau samidhau hutvaa bhikSaa.annaM medhaa.pradaM zuddhaM maunii \bhuJjiita).
+VKHDHS 02.12.(129.16-130.3)/ pauSe maaghe vaa msaase graamaad bahir jala.ante puurvavad vratavisarga.homaM hutvaa svaadhyaayam utsRjya pakSe zukle vedaM kRSNe veda.aGgaM ca yaavad antaM samadhiitya guror dakSiNaaM dattvaa samaavartii\syaat).
+VKHDHS 02.13.(130.4-5)/ madhyaahne zuddhe jale mRd.adbhiH paadau hastau ca dhaavayitvaa-aacamya-aGgaani saMzodhya-apaH \punantv) iti jale \nimajjed).
+VKHDHS 02.13.(130.5-7)/ aacaanto vaiSNavair mantrair viSNuM hiraNya.zRGgam iti varuNaM ca praNamya-agha.maRSaNa.suuktena-agha.maRSaNaM kRtvaa-idam aapaH zivaa iti\snaayaad).
+VKHDHS 02.13.(130.7-9) aazramiNaz catvaaraH snaanaM nityam evaM puurva.uktena vidhinaa kaamyaM naimittikaM ca \kurvanti).
+VKHDHS 02.13.(130.9-10)/ dhauta.vastreNa-aachaadya puurvavad aacamya prokSya-aasiinas tiSThan vaa kRta.praaNaayaamaH saavitriiM japtvaa-aadityam \upatiSTheta).
+VKHDHS 02.13.(130.10-14)/ dakSiNa.paaNinaa tiirthena braahmeNa bhuupati.aadiin daivena naaraayaNa.adiin kuupya.adiiMz ca-aarSeNa vizvaamitra.aadiin paitRkeNa pitR.aadiin adbhis tarpayitvaa brahmayajJaM kariSyann ity amiSe tvaa-uurje tvaa-iti yathaa.kaamaM yajuH.saMhitaam aadyaaM striin anuvaakaan svaadhyaayaM \kurviita).
+VKHDHS 02.13.(130.14-15)/ naimittikam RtaM ca satyaM ca-ity aadi.suuktaani catur vedaadi.mantraan vaa-apy \adhiiyiita).
+VKHDHS 02.13.(130.15-16)/ sarvayajJaanaam aadir brahmayajJaH.
+VKHDHS 02.13.(130.16)/ tasmaad upanayana.prabhRty-eva dvijaiH kartavyo.
+VKHDHS 02.13.(130.17-18)/ nadyaaM tiirthe deva.khaate sarasi taTaake vaa saamaanye snaanaM \kuryaat).
+VKHDHS 02.14.(131.1)/ parasya-udake mRt.piNDaan paJca-uddhRtya \snaayaat).
+VKHDHS 02.14.(131.1-2)/ kuupe tat.tiire triH kumbhena-\abhiSiJced).
+VKHDHS 02.14.(131.2)/ ucchiSTo nagno vaa na \snaayaat). tathaa na \zayiita).
+VKHDHS 02.14.(131.3)/ aaturo-apsu na-\avagaaheta).
+VKHDHS 02.14.(131.3-5)/ aaturasya snaane naimittike daza kRtvo dvaadaza kRtvo vaa tam an.aaturo jale -avagaahya-aacamya \spRzet). tataH sa puuto \bhavati).
+VKHDHS 02.14.(131.5-7)/ dvi.kaalaM homa.ante paadau prakSaalya-aacamya-aasane praaG.mukhaH pratyaG.mukhaH vaa sthitvaa caturazra.upalipte maNDale zuddhaM paatraM \nyaset).
+VKHDHS 02.14.(131.7)/ tatra-annaM prakSipya tat \puujayati).
+VKHDHS 02.14.(131.7-9)/ dvau paadaav ekaM vaa bhuumau nidhaaya prasanna RtaM tvaa satyena \pariSiJcaami)-iti saayaM \pariSiJcati). satyaM tv artena \pariSiJcaami)-iti praatar.
+VKHDHS 02.14.(131.9-11)/ amRta.upastaraNam asi-ity aadhaavaM piitvaa vidhinaa praaNa.aahutiir hutvaa-annam anindann \aznaati).
+VKHDHS 02.14.(131.11) bhuktvaa-amRta.apidhaanam asi-ity apaH piitvaa-aacamya-\aacaamed).
+VKHDHS 02.14.(131.11-12)/ eka.vaasaaH zayaanas tiSThann a.snaana.japa.homii zuSka.paada udaG.mukho vaa na-\aznaati).
+VKHDHS 02.14..(131.13)/ bhinna.paatre-annaM paryuSitaM zayana.aasana.utsaGga.sthaM vaa na \bhuJjiita).VKHDHS 02.14.(131.13-14)/ aJjalinaa-apo na \pibed).
+VKHDHS 02.14.(131.14-15)/ ucchiSTa.azucy.aazauci.patitataiH spRSThaM suutaka.pretake ca-annaM na-\azniiyaat).
+VKHDHS 02.15.(132.1)/ tila.saktu.dadhi.laajaM ca raatraav abhakSyam.
+VKHDHS 02.15.(131.1-2)/ annaM paryuSitam aajyena dadhnaa vaa yuktaM bhojyaM.
+VKHDHS 02.15.(131.2-3)/ krimi.keza.kiiTa.yutaM gavaa.ghraataM pakSi.jagdhaM ca  bhasma.adbhiH prokSitaM zuddhaM.
+VKHDHS 02.15.(131.3-5) zva.kaakaady.upahate bahvanne  tasmin  puruSa.aazamana.maatraM tatra-eva-uddhRtya vyapohya pavamaanaH suvarjana iti bhasma.jalaiH prokSya darbha.ulkayaa sparzayitvaa \gRhNiiyaat).
+VKHDHS 02.15.(132.6-7)/ prasuute-antar.dazaahe go.kSiiraM sadaa-ekazapha.uSTra.striiNaaM payaz ca pala.aNDuka.vakala.zuna.gRJcana.viDjam anuktaM (reading uncertain Cal p.132n.1)/ matsya.maaMsaM ca varjaniiyaM.
+VKHDHS 02.15.(132.8)/ yajJa.ziSTaM maaMsaM bhakSaNiiyam.
+VKHDHS 02.15.(132.8-9)/ udakyaa.spRSTaM zuudra.anulomaiH spRSTaM teSaam annaM ca \varjayet).
+VKHDHS 02.15.(132.9-10)/ svadharma.anuvartinaaM zuudra.anulomaanaam aamaM kSudhitasya saMgraahyaM.
+VKHDHS 02.15.(132.10-11)/ sarveSaaM pratiloma.antaraala.vraatyaanaam aamaM pakvaM ca kSudhito-api yatnaan na \gRhNiiyaat).
+VKHDHS 02.15.(132.11-12)/ taiH spRSTi.saMmizraM para.pakvaM ca \saMtyajati).
+VKHDHS 02.15.(132.12-13) nityaM zruti.smRti.uditaM karma kurvan mano.vaak.kaaya.karmabhiH zanair dharmaM \samaacarati).
+VKHDHS 03.01.(133.1-2)/ gRhastha.aazramii dve yajJa.upaviite vaiNavaM daNDaM kamaNDaluM ca \dhaarayet).
+VKHDHS 03.01.(132.2-3)/ snaatvaa sa.bhaaryo gRhya.agnau gaarhyaaNi karmaaNi zrauta.agniSu zrautaani \kuryaat).
+VKHDHS 03.01.(133.3-4)/ saayaM ca homa.ante-atithiin abhyaagataan praazayitvaa mitaM praazya patnyaa \zayiita).
+VKHDHS 03.01.(133.4-5)/ aardra.paadaH pratyaguttara.ziraaz na \svapity)-.
+VKHDHS 03.01.(133.5)/ Rtu.raatriSu svabhaaryaam \upagacched).
+VKHDHS 03.01.(133.5-6) aadau tri.raatram Rtumatii.gamana.sahaasana.zayanaani \varjayet).
+VKHDHS 03.01.(133.6-7)/ paradaaraan na \saMgacchet).
+VKHDHS 03.01.(133.7)/ paradaara.gamanaad aayuH zriir brahma.varcasaM \vinazyati).
+VKHDHS 03.01.(133.7-8)/ bhaaryayaa saha na-\aznaaty).
+VKHDHS 03.01.(133.8)/ aznantiiM taaM jRmbhamaaNaaM nagnaaM ca na-\avalokayet).
+VKHDHS 03.01.(133.9)/ asatyavaadaM \varjayaty).
+VKHDHS 03.01.(133.9)/ asatyaat paraM paapaM satyaat paro dharmaz ca na-\asti).
+VKHDHS 03.01.(133.10-11) sarvapraaNi.hito-adroheNa-eva \jiivec)-zuddha.arthavaan kusuula.dhaanyaH kumbhii.dhaanyo-a.zvastaniko vaa \syaat).
+VKHDHS 03.01.(133.11-12)/ dvijaatiH patita.antyajaataan na \spRzed).
+VKHDHS 03.01.(133.12)/ udaye-astamaye ca suuryaM na-\iikSeta).
+VKHDHS 03.01.(133.12-13)/ deva.guru.vipra.ghRta.kSiira.dadhi.mRt.toya.samid.darbha.agni.vanaspatiin pradakSiNaM \gacchet).
+VKHDHS 03.02.(133.14)/ snaataka.raaja.guru.zreSTha.rogi.bhaarabhRd.antarvatniinaaM deyo.\(Cal reads jyeSTha inst. of zreSTha, Tr.p.214n.1)
+VKHDHS 03.02.(133.15)/ vaata.arka.razmibhiH panthaanaH \zudhyanti).
+VKHDHS 03.02.(133.15-16)/ parasya-aasana.zayanaany adattaani na-\upayuJjiita).
+VKHDHS 03.02.(133.16)/ adatteSu-upayukteSu svapuNya.caturthaaMzo \jahaati).
+VKHDHS 03.02.(133.17)anya.upayuktaani vastra.maalya.upaanaT.chattraaNi na-eva \dhaarayed).
+VKHDHS 03.02.(133.17-19)/ agnau paadaM na \taapayen)/ na-enaM mukhena \dhamen) napaadena \spRzed)/ adhaH paadato na \kuryaad).
+VKHDHS 03.02.(133.19-134.1)/ agnaav agniM‡jalaM vaa deva.aalaye-agnau jale ca muutra.puriiSa.puuya.zoNita.retaH.zleSma.ucchiSTa.aGganiSpeSaan na \prakSipet).
+VKHDHS 03.02.(134.1-2)/ nagnaaM paras triyaM viN.muutre ca na \pazyed).
+VKHDHS 03.02.(134.2-3)/ ucchiSTo deva.arka.candra.graha.RkSa.taaraa na \-iikSeta).
+VKHDHS 03.02.(134.3-4)/ deva.guru.snaataka.diikSita.raaja.go.zreSThaanaaM chaayaaM na- \aakramati).
+VKHDHS 03.02.(134.4)/ indradhanuH parasmai na \darzayen) na \vadet).
+VKHDHS 03.02.(134.4-5)/ svapantaM na-\avabodhayed).
+VKHDHS 03.02.(134.5)/ eko-adhvaanaM na \gacchet).
+VKHDHS 03.02.(134.5-6)/ parakSetre carantiiM gaaM dhayantaM vatsaM ca na \vaarayen)/ na- eva-\aacakSiita).
+VKHDHS 03.02.(134.6)/ jiirNa.mala.vaasaa na \syaat).VKHDHS 03.03.(134.7)/ akSaiH kriiDaaM preta.dhuumaM baala.aataapaM ca \varjayet).
+VKHDHS 03.03.(134.7-9)/ keza.roma.tuSa.aGgaara.kapaala.asthi.viN.muutra.puuya.zoNita.retaH.zleSma.ucchiSTaan na-\adhitiSThet).
+VKHDHS 03.03.(134.9-10) amedhya.lipte-aGge yaavat tat.lepa.gandha.manaHzaGkaa  na \syaat)/ taavan mRt.toyaiH \zodhayet).
+VKHDHS 03.03.(134.10-11) patita.antyaja.muurkhaa.dhaarmika.vairibhiH saardhaM  na \vased).
+VKHDHS 03.03.(134.11)/ ucchiSTo-azucir vaa deva.go.vipra.agniin na \spRzet).
+VKHDHS 03.03.(134.11-12)/ devaan vedaan raaja.guru.maataa.pitRRn vidvad.braahmaNaan na- \avamanyeta)/ na \ninded).
+VKHDHS 03.03.(134.12-13)/ avamantaa nindakaz ca \vinazyati).
+VKHDHS 03.03.(134.13-14)/ sarvabhuuta.kutsaaM taaDanaM ca na \kurviita).
+VKHDHS 03.03.(134.14-15) guruNaa maataa.pitRbhyaaM tat.pitR.aadyair bhraatR.pitR.bhraatR.maatula.aacaarya.Rtvij.aadyair vivaadaM na-\aacaret).
+VKHDHS 03.03.(134.15-16)/ sarva.zuddhiSu puruSasya-artha.zuddhiH strii.zuddhir anna.zuddhiz ca zreSThatamaa \syaat).
+VKHDHS 03.03.(134.16-135.1) dravyeSu ratna.sauvarNa.rajata.mayaany adbhiH \zodhayaty)/ agnau vaa \sparzayati).
+VKHDHS 03.03.(135.1-3)/ taamra.trapu.siisa.aayasa.aadyaany amla.vaaribhir daaru.danta.jaataani takSaNaad dhaavanaad vaa yajJa.paatraaNi dakSiNa.paaNinaa maarjanaat kSaalanaad vaa saMzodhyaani. 
+VKHDHS 03.04.(135.4-5) carmamaya.saMhataani vastraaNi zaaka.muula.phalaani ca \prokSayed)/ alpaani \kSaalayet).
+VKHDHS 03.04.(135.5-6)/ ghRta.aadiini dravyaaNy utpuuya-ulkayaa \darzayet).
+VKHDHS 03.04.(135.6-9)/ kauzeya.aavikaany uuSair aMzutaTTaani\(Cal reads aMzupaTTa- in his tr. p.216)/ zriiphalaiH zaGkha.zukti.gozRGgaaNi sarSapaiH sa.vaaribhir mRtmayaani punar daahena gRhaM maarjana.upalepana.apsekair bhuumiM khananaad anyamRt.puuraNa.govaasaka.aadyair maarjana.aadyaiz ca \zodhayed).
+VKHDHS 03.04.(135.9)/ gotRpti.karaM bhuu.gataM toyaM doSa.vihiinaM su.puutaM.
+VKHDHS 03.04.(135.9-10)/ vaak.zastaM vaari.nirNiktam adRSTaM.
+VKHDHS 03.04.(135.10-11) yoSid.aasyaM kaaru.hastaH prasaarita.paNyaM ca sarvadaa zuddhaM.
+VKHDHS 03.04.(135.11)/ zakuni.ucchiSTaM phalam anindyaM.
+VKHDHS 03.04.(135.11-12)/ mazaka.makSikaa.niliinaM tad.vipruSaz ca na duuSyaaNi.
+VKHDHS 03.04.(135.12-13)/ vaayu.agni.suuryarazmibhiH spRSTaM ca medhyam.
+VKHDHS 03.04.(135.13-14)/ aature baale pacana.aalaye ca zaucaM na vicaaraNiiyaM yathaa.zakti \syaad).
+VKHDHS 03.04.(135.14)/ viN.muutraabhyaaM bahu.aapo na duuSyaaH.
+VKHDHS 03.04.(135.14-15) parasya-aacaamatas toya.bindubhir bhuumau nipatya-udgataiH paada.spRStair aacaamayan na-azuciH syaat.
+VKHDHS 03.05.(136.1-2)/ vaanaprastho nitya.svaadhyaayii kuza.idhma.aadiin agni.arthaM zaaka.muula.phalaany azana.arthaM ca zucau jaataany \aahared).
+VKHDHS 03.05.(136.2-3)/ anya.adhiinam anya.utsRSTam azucau jaataM gorasaM ca \varjayet).
+VKHDHS 03.05.(136.3)/ dhaanya.dhana.saMcayaM na \kurviita).
+VKHDHS 03.05.(136.4)/ vastraM na-\aachaadayet).
+VKHDHS 03.05.(136.4)/ madhu.ukte toyaM maaMsa.ukte paiSTikaM \gRhNaati).
+VKHDHS 03.05.(136.5-9)/ sarvabhuuteSu dayaaluH samaH kSaantaH zucir nir.asuuyakaH sukhe niH.spRho  maGgalya.vaaNi.iirSyaa.kaarpaNya.varjii matsya.aadiin daMzakaan siira.kRSTa.jaataani kanda.muula.phala.zaaka.aadiini ca  tyajan-jaTaa.zmazru.roma.nakhaani dhaarayaMs trikaala.snaayii dharaa. aazayo vanyair eva caru.puroDazaan \nirvapet).
+VKHDHS 03.05.(136.9-11)/ palaaNDu.aadiin niryaasaM zvetavRntaakaM suniSaNNakaM zleSmaatakaM vrajakaliM citrakaM zigruM bhuus tRNaM kovidaaraM muulakaM ca \varjayati).
+VKHDHS 03.05.(136.11-12)/ muneH sarvaM maaMsaM gomaaMsa.tulyaM dhaanya.aamlaM suraa.samaM \bhavati).
+VKHDHS 03.05.(136.12)/ puurvasaMcita.aazanaM puurvaaNi vasanaany aazvayuje maasi \tyajati).
+VKHDHS 03.05.(136.13)/ veda.vedaantena dhyaana.yogii tapaH \samaacarati).
+VKHDHS 03.05.(136.13-137.2)/ a.patniiko-an.agnir a.daaro-a.niketano vRkSamuule vasan vanastha.aazrameSu gRhasthaanaaM gRheSu vaa bhikSaaM bhikSitvaa-ambu.paarzve zuddhe parNe praaNayaatraa.maatram annaM bhikSuvad \aznaati).
+VKHDHS 03.05.(137.2)/ zariiraM zoSayann uttaram uttaraM tiivraM tapaH \kuryaat).
+VKHDHS 03.06.(137.4)/ bhikSuH snaatvaa nityaM praNavena-aatmaanaM \tarpayet).VKHDHS 03.06.(137.4-5)/ tena-eva \namaskuryaat).
+VKHDHS 03.06.(137.5-6)/ SaD avaraan praaNaayaamaan kRtvaa zata.avaraaM saavitriiM japtvaa sandhyaam \upaasiita).
+VKHDHS 03.06.(137.6)/ ap.pavitreNa-utpuutaabhir adbhir \aacaamet).
+VKHDHS 03.06.(137.6-7)/ kaaSaaya.dhaaraNaM sarva.tyaagaM maithuna.varjanam astainya.aadiin apy-\aacaret).
+VKHDHS 03.06.(137.7-10)/ a.sahaayo-an.agnir a.niketano niH.saMzayii saMmaana.avamaana.samo vivaada.krodha.lobha.moha.anRta.varjii graamaad bahir vivikte maThe deva.aalaye vRkSamuule vaa \nivaset).
+VKHDHS 03.06.(137.10)/ caaturmaasaad anyatra-ekaahaad uurdhvam ekasmin deze na \vased).
+VKHDHS 03.06.(137.10-11)/ varSaaH zarac caaturmaasyam ekatra-eva \vaset).
+VKHDHS 03.06.(137.11-13)/ tridaNDe kaaSaaya.ap.pavitra.aadiin yojayitvaa kaNThe vaama.hastena dhaarayan dakSiNena bhikSaa.paatraM gRhiitvaa-ekakaale vipraaNaaM zuddhaanaaM gRheSu vaizvadeva.ante bhikSaaM \caret).
+VKHDHS 03.06.(137.14)/ bhuumau viikSya jantuun pariharan paadaM \nyased).
+VKHDHS 03.06.(137.14-15)/ adho.mukhas tiSThan bhikSaam \aalipsate).
+VKHDHS 03.07.(137.16)/ godohana.kaala.maatraM tad.ardhaM vaa sthitvaa \vrajed).
+VKHDHS 03.07.(137.16-17)/ alaabhe-apy-avamaane-apy-aviSaadii labdhe saMmaane-apy a.saMtoSii \syaat).
+VKHDHS 03.07.(137.17-18)/ drutaM vilambitaM vaa na \gacchet).
+VKHDHS 03.07.(137.18)/ bhikSaa.kaalaad anyatra para.vezma na gantavyaM.
+VKHDHS 03.07.(137.19)/ bhikSituM krozaad uurdhvaM na \gacchet).
+VKHDHS 03.07.(137.19-138.3))/ bhikSaaM caritvaa toya.paarzve prakSaalita.paaNi.paada- aacamya-ud u tyam ity-aadityaaya-ato devaa iti viSNave brahma jajJaam iti brahmaNe ca bhikSaa.agraM dattvaa sarvabhuutebhya-iti baliM \prakSipet).
+VKHDHS 03.07.(138.3-4)/ paaNinaa-agnihotra.vidhaanena-aatmayajJaM saMkalpya praaNayaatraa.maatram aSTau graasaan vaa-\azniiyaat). kaamaM na-\aznaati).
+VKHDHS 03.07.(138.5)/ vastra.puutaM jalaM piitvaa-aacamya-\aacaamati).
+VKHDHS 03.07.(138.5)/ nindaa.krozau na \kurviita).
+VKHDHS 03.07.(138.6)/ bandhuuJ jJaatiiMs \tyajed).
+VKHDHS 03.07.(138.6)/ vaMza.caaritraM tapaH zrutaM na \vadet).
+VKHDHS 03.07.(138.6-8) saGgaM tyaktvaa niyama.yamii priyaM satyaM vadan sarvabhuutasya-avirodhii samaH sadaa-adhyaatma.rato dhyaana.yogii naaraayaNaM paraM brahma pazyan dhaaraNaaM \dhaarayed).
+VKHDHS 03.07.(138.8-9)/ akSaraM brahma-\aapnoti).
+VKHDHS 03.07.(138.9)/ naaraayaNaH paraM brahma-iti zrutiH.
+VKHDHS 03.08.(138.10-13)/ saMnyaasino-an.aahitaagner dehaM mRtaM putro-anyo vaa tRNair antariikRtya zuddhair braahmaNair yantreNa vaa saMnidhaaya samudra.gaamyaaM nadyaaM tiire vaa saikate deze sRgaala.aadibhir aspRzyaM yathaa tathaa-avaTaM \khanati).
+VKHDHS 03.08.(138.13-139.1)/ gaayatryaa snaapayitvaa tathaa tatra-aasayitvaa zaayayitvaa vaa dakSiNe haste vaiSNavair mantrais tri.daNDaM saMnyasya savye yad asya paare rajasa iti zikyam ap.pavitram udare saavitryaa bhikSaa.paatraM guhyapradeze bhuumir bhuumim iti kaaSaayaM mRd.grahaNiiM kamaNDaluM ca saMnyasya \pidadhyaat.
+VKHDHS 03.08.(139.1-2) tasmin sRgaala.aadibhiH spRSTe tat.kartaa paapiiyaan \bhavati).
+VKHDHS 03.08.(139.2-6)/ aahitaagner agniin aatmany aaropya saMnyasino mRtaM dehaM gaayatryaa snaapayitvaa puurvavad vaahayitvaa zuddhe deze  nidhaaya laukika.agnau tad agnim \upaavaroha)-ity avaropya pavitraM ta-iti ghRta.kSiiram aasye prakSipya puurvavat tri.daNDa.aadiin vinyasya brahmamedhena pitRmedhena vaa-aahitaagni.mantrais tad.agnibhir dahanam \aacarati).
+VKHDHS 03.08.(139.7) tayor aazauca.udaka.bali.piNDa.daana.ekoddiSTa.aadiin na-eva \kuryaat).
+VKHDHS 03.08.(139.8)/ naaraayaNa.baliM \karoti).
+VKHDHS 03.08.(139.8-9)/ tad.vahanaM khanitvaa pidhaanaM dahanaM naaraayaNa.baliM vaa yaH \kuryaat)/ so-azvamedha.phalaM \samaapnuyaat).
+VKHDHS 03.09.(139.10-14) naaraayaNa.baliM naaraayaNaad eva sarvaartha.siddhir iti brahmaNa.aadyair narair hatasya-aatma.ghaatino rajju.zastra.udaka.azani.daMSTri.pazu.sarpa.aadibhiH sarvapaapa.mRtasya-adaahyaanaam anyeSaaM bhikSoz ca-ekaadaza.dinaad uurdhvaM mahaapaatakinaaM paJcaanaaM dvaadaza.saMvatsaraad uurdhvaM sapiNDiikaraNa.sthaane mRtaka.artham aparapakSe dvaadazyaaM zravaNe vaa \karoti).
+VKHDHS 03.09.(139.14-15)/ puurve-ahani dvaadaza braahmaNaan \nimantrayed).
+VKHDHS 03.09.(139.15-16)/ apare-ahani viSNor aalaya.paarzve nadii.tiire gRhe vaa-agni.aayatanaM kRtvaa-aaghaaraM \juhuyaad).
+VKHDHS 03.09.(139.16-150.2)/ agniM paristiirya-agner vaayavyaaM viSTare darbheSu tad.ruupaM suvarNaM vaa saMsthaapya puruSaM dhyaayann oM bhuuH puruSam ity -aadyaiH praaG.mukhaM devaM naaraayaNam aavaahya-aasana.paadya.aacamanaani \dadyaat).
+VKHDHS 03.09.(140.2-4)/ puruSasuuktena \snaapayitvaa) naaraayaNaaya \vidmaha)-ity aSTaakSara.mantreNa vaa vastra.uttariiya.aabharaNa.paadya.aacamana.puSpa.gandha.dhuupa.diipa.akSata.aacamanair \arcayati).
+VKHDHS 03.10.(140.5)/ kezava.aadyair dvaadaza.naamabhir adbhis \tarpayet).
+VKHDHS 03.10.(140.5-6)/ pariSicya sahasraziirSa.aadyair viSNor nuka.aadyair dvaadaza.naamabhiz ca-aajyaM caruM \juhuyaat).
+VKHDHS 03.10.(140.7-8)/ guDa.aajya.phala.yuktaM paayasaM havir viSNu.gaayatryaa deva.iizaaya nivedya paadya.aacamana.mukha.vaasaM \dadyaat).
+VKHDHS 03.10.(140.8-13) agner dakSiNe darbheSu-uutara.agreSu dakSiNaady \arcayitvaa)/ naaraayaNaaya sahasraziirSaaya sahasraakSaaya sahasrapaadaaya paramapuruSaaya paramaatmane paraMjyotiSe parabrahmaNe- avyaktaaya sarvakaaraNaaya yajJa.iizvaraaya yajJaatmane vizvebhyo devebhyaH sarvaabhyo devataabhyaH saadhyebhya-ity antaiH paayasaM baliM \dattvaa)- aajyam ebhir\juhoti).
+VKHDHS 03.10.(140.13-16) braahmaNaan paadau prakSaalya navaani vastra.uttariiya.aabharaNaani dattvaa puSpa.aadyaiH puujayitvaa dvaadaza.muurtiM dhyaayann upadaMza.ghRta.guDa.dadhi.phala.yuktaM zvetam annaM bhojayitvaa yathaa.zakti suvarNaM dakSiNaaM \dadaati).
+VKHDHS 03.10.(140.16-141.1)/ sahasraziirSa.aadyaiH stutvaa dvaadaza.naamabhiH \praNamed). anta.homaM \juhoty).
+VKHDHS 03.10.(141.1-2)/ abhiiSTaaM paraaM gatiM sa gatvaa viSNor loke \mahiiyate).
+VKHDHS 03.11.(141.3-4)/ caaturvarNya.saMkareNa-utpannaanaam anuloma.pratiloma.antaraala.vraatyaanaam utpattiM naama vRttiM ca.-
+VKHDHS 03.11.(141.4-5)/ uurdhvajaataad adhojaataayaaM jaato-anulomo.-
+VKHDHS 03.11.(141.5)/ adhara.utpannaad uurdhvajaataayaaM jaataH pratilomas.
+VKHDHS 03.11.(141.5-6)/ tato-anulomaad anulomyaaM jaato-antaraalaH.
+VKHDHS 03.11.(141.6-7)/ pratilomaat pratilomyaaM jaato vraatyo \bhavati).
+VKHDHS 03.11.(141.7-8)/ brahmaNo mukhaad udbhuutaa braahmaNaa braahmaNyaz ca brahma.RSayaH patnyo \babhuuvus).
+VKHDHS 03.11.(141.8-9)/ teSaaM gaatra.utpannaad braahmaNyaaM a.sagotraayaaM vidhinaa sa.mantrakaM gRhiitaayaaM jaato braahmaNaH zuddho \bhavet).
+VKHDHS 03.11.(141.10-11) vidhi.hiinam anya.puurvaayaaM golako‡jiivabhartRkaayaaM kuNDaz ca viprau dvau ninditau \syaataaM ).
+VKHDHS 03.11.(141.11-12)/ tasmaad adho baahubhyaam‡utpannaat kSatriyaat kSatriyaayaaM vidhivat-jaataH kSatriyaH zuddhas.
+VKHDHS 03.11.(141.12-14)/ tayor a.vidhikaM guuDha.utpanno-azuddho bhoja.aakhyo na-eva-\abhiSecyaH). paTTa.bandho raajJaH sainaapatyaM \karoti).
+VKHDHS 03.11.(141.14-15)/ zuddha.abhaave-a.paTTa.bandho nRRn \paayaat.
+VKHDHS 03.11.(141.15)/ tad.vRttaM raajavat \syaat).
+VKHDHS 03.11.(141.15-142.1)/ adhastaad uurubhyaam‡utpannaad vaizyaad vaizyaayaaM tathaa vaizyaH zuddho.
+VKHDHS 03.11.(142.1-2)/ vidhi.varjaM maNikaaro-azuddho maNi.muktaadi.vedhaH zaGkha.valaya.kaarii \syaat).
+VKHDHS 03.12.(142.3)/ atha padbhyaam utpannaat-zuudraat-zudraayaaM nyaayena zuudraH zuddhaH.
+VKHDHS 03.12.(142.4-5)/ jaaraan maalavako ninditaH zuudro-azvapaalo-azva.tRNa.haarii ca.-
+VKHDHS 03.12.(142.5)/ ity ete caaturvarNikaas.
+VKHDHS 03.12.(142.5-6)/ teSaam eva saMskareNa-utpannaaH sarve-anuloma.aadyaaH.
+VKHDHS 03.12.(142.6-7)/ braahmaNaat kSatriya.kanyaayaaM jaataH savarNo-anulomeSu mukhyo.
+VKHDHS 03.12.(142.7-8) asya vRttir aatharvaNaM karma.azva.hasti.ratha.saMvaahanam aarohaNaM rajJaH sainaapatyaM ca-aayurveda.kRtyaM.
+VKHDHS 03.12.(142.8)/ guuDha.utpanno-abhiniSakta.aakhyo-.
+VKHDHS 03.12.(142.9)/ abhiSiktaz cet-nRpo bhuuyaad aSTaaGgam aayurvedaM bhuuta.tantraM vaa \saMpaTet).
+VKHDHS 03.12.(142.9-11) tad.ukta.aacaaro dayaa.yuktaH satya.vaadii tad.vidhaanena sarvapraaNi.hitaM \kuryaat).
+VKHDHS 03.12.(142.11)/ jyotir gaNana.aadika.adhika.vRttir vaa.
+VKHDHS 03.12.(142.11-12)/ vipraad vaizyaayaam ambaSThaH kakSyaajiivya.aagneyanartako dhvajavizraavii zalya.cikitsii.
+VKHDHS 03.12.(142.13)/ jaraat kumbhakaaraH kulaala.vRttir na-aapito naabher uurdhva.vaptaa ca.
+VKHDHS 03.12.(142.14-15)/ kSatriyaad vaizyaayaaM madguH zreSThitvaM praapto mahaanarma.aakhyaz ca vaizya.vRttiH kSaatram karma na-\aacarati).
+VKHDHS 03.12.(142.15)/ guuDhaad aazviko-azva.kraya.vikrayii \syaat).
+VKHDHS 03.13.(143.1-2)/ vipraat-zuudraayaaM paarazavo bhadrakaalii.puujana.citrakarma.aGgavidyaa.tuuryaghoSaNa.mardana.vRttir.
+VKHDHS 03.13.(143.2-3)/ jaara.utpanno niSaado vyaaDaadi.mRgahiMsaa.kaarii.
+VKHDHS 03.13.(143.3)/ raajanyataH zuudraayaam ugraH sudaNDya.daNDana.kRtyo.
+VKHDHS 03.13.(143.3-4)/ jaaraat-zuulikaH zuulaarohaNaadi.yaatanaa.kRtyo.
+VKHDHS 03.13.(143.4-5)/ vaizyataH zuudraayaaM cuucukaH kramukata.ambuula.zarkaraadi.kraya.vikrayii.
+VKHDHS 03.13.(143.5-6)/ guuDhaat kaTakaaraH kaTakaarii ca-iti.
+VKHDHS 03.13.(143.6-7)/ tato-anulomaad anulomaayaaM jaataz ca-anulomaH pitur maatur vaa jaataM vRttiM \bhajeta).
+VKHDHS 03.13.(143.7-9)/ kSatriyaad viprakanyaayaaM mantravat- jaataH suutaH pratilomeSu mukhyo-ayaM mantrahiina.upaniito dvijadharma.hiino.
+VKHDHS 03.13.(143.9)/ asya vRttir dharma.anubodhanaM raajJo-anna.saMskaaraz ca.
+VKHDHS 03.13.(143.10-11)/ jaareNa mantrahiina.jo rathakaaro dvijatva.vihiinaH zuudra.kRtyo- azvaanaaM poSaNa.damanaadi.paricaryaa.jiivii.
+VKHDHS 03.13.(143.11-13)/ vaizyaad braahmaNyaaM maagadhaH. zuudrair apy abhojyaan no- aspRzyaH sarvavandii prazaMsaa.kiirtana.gaana.preSaNa.vRttir.
+VKHDHS 03.13.(143.13)/ guuDhaac cakrii lavaNa.taila.vikretaa \syaat).
+VKHDHS 03.14.(143.14-15)/ vaizyaan nRpaayaam aayogavas tantu.vaayaH paTa.kartaa vastra.kaaMsya.uapjiivii.
+VKHDHS 03.14.(143.15)/ guuDha.aacaaraat pulindo-araNya.vRttir duSTamRga.sattva.ghaatii.
+VKHDHS 03.14.(143.16-17)/ zuudraat kSatriyaayaaM pulkasaH kRtakaaM vaa aarkSaaM vaa suraaM \hutvaa) paacako \vikriiniita).
+VKHDHS 03.14.(143.17)/ cora.vRttaad velavo janbhana.nartana.gaana.kRtyaH.
+VKHDHS 03.14.(144.1-2)/ zuudraad vaizyaayaaM vaidehakaH zuudra.aspRzyas tair apy abhojya.anno vanya.vRttir aja.mahiSa.gopaalas tad.rasaan vikrayii.
+VKHDHS 03.14.(144.2-3)/ cauryaac cakriko lavaNa.taila.piNyaaka.jiivii.
+VKHDHS 03.14.(144.3-6)/ zuudraad braahmaNyaaM caNDaalaH siisaka.aalaayasa.aabharaNo vardhraa.bandha.kaNThaH kakSe‡jhallarii.yukto yatas tataz caran sarvakarma.bahiSkRtaH puurvaahNe graama.aadau viithyaam anyatra-api malaany apakRSya bahir \apohayati).
+VKHDHS 03.14.(144.6)/ graamaad bahir duure svajaatiiyair \nivaset).
+VKHDHS 03.14.(144.6-7)/ madhyaahnaat paraM graame na \vizaty)/ ayaM.
+VKHDHS 03.14.(144.7)/ \vizec) ced raajJaa vadhyo.
+VKHDHS 03.14.(144.7-8)/ anyathaa bhruuNahatyaam \avaapnoty).
+VKHDHS 03.14.(144.8)/ antaraal.vratyaaz ca.
+VKHDHS 03.14.(144.8-10)/ cuucukaad vipraayaaM takSako-aspRzyo jhallarii.hasto daarukaaraH  suvarNakaaro-ayaskaaraH kaaMsyakaaro vaa.
+VKHDHS 03.14.(144.10)/ kSatriyaayaaM matsya.bandhur matsyabandhii.
+VKHDHS 03.14.(144.10-11)vaizyaayaaM saamudraH samudrapaNya.jiivii matsya.ghaatii ca \syaat).
+VKHDHS 03.15.(144.12-13)/ ambaSThaad vipraayaaM naavikaH samudrapaNya.matsya.jiivii samudra.laGghanaaM naavaM \plaavayati).
+VKHDHS 03.15.(144.13-14)/ kSatriyaayaam adhonaapito naabher adho roma.vaptaa.
+VKHDHS 03.15.(144.14)/ madgor vipraayaaM veNuko veNu.viiNaa.vaadii.
+VKHDHS 03.15.(144.14-15)/ kSatriyaayaaM karmakaraH karmakaarii.
+VKHDHS 03.15.(144.15)/ vaidehakaad vipraayaaM carmakaaraz carma.jiivii.
+VKHDHS 03.15.(144.16)/ nRpaayaaM suucikaH suucii.vedhana.kRtyavaan.
+VKHDHS 03.15.(144.16-17)/ aayogavaad vipraayaaM taamras taamra.jiivii.
+VKHDHS 03.15.(144.17)/ nRpaayaaM khanakaH khanana.jiivii.
+VKHDHS 03.15.(144.17-18) khananaan nRpaayaam udbandhakaH zuudra.aspRzyo vastra.nirNejakaH.
+VKHDHS 03.15.(144.18-19)/ pulkasaad vipraayaaM rajako vastraaNaaM rajo.nirNejakaz .
+VKHDHS 03.15.(144.19-145.2)/ caNDaalaad vipraayaaM zvapacaH caNDaalavac cihna.yukto nitya.nindyaH sarvakarma.bahiSkaaryo nagaryaadau mala.apohakaH zmazaane \vasan) heyapaatra.graahii pretam abandhukaM \visRjeta).
+VKHDHS 03.15.(145.3-4)/ vadhyaan hatvaa tad.vastraadi.graahii paraadhiina.aahaaro bhinnapaatra.bhojii zvamaaMsa.bhakSii carma.vaara.vaaNa.vaaNijya.kaarii \syaat).
+VKHDHS 03.15.(145.4-5)/ tasmaan nikRSTe sute samutpanne patito naSTo ghoraan narakaan \vrajati).
+VKHDHS 03.15.(145.5-6)/ sat.putro narakebhyas traayakaH pitRRn \paavayitvaa)/ zubhaaMl lokaan \nayati).
+VKHDHS 03.15.(145.6-8)/ tasmaad braahmaNaadyaaH savarNaayaaM vidhivat putram \utpaadayeyur)-iti vikhanaaH.
+
+ End of the text.

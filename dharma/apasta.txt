@@ -1,0 +1,1417 @@
+==-========================================================================
+| The coding of the following text was a part of the project of the Joint |
+| Seminar on `Law (dharma) and Society in Classical India' headed by Prof.|
+| Y. Ikari at the Institute for Research in Humanities, Kyoto University. |
+| The text may be freely distributed and used for scholarly purposes, but |
+| we are not responsible for any trouble which might be caused by the use |
+| of this file.  Suggestions for corrections are most welcome.          Å@|
+| Please contact yanom@cc.kyoto-su.ac.jp or ikari@zinbun.kyoto-u.ac.jp    |
+===========================================================================
+
+                        === AAPASTAMBA DHARMASUUTRA ===
+
+Input by Y.Ikari; Proofed and KSS variants are added by K.Kano
+March  1992.
+Revised by Ikari (compound with a. & an.)  June 1994.
+
+Text of aapastamba dharmasuutra(AP) based upon B\"uhler's edition (Bombay 
+Sanskrit Seires Nos.LIV and L), 3rd ed. 1932. 
+Variant reading is in the parenthesis after the end of each suutra, according 
+to Kashi Sanskrit Seires No.93 (K) edited by A.Chinnaswami, Benares 1932.
+
+Examples :
+1) ---- aaaaa# ---- / ( K bbbbb )
+   KSS reads "bbbbb" instead of "aaaaa".
+2) ---- aaaaa# bbbbb# --- / ( K ccccc.ddddd )
+   KSS reads "ccccc.ddddd" instead of "aaaaa bbbbb". 
+3) --- aaaaa#1 ----- bbbbb#2 ( K 1:ccccc, 2:ddddd )
+   KSS reads "ccccc" instead of "aaaaa", and "ddddd" instead of "bbbbb".
+4) Ap.a.a.a.5 ----- / ( = K 6 )
+   a.a.a.5 in BSS corresponds a.a.a.6 in KSS.
+5) Ap.a.a.a.5 ---- / ( = K 5+6 )
+   a.a.a.5 in BSS corresponds a.a.a.5 and a.a.a.6 in KSS.
+6) Ap.a.a.a.5 ---- /
+   Ap.a.a.a.6 ---- / ( 5+6 = K 5 )
+   a.a.a.5 in KSS corresponds a.a.a.5 and a.a.a.6 in BSS.
+7) ---- /# ----  / ( K om. / )
+   KSS omits / ( daNDa ).
+
+Differences of Sandhi are neglected and clear misprints are corrected.
+
+Text Input System 
+(1)  	Sanskrit characters which should bear diacritical marks
+	when Romanized have been input mostly by capitals.  
+	
+	vowels:     a, aa, i, ii, u, uu, R, RR, L, e, ai, o, au
+	gutturals:  k, kh, g, gh, G
+	palatals:   c, ch, j, jh, J
+	linguals:   T, Th, D, Dh, N
+	dentals:    t, th, d, dh, n
+	labials:    p, ph, b, bh, m
+	semivowels: y, r, l, v
+	sibilants:  z, S, s
+	aspiration: h
+	anusvaara:  M
+	visarga:    H
+
+(2) Members of a compound are separated by periods. 
+(3) External sandhi is decomposed with `-' (hyphen).
+(4) Verbs are marked by `\'.
+
+                          === TEXT ===
+
+Ap1.1.1.1/ atha-atas-  saamayaacaarikaan ( <samayaacaara )  dharmaan  [vyaakhyaasyaamaH[vi.aa\khyaa] /
+Ap1.1.1.2-3/ dharmajJa.samayaH pramaaNam / vedaaz ca /
+Ap1.1.1.4-5/ catvaaro varNo braahmaNa.kSatriya.vaizya.zuudraaH / teSaaM puurvas- puurvas- janmatas- zreyaan /
+Ap1.1.1.6/ azuudraaNaam aduSTakarmaNaam upaayanaM veda.adhyayanam agnyaadheyaM phalavanti ca karmaaNi /
+Ap1.1.1.7/ zuzruuSaa zuudrasya-itareSaaM varNaanaam /
+Ap1.1.1.8/ puurvasmin puurvasmin varNe niHzreyasam bhuuyaH /
+Ap1.1.1.9/ upanayanaM vidyaa.arthasya zrutitaH saMskaaraH /
+Ap1.1.1.10/ sarvebhyo vedebhyaH saavitrii-[anuucyata[anu\vac] iti hi braahmaNam /
+Ap1.1.1.11/ tamasas-  vai- eSa tamaH [pravizati[pra\viz] yam 
+avidvaan(avidvas) [upanayate[upa\nii] yaz ca-avidvaan(avidvas) iti hi braahmanam /
+Ap1.1.1.12/ tasminn abhijana.vidyaa.[samudetam[sam.ut\i] [samaahitam[sam.aa\dhaa] saMskartaaram [iipset[\aap, des.opt.] /
+Ap1.1.1.13/ tasmiMz ca-eva vidyaa.karma.antam [avipratipanne[vi.prati\pad] dharmebhyaH /
+Ap1.1.1.14/ yasmaat-dharmaan [aacinoti [aa\ci] sa aacaaryaH /
+Ap1.1.1.15/ tasmai na [druhyet[\druh, opt.] kadaa cana /
+Ap1.1.1.16/ sa hi vidyaatas taM [janayati[\jan, caus.] /
+Ap1.1.1.17/ tat-zreSThaM janma / 
+Ap1.1.1.18/ zariiram eva maataa.pitarau(maatR/pitR) [janayataH[\jan, caus.] /
+Ap1.1.1.19/ vasante braahmaNam [upanayiita[upa\nii, opt.] griiSme raajanyaM zaradi vaizyaM garbha.aSTameSu braahmaNaM garbha.ekaadazeSu raajanyaM garbha.dvaadazeSu vaizyam /
+Ap1.1.1.20/ atha kaamyaani /
+Ap1.1.1.21-26/ saptame brahmavarcasa.kaamam , aSTama aayuS.kaamam , navame tejas.kaamam, dazame- 'annaadya.kaamam, ekaadaza indriya.kaamam, dvaadaze pazu.kaamam /
+Ap1.1.1.27/ aa SoDazaad braahmaNasya-anaatyaya , aa dvaaviMzaat kSatriyasya-aa caturviMzaad vaizyasya  yathaa vrateSu samarthaH [syaat[\as,opt.]-yaani [vakSyaamas[\vac] /
+Ap1.1.1.28/ [atikraante[ati\kram, ppp] saavitryaaH kaala# RtuM traividyakaM brahmacaryaM [caret[\car] / ( K om. kaala )
+Ap1.1.1.29/ atha-upanayanam /
+Ap1.1.1.30/ tataH saMvatsaram udaka.upasparzanam /
+Ap1.1.1.31/ atha-[adhyaapyaH [adhi\aap, ger.] /
+Ap1.1.1.32/ atha yasya pitaa pitaamaha iti [anupetau[upa\i, ppp] [syaataaM[\as, opt.] te [brahmaha.saMstutaaH[sam\stu, ppp] /
+Ap1.1.1.33/ teSaam abhyaagamanaM bhojanaM vivaaham iti ca [varjayet[\vRj, caus.] /
+Ap1.1.1.34/ teSaam [icchataaM[\iS] praayazcittam /
+Ap1.1.1.35/ yathaa prathame- 'atikrama Rtur evaM saMvatsaraH /
+Ap1.1.1.36/ atha-upanayanaM tata udaka.upasparzanam /
+
+Ap1.1.2.1/ prati.puurusaM [saMkhyaaya[sam\khyaa] saMvatsaraan  yaavanto- '[anupetaaH[upa\i] [syuH[ppp+\as, opt.] /
+Ap1.1.2.2/ saptabhiH paavamaaniibhir "yad anti yac ca duuraka" iti etaabhir yajus.pavitreNa saama.pavitreNa-aaGgiraseNa-iti /
+Ap1.1.2.3/ api vaa vyaahRtiibhir# eva / ( K vyaahRtibhir )
+Ap1.1.2.4/ atha-[adhyaapyaH[adhi\aap]/
+Ap1.1.2.5/ atha yasya prapitaamaha.aadi na-[anusmaryata[anu\smR]  upanayanaM te [zmazaana.saMstutaaH[sam\stu, ppp] /
+Ap1.1.2.6/ teSaam abhyaagamanaM bhojanaM vivaaham iti ca [varjayet[\vRj] teSaam [icchataaM[\iS] praayazcittaM dvaadaza.varSaaNi traividyakaM brahmacaryaM [cared[\car] / atha-upanayanaM tatas- udaka.upasparzanaM paavamaanii.aadibhiH //
+Ap1.1.2.7/ atha gRhamedha.upadezanam /
+Ap1.1.2.8/ na-adhyaapanam /
+Ap1.1.2.9/ tato yo [nirvartate[nis\vRt]# tasya saMskaaro yathaa prathame- ' atikrame /( K nivartate )
+Ap1.1.2.10/ tata uurdhvaM prakRtivat /
+Ap1.1.2.11/ [upetasya[upa\i, ppp]-aacaarya.kule brahmacaari.vaasaH / Ap1.1.2.12/ aSTaacatvaariMzad varSaaNi /
+Ap1.1.2.13-15/ paaduunam*, ardhena, tribhir vaa / (*var: paada.uunam)
+Ap1.1.2.16/ dvaadaza.avara.ardhyam /
+Ap1.1.2.17-18/ na brahmacaariNo vidyaa.arthasya para.upavaaso- '[asti[\as] /( = K 17, K 18 atha brahmacarya.vidhiH )
+Ap1.1.2.19/ aacaarya.adhiinaH [syaad[\as, op.] anyatra [pataniiyebhyaH[\pat] /
+Ap1.1.2.20/ hita.kaarii(hita.kaarin) guror [apratilomayan[\pratiloma] vaacaa /
+Ap1.1.2.21/ adha.aasana.zaayii /
+Ap1.1.2.22/ na-[anudezyaM[anu\diz]  [bhuJjiita[\bhuj, op.] /
+Ap1.1.2.23/ tathaa kSaara.lavaNa.madhu.maaMsaani /
+Ap1.1.2.24/ adivaa.svaapii /
+Ap1.1.2.25/ agandha.sevii /
+Ap1.1.2.26/ maithunaM na [caret[\car] /
+Ap1.1.2.27/ [utsanna.zlaaghaH [ut\sad] /
+Ap1.1.2.28/ aGgaani na [prakSaalayiita[pra\kSal, op.] /
+Ap1.1.2.29/ [prakSaalayiita[pra\kSal, op.] tv [azuci.liptaani[\lip] guror asaMdarze/
+Ap1.1.2.30/ na-apsu(ap.) [zlaaghamaanaH[\zlaagh, pp.] [snaayaad[\snaa, op.] yadi [snaayaad daNDavat [plavet[\plu] /
+Ap1.1.2.31-32/ jaTilaH, zikhaa.jaTas(jaTaa)- vaa [vaapayed[\vap, caus.op.] itaraan /
+Ap1.1.2.33/ mauJjii (<muJja.) mekhalaa trivRd braahmaNasya zakti.viSaye [dakSiNaa.aavRttaanaam [aa\vRt]/
+Ap1.1.2.34/ jyaa raajanyasya /
+Ap1.1.2.35/ mauJjii(<muJja.) vaa-ayo.mizraa /
+Ap1.1.2.36/ aavii.suutraM vaizyasya /
+Ap1.1.2.37/ sairii(<siraa.) taamalii vaa-iti-eke /
+Ap1.1.2.38/ paalaazo daNDo braahmaNasya , naiyyagrodha.skandhajo- ' avaaGgro raajanyasya , baadara audumbaro vaa vaizyasya , vaarkSo daNDa ity avarNasaMyogena-eke- [upadizanti[upa\diz] /
+Ap1.1.2.39/ vaasaH /
+Ap1.1.2.40/ zaaNii.kSauma.ajinaani /
+Ap1.1.2.41/ kaSaayaM ca-eke vastram [upadizanti[upa\diz] /
+
+Ap1.1.3.1/ maaJjiSThaM raajanyasya /
+Ap1.1.3.2/ haaridraM vaizyasya /
+Ap1.1.3.3/ haariNam aiNeyaM vaa kRSNaM braahmaNasya /
+Ap1.1.3.4/ kRSNaM ced [anupastiirNa.aasana.zaayii[upa\stRR] [syaat[\as, op.] /
+Ap1.1.3.5/ rauravaM raajanyasya /
+Ap1.1.3.6/ basta.ajinaM vaizyasya /
+Ap1.1.3.7-8/ aavikaM saarvavarNikam(<sarva.varNa), kambalaz ca /
+Ap1.1.3.9/ brahma.vRddhim [icchann[\iS] ajinaany eva [vasiita[\vas] kSatra.vRddhim [icchan[\iS] vastraaNy eva-ubhaya.vRddhim [icchann[\iS] ubhayam iti hi braahmaNam /
+Ap1.1.3.10/ ajinaM tv eva-uttaraM [dhaarayet[\dhR, caus.] /
+Ap1.1.3.11/ [anRtta.darzii[\dRz] /
+Ap1.1.3.12/ sabhaaH samaajaaMz ca-agantaa(agantR) /
+Ap1.1.3.13/ a.janavaada.ziilaH /
+Ap1.1.3.14/ rahas.ziilaH /
+Ap1.1.3.15/ guror udaacaareSv akartaa(akartR) svairi.karmaaNi /
+Ap1.1.3.16/ striibhir [yaavad.artha.saMbhaaSii[sam\bhaas] /
+Ap1.1.3.17-24/ mRduH , [zaantaH[\zam, adj.], [daantaH[\dam, adj.], hriimaan(hrii.mat), dRDha.dhRtiH, aglaaMsnuH, akrodhanaH, anasuuyuH /
+Ap1.1.3.25/ sarvaM laabham [aaharan[aa\hR,pp] gurave saayaM praatar amantreNa# bhikSaa.caryaM [cared[\car], [bhikSamaaNo[\bhiiks, pp.]- ' anyatra-apapaatrebhyo- '[abhizastaac[abhi\zas, ppp.] ca / ( K amatreNa )
+Ap1.1.3.26a/ striiNaaM [pratyaacakSaaNaanaaM[prati.aa\cakS] [samaahito[sam.aa\dhaa,ppp] brahmacaarii-[iSTaM[\yaj, ppp.] [dattaM[\daa, ppp.] [hutaM[\hu, ppp.] prajaaM pazuun brahmavarcasam annaadyaM [vRGkte[\vRj] /
+Ap1.1.3.26b/ tasmaad u ha vai brahmacaari.samghaM [carantaM[\car, pp.] na [pratyaacakSiita[prati.aa\caks]-, api ha-eSv evam.vidha evaM.vrataH [syaad[\as, op.] iti hi braahmaNam /
+Ap1.1.3.27/ na-anumaanena bhaikSam ucchiSTaM [dRSTa.zrutaabhyaaM[\dRz][\zru] tu /
+Ap1.1.3.28/ bhavat.puurvayaa braahmaNo [bhikSeta[\bhikS] /
+Ap1.1.3.29/ bhavat.madhyayaa raajanyaH /
+Ap1.1.3.30/ bhavat.antyayaa vaizyaH /
+Ap1.1.3.31/ tat [samaahRtya[sam.aa\hR]-[upanidhaaya[upa.ni\dhaa]-aacaaryaaya [prabruuyaat[pra\bruu] /
+Ap1.1.3.32/ tena [pradiSTaM[pra\diz,ppp] [bhuJjiita[\bhuj]/
+Ap1.1.3.33/ vipravaase guror aacaarya.kulaaya /
+Ap1.1.3.34/ tair vipravaase- 'anyebhyo- 'api zrotriyebhyaH /
+Ap1.1.3.35/ na-aatma.prayojanaz [caret[\car] /
+Ap1.1.3.36/ [bhuktvaa[\bhuj] svayam amatraM [prakSaalayiita[pra\kSal] /
+Ap1.1.3.37/ na ca-[ucchiSTaM[ut\siS] [kuryaat[\kR] /
+Ap1.1.3.38/ azaktau bhuumau [nikhanet[ni\khan] /
+Ap1.1.3.39/ apsu vaa [pravezayet[pra\viz] /
+Ap1.1.3.40/ aaryaaya vaa [paryavadadhyaat[pari.ava\dhaa] /
+Ap1.1.3.41/ antardhine vaa zuudraaya /
+Ap1.1.3.42/ [proSito[pra\vas] bhaikSaad agnau [kRtvaa[\kR] [bhuJjiita[\bhuj]
+/
+Ap1.1.3.43/ bhaikSaM haviSaa [saMstutaM[sam\stu] tatra-aacaaryo devataa.arthe /
+Ap1.1.3.44/ aahavaniiya.arthe ca /
+Ap1.1.3.45/ taM [bhojayitvaa[\bhuj] (yad ucchiStaM[ut\ziS][praazJaati[pra\az])1.1.4.1./
+
+Ap1.1.4.1/ yad [ucchiSTaM[ut\ziS] [praazJaati[pra\az] /
+Ap1.1.4.2/ havir.ucchiSTam eva tat /
+Ap1.1.4.3/ yad anyaani dravyaaNi yathaalaabham [upaharati[upa\hR]dakSiNaa eva taaH /
+Ap1.1.4.4/ sa eSa brahmacaariNo yajJo [nitya.pratataH[pra\tan] /
+Ap1.1.4.5/ na ca-asmai [zruti.vipratiSiddham ucchiSTaM [dadyaat[\daa] /
+Ap1.1.4.6/ yathaa kSaara.lavaNa.madhu.maaMsaani-iti /
+Ap1.1.4.7/ etena-anye niyamaa [vyaakhyaataaH[vi.aa\khyaa] /
+Ap1.1.4.8/ zrutir hi baliiyasy aanumaanikaad aacaaraat /
+Ap1.1.4.9/ [dRzyate[\dRz] ca-api pravRtti.kaaraNam /
+Ap1.1.4.10/ priitir hy [upalabhyate[upa\labh] /
+Ap1.1.4.11/ pitur jyeSThasya ca bhraatur [ucchiSTaM[ut\ziS][bhoktavyam[\bhuj] /
+Ap1.1.4.12/ dharma.vipratipattaav [abhojyam[\bhuj] /
+Ap1.1.4.13/ saayaM praatar udakumbham [aaharet[aa\hR] /
+Ap1.1.4.14/ sadaa-aaraNyaad edhaan [aahRtya[aa\hR]- adho[nidadhyaat[ni\dhaa] /
+Ap1.1.4.15/ na-[astamite[astam\i] samid.dhaaro [gacchet[\gam] /
+Ap1.1.4.16/ agnim [iddhvaa[\indh] [parisamuuhya[pari.sam\uuh] samidha[aadadhyaat[aa\dhaa] saayaM praatar yathaa.upadezam /
+Ap1.1.4.17/ saayam eva-agni.puujaa-ity eke /
+Ap1.1.4.18/ [samiddham[sam\indh] agniM paaNinaa[parisamuuhen[pari.sam\uuh] na samuuhanyaa /
+Ap1.1.4.19/ praak tu yaathaakaamii /
+Ap1.1.4.20/ na-agni.udaka.zeSeNa vRthaa.karmaaNi [kurviita[\kR]-
+[aacaamed[aa\cam] vaa /
+Ap1.1.4.21/ paaNi.saMkSubdhena[sam\kSubh]-udakena-
+[eka.paaNi.aavarjitena[aa\vRj] ca na-[aacaamet[aa\cam] /
+Ap1.1.4.22/ svapnaM ca [varjayet[\vRj] /
+Ap1.1.4.23/ atha-ahar.ahar aacaaryaM [gopaayed[\gopay][dharma.artha.yuktaiH[\yuj] karmabhiH /
+Ap1.1.4.24/ sa [guptvaa[\gup] [saMvizan[sam\viz] [bruuyaad[\bruu]dharma.gopaayam [aajuugupam[aa\gup] aham iti /
+Ap1.1.4.25/ pramaadaad aacaaryasya buddhi.puurvaM vaaniyama.atikramaM rahasi [bodhayet[\budh] /
+Ap1.1.4.26-27/ anivRttau svayaM karmaaNy [aarabheta[aa\rabh] ,[nivartayed[ni\vRt] vaa /
+Ap1.1.4.28/ atha yaH puurva.utthaayii jaghanya.saMvezii tam [aahur[\ah] na[svapiti[\svap]-iti /
+Ap1.1.4.29/ sa ya evaM [praNihita.aatmaa[pra.ni\dhaa] brahmacaary atra-
+eva-asya sarvaaNi karmaaNi phalavanty [avaaptaani[ava\aap][bhavanti[\bhuu,+ ppp] yaany api gRhamedhe /
+
+Ap1.2.5.1/ niyameSu tapas.zabdaH /
+Ap1.2.5.2/ tad.atikrame vidyaa.karma [niHsravati[nir\sru] brahma saha-
+apatyaad etasmaat /
+Ap1.2.5.3/ kartapatyam* anaayuSyaM ca /(*var. gartapatyam)
+Ap1.2.5.4/ tasmaad RSayo- 'avareSu na [jaayante[\jan] niyama.atikramaat /
+Ap1.2.5.5-6/ zruta.RSayas tu [bhavanti[\bhuu] kecit karma.phala.zeSeNa punaH.saMbhave , yathaa zvetaketuH /
+Ap1.2.5.7/ yat kiM ca [samaahito[sam.aa\dhaa] brahma py(apy) aacaaryaad [upayuGkte[upa\yuj] brahmavad eva tasmin phalaM [bhavati[\bhuu] /
+Ap1.2.5.8/ atha-u yat kiJ ca manasaa vaacaa cakSuSaa vaa [saGkalpan[sam\kLp]# [dhyaayaty[\dhyai] [aaha[\ah]-[abhivipazyati[abhi.vi\paz] vaa tathaa-eva tad [bhavati-ity[\bhuu] [upadizanti[upa\diz] / ( K saGkalpayan )
+Ap1.2.5.9/ [guru.prasaadaniiyaani[pra\sad] karmaaNi svastyayanam adhyayana.saMvRttir iti /
+Ap1.2.5.10/ ato- 'anyaani [nivartante[ni\vRt] brahmacaariNaH karmaaNi /
+Ap1.2.5.11/ svaadhyaaya.dhRg dharma.rucis tapsvy Rjur# mRduH [sidhyati[\sidh] brahmacaarii / ( K ajur )
+Ap1.2.5.12/ sadaa mahaantam apara.raatram [utthaaya[ut\sthaa] guros [tiSThan[\sthaa] praatar.abhivaadam# [abhivaadayiita[abhi\vad]-asaav ahaM bho iti / ( K abhivaadanam )
+Ap1.2.5.13/ samaana.graame ca [vasataam[\vas,pp] anyeSaam api vRddhataraaNaaM praak praatar.aazaat /
+Ap1.2.5.14/ [proSya[pra\vas] ca samaagame /
+Ap1.2.5.15/ svargam aayuz ca-[iipsan[\aap, des.] /
+Ap1.2.5.16/ dakSiNam baahuM zrotra.samaM [prasaarya[pra\sR] braahmaNo- '[abhivaadayiita[abhi\vad]-uraH.samaM raajanyo madhya.samaM vaizyo niicaiH zuudraH praJjalim /
+Ap1.2.5.17/ plaavanaM ca naamno- 'abhivaadana.pratyabhivaadane ca puurveSaaM varNaanaam /
+Ap1.2.5.18/ [udite[ut\i] tv aaditya aacaaryeNa [sametya[sam\i]-
+upasaGgrahaNam /
+Ap1.2.5.19/ sadaa-eva-abhivaadanam /
+Ap1.2.5.20/ [upasaMgraahya[upa.sam\grah] aacaarya ity eke /
+Ap1.2.5.21/ dakSiNena paaNinaa daksiNaM paadam adhastaad abhy [adhimRzya[abhi\mRz] sa.kuSThikam [upasaMgRhNiiyaat[upa.sam\grah] /
+Ap1.2.5.22/ ubhaabhyaam eva-ubhaav [abhipiiDayata[abhi\piiD] [upasaMgraahyaav[upa.sam\grah] ity eke /
+Ap1.2.5.23/ sarva.ahNaM [su.yukto[\yuj]- 'adhyayanaad anantaro- 'adhyaaye /
+Ap1.2.5.24/ tathaa guru.karmasu /
+Ap1.2.5.25/ manasaa ca-anadhyaaye /
+Ap1.2.5.26/ [aahuuta.adhyaayii[aa\hve] ca [syaat[\as] / 
+Ap1.2.6.1/ sadaa nizaayaaM guruM [saMvezayet[sam\viz] tasya paadau [prakSaalya[pra\kSal] [saMvaahya[sam\vah] /
+Ap1.2.6.2/ [anujJaataH[anu\jJaa] [saMvizet[sam\viz] /
+Ap1.2.6.3/ na ca-enam [abhiprasaarayiita[abhi.pra\sR] /
+Ap1.2.6.4/ na khaTvaayaaM sato- 'abhiprasaaraNam [asti[\as]-ity eke /
+Ap1.2.6.5/ na ca-asya sakaaze [saMviSTo[sam\viz] [bhaaSet[\bhaaS] /
+Ap1.2.6.6-7/ [abhibhaaSitas[abhi\bhaaS] tv [aasiinaH[\aas] [pratibruuyaat[prati\bruu] , [anuutthaaya[anu.ut\sthaa] [tiSThantam[\sthaa] /
+Ap1.2.6.8-9/ [gacchantam[\gam] [anugacchet[anu\gam] , [dhaavantam[\dhaav] [anudhaavet[anu\dhaav] /
+Ap1.2.6.10/ na [sa.upaanah.veSTitaziraa[\veST] [avahita.paaNir[ava\dhaa] vaa-[aasiidet[aa\sad] / 
+Ap1.2.6.11/ adhvaa-[aapannas[aa\pad] tu [karma.yukto[\yuj] vaa-
+[aasiidet[aa\sad] /
+Ap1.2.6.12/ na ced [upasiidet[upa\sad] /
+Ap1.2.6.13/ devam iva-aacaaryam [upaasiita[upa\aas]-
+[avikathayann[vi\kathay] avimanaa vaacaM [zuzruuSamaaNo[\zru, des.]- ' asya / 
+Ap1.2.6.14/ [anupastha.kRtaH[upastha\kR] /
+Ap1.2.6.15-17/ [anuvaati[anu\vaa]# [viitaH[vi\i], [apratiSTabdhaH[prati\stabh] paaNinaa , [anapazrito[apa\zri]- 'anyatra / ( K anuvaati vaate )
+Ap1.2.6.18/ yajJopaviitii dvi.vastraH /
+Ap1.2.6.19/ [adho.niviitas[ni\vye] tv eka.vastraH /
+Ap1.2.6.20/ abhimukho- 'anabhimukham /
+Ap1.2.6.21/ anaasanno- 'anatiduure# / ( K anatiduure ca )
+Ap1.2.6.22/ [yaavad.aasiino[\aas] baahubhyaam [praapnuyaat[pra\aap] /
+Ap1.2.6.23/ aprati.vaatam /
+Ap1.2.6.24-25/ eka.adhyaayii dakSiNaM baahuM praty [upasiidet[upa\sad] , yathaa.avakaazaM bahavaH /
+Ap1.2.6.26/ [tiSThati[\sthaa] ca na-[aasiita[\aas]-
+[anaasana.yoga.vihite[vi\dhaa] /
+Ap1.2.6.27/ [aasiine[\aas] ca na [saMvizet[sam\viz] /
+Ap1.2.6.28/ [ceSTati[\ceST] ca [cikiirSan[\kR, des.]-tac.chakti.viSaye /
+Ap1.2.6.29/ na ca-asya sakaaze- 'anvak.sthaaninam# [upasaMgRhNiiyaat[upa.sam\grah] /  ( K --.sthaanina )
+Ap1.2.6.30/ gotreNa vaa [kiirtayet[\kiirtay] /
+Ap1.2.6.31/ na ca-enaM praty [uttiSThed[ut\sthaa] [anuuttiSThed[anu.ut\sthaa]# vaa / ( K anuttiSThed )
+Ap1.2.6.32/ api cet tasya guruH [syaat[\as] / ( 31+32 = K 31 )
+Ap1.2.6.33/ dezaat tv aasanaac ca [saMsarpet[sam\sRp] / ( = K 32)
+Ap1.2.6.34/ naamnaa tad.antevaasinaM gurum apy aatmana ity eke / ( = K 33 )
+Ap1.2.6.35/ yasmiMs tv anaacaaryasaMbandhaad gauravaM vRttis tasminn anvak.sthaaniiye- 'apy aacaaryasya / ( = K 34 )
+Ap1.2.6.36-37/ [bhuktvaa[\bhuj] ca-asya sakaaze na-
+[anuutthaaya[anu.ut\sthaa]-ucchiSTaM [prayacchet[pra\yam] , [aacaamed[aa\cam] vaa / ( = K 35-36 )
+Ap1.2.6.38/ kiM [karavaaNi[\kR]-ity aamantrya ( uttiSThet tuuSNiiM vaa 1.2.7.1) / ( = K 37)
+Ap1.2.7.1/ [uttiSThet[ut\sthaa] tuuSNiiM vaa /
+Ap1.2.7.2/ na-[apaparyaavarteta[apa.pari.aa\vRt] guroH [pradakSiNiikRtya[pradakSiNii\kR]-[apeyaat[apa\i] /
+Ap1.2.7.3/ na [prekSeta[pra\iikS] nagnaaM striyam /
+Ap1.2.7.4/ oSadhi.vanaspatiinaam [aacchidya[aa\chid] na-
+[upajighret[upa\ghraa] /
+Ap1.2.7.5/ upaanahau chatraM yaanam iti ca [varjayet[\vRj] /
+Ap1.2.7.6/ na [smayeta[\smi]# / 
+Ap1.2.7.7/ yadi [smayeta[\smi]-[apigRhya[api\grah] [smayeta[\smi]-iti hi braahmaNam /
+Ap1.2.7.8/ na-[upajighret[upa\ghraa] striyaM mukhena /
+Ap1.2.7.9/ na hRdayena praarthayet[pra\arth] /
+Ap1.2.7.10/ na-akaaraNaad [upaspRzet[upa\spRz] /
+Ap1.2.7.11/ rajasvalo rakta.dan satya.vaadii [syaad[\as] iti hi braahmaNam /
+Ap1.2.7.12/ yaaM vidyaaM [kurute[\kR] gurau te- 'apy asya-aacaaryaa ye tasyaaM guror vaMzyaaH /
+Ap1.2.7.13/ yaan anyaan [pazyato[\paz]- 'asya-
+[upasaMgRhNiiyaat[upa.sam\grah] tadaa tv ete- upasaMgraahyaaH /
+Ap1.2.7.14/ guru.samavaaye bhikSaayaam [utpannaayaaM[ut\pad] yam [anubaddhas[anu\bandh] tad.adhiinaa bhikSaa /
+Ap1.2.7.15-17/ [samaavRtto[sam.aa\vRt] maatre [dadyaat[\daa] , maataa bhartaaraM [gamayet[\gam] , bhartaa gurum /
+Ap1.2.7.18/ dharmakRtyeSu vaa-[upayojayet[upa\yuj] /
+Ap1.2.7.19/ [kRtvaa[\kR]  vidyaaM yaavatiiM [zaknuyaad[\zak] veda.dakSiNaam [aahared[aa\hR] dharmato yathaa.zakti /
+Ap1.2.7.20/ viSama.gate tv aacaarya ugrataH zuudrato vaa-[aaharet[aa\hR]
+Ap1.2.7.21/ sarvadaa zuudrata ugrato vaa-aacaarya.arthasya-aaharaNaM dhaarmyam# ity eke / ( K dharmyam )
+Ap1.2.7.22/ [datvaa[\daa] ca na-[anukathayet[anu\kathay] /
+Ap1.2.7.23/ [kRtvaa[\kR] ca na-[anusmaret[anu\smR] /
+Ap1.2.7.24/ aatma.prazaMsaaM para.garhaam iti ca [varjayet[\vRj] /
+Ap1.2.7.25/ [preSitas[pra\iS] tad# eva [pratipadyeta[prati\pad] / ( K tadaa )
+Ap1.2.7.26/ zaastuz ca-anaagamaad vRttir anyatra /
+Ap1.2.7.27/ anyatra-upasaMgrahaNaad ucchiSTa.azanaac ca-aacaaryavad aacaarya.daare vRttiH /
+Ap1.2.7.28/ tathaa [samaadiSTe[sam.aa\diz]- '[adhyaapayati[adhi\i] /
+Ap1.2.7.29/ vRddhatare ca sa.brahmacaariNi /
+Ap1.2.7.30/ ucchiSTa.azana.varjam aacaaryavad aacaaryaputre vRttiH /
+Ap1.2.7.31/ [samaavRttasya[sam.aa\vRt]-apy etad eva saamayaacaarikam(<samaya.aacaara) eteSu /
+
+Ap1.2.8.1/ yathaa brahmacaariNo vRttam /
+Ap1.2.8.2/ [maalya.aalipta.mukha[aa\lip] [upalipta.keza.zmazrur[upa\lip] [akto[\aJj]- '[abhyakto[abhi\aJj] veSTity.upaveSTitii kaaJcuky upaanahii paadukii /
+Ap1.2.8.3/ udaacaareSu ca-asya-etaani na [kuryaat[\kR] [kaarayed vaa /
+Ap1.2.8.4/ svairi.karmasu ca /
+Ap1.2.8.5/ yathaa danta.prakSaalana.utsaadana.avalekhanaani-iti /
+Ap1.2.8.6/ tad.dravyaaNaaM ca na [kathayed[\kathay] aatma.saMyogena-aacaaryaH /
+Ap1.2.8.7/ [snaatas[\snaa] tu kaale yathaavidhy [abhihRtam[abhi\hR] [aahuuto[aa\hve]- '[abhyeto[abhi\i] vaa na [pratisaMhared[prati.sam\hR] ity eke /
+Ap1.2.8.8-10/ uccaistaraaM na-[aasiita[\aas] , tathaa bahu.paade , sarvataH [pratiSThite[prati\sthaa] /
+Ap1.2.8.11/ zayyaa.aasane ca-[aacarite[aa\car] na-[aavizet[aa\viz] /
+Ap1.2.8.12/ yaanam [ukto[\vac]- 'adhvany [anvaarohet[anu.aa\ruh] /
+Ap1.2.8.13/ sabhaa.nikaSa.kaTa.svastaraaMz ca /
+Ap1.2.8.14/ na-anabhibhaaSito gurum [abhibhaaSeta[abhi\bhaaS] priyaad anyat /
+Ap1.2.8.15/ vyupatoda.vyupajaava#.vyabhihaasa.udaamantraNa.naamadheya.grahaNa.preSaNaani-iti guror [varjayet[\vRj] / (  K --.vyupajaapa.-- )
+Ap1.2.8.16/ aapady arthaM [jJaapayet[\jJaa] /
+Ap1.2.8.17/ saha [vasan[\vas] saayaM praatar [anaahuuto[aa\hve] guruM darzana.artho [gacchet[\gam] /
+Ap1.2.8.18/ [viproSya[vi.pra\vas] ca tad ahar eva [pazyet[\paz] /
+Ap1.2.8.19-20/ aacaarya.praacaarya.saMnipaate praacaaryaaya-upasaMgRhya-[upasaMjighRkSed[upa.sam\grah, des.] aacaaryam , [pratiSedhed[prati\sidh] itaraH /
+Ap1.2.8.21/ [lupyate[\lup] puujaa ca-asya sakaaze /
+Ap1.2.8.22/ muhuuMz ca-aacaarya.kulaM darzana.artho [gacched[\gam] yathaazakty adhihastyam [aadaaya[aa\daa]-api danta.prakSaalanaani-iti /( K inserts 8.23 maataraM pitaram aacaryam agniiMz ca gRhaaNi ca rikta.paaNir na-[upagachhed[upa\gam] raajaanaM cen na zrutam iti / )
+Ap1.2.8.23/ tasmin guror vRttiH / ( = K 24 )
+Ap1.2.8.24/ putram iva-enam [anukaaGkSan[anu\kaGkS] sarva.dharmeSv [anapacchaadayamaanaH[apa\chad] [su.yukto[\yuj] vidyaaM [graahayet[\grah] / ( K = 25 )
+Ap1.2.8.25/ na ca-enam adhyayana.vighnena-aatma.artheSu-[uparundhyaad[upa\rudh] anaapatsu / ( = K 26 )
+Ap1.2.8.26/ antevaasy.anantevaasii bhavati [vinihita.aatmaa[vi.ni\dhaa] guraav.anaipuNam [aapadyamaanaH[aa\pad] / ( = K 27 )
+Ap1.2.8.27/ aacaaryo- 'apy anaacaaryo [bhavati[\bhuu] [zrutaat[\zru] [pariharamaaNaH[pari\hR] / ( = K 28 )
+Ap1.2.8.28/ aparaadheSu ca-enaM* satatam [upaalabheta[upa.aa\labh] / ( = K 29 )[*ed. cenaM ! ]
+Ap1.2.8.29/ abhitraasa upavaasa udaka.upasparzanam adarzanam iti daNDaa yathaamaatram aa nivRtteH / ( = K 30 )
+Ap1.2.8.30/ [nivRttaM[ni\vRt] [carita.brahmacaryam[\car] anyebhyo dharmebhyo- 'anantaro [bhava[\bhuu]-ity [atisRjet[ati\sRj] / ( = K 31 )
+Ap1.3.9.1/ zraavaNyaaM paurNamaasyaam adhyaayam [upaakRtya[upa.aa\kR] maasaM pradoSe na-[adhiiyiita[adhi\i] /
+Ap1.3.9.2/ taiSyaaM paurNamaasyaaM rohiNyaaM vaa [viramet[vi\ram] /
+Ap1.3.9.3/ ardhapaJcamaaMz caturo maasaan ity eke /
+Ap1.3.9.4/ nigameSv adhyayanaM [varjayet[\vRj] /
+Ap1.3.9.5/ aanaDuhena vaa zakRt.piNDena-[upalipte[upa\lip]- ' [adhiiyiita[adhi\i] /
+Ap1.3.9.6/ zmazaane sarvataH zamyaa.praasaat /
+Ap1.3.9.7/ graameNa-[adhyavasite[adhi.ava\so] kSetreNa vaa na-anadhyaayaH /
+Ap1.3.9.8/ [jJaayamaane[\jJaa] tu tasminn eva deze na-[adhiiyiita[adhi\i] /
+Ap1.3.9.9/ zmazaanavac-zuudra.patitau /
+Ap1.3.9.10/ samaana.agaara ity eke /
+Ap1.3.9.11/ zuudraayaaM tu prekSaNa.pratiprekSaNayor eva-anadhyaayaH /
+Ap1.3.9.12/ tathaa-anyasyaaM striyaaM [varNa.vyatikraantaayaaM[vi.ati\kram] maithune /
+Ap1.3.9.13/ brahma-[adhyeSyamaaNo[adhi\i] malavad.vaasasaa-[icchan[\iS] [saMbhaaSituM[sam\bhaaS] braahmaNena saMbhaaSya tayaa saMbhaaSeta / saMbhaaSya tu braahmaNena-eva saMbhaaSya-[adhiiyiita[adhi\i] / evaM tasyaaH prajaa.niHzreyasam //
+Ap1.3.9.14/ antaH.zavam /
+Ap1.3.9.15/ antaz.caaNDaalam /
+Ap1.3.9.16/ [abhinirhRtaanaaM[abhi.nir\hR]# tu siimny anadhyaayaH / ( K abhinissRtaanaaM, in variant abhinirhRtaanaaM )
+Ap1.3.9.17/ saMdarzane ca-araNye /
+Ap1.3.9.18/ tad ahar [aagateSu[aa\gam] ca graamaM baahyeSu /
+Ap1.3.9.19/ api satsu /
+Ap1.3.9.20/ saMdhaavanu.stanite raatrim /
+Ap1.3.9.21/ svapna.paryaantaM vidyuti /
+Ap1.3.9.22/ upavyuSaM yaavataa vaa kRSNaaM rohiNiim iti zamyaa.praasaad [vijaaniiyaad[vi\jJaa] etasmin kaale [vidyotamaane[vi\dyut] sa.pradoSam ahar anadhyaayaH /
+Ap1.3.9.23/ dahre- 'apararaatre stanayitnunaa /
+Ap1.3.9.24/ uurdhvam ardharaatraad ity eke /
+Ap1.3.9.25/ gavaaM ca-avarodhe /
+Ap1.3.9.26/ [vadhyaanaaM[\vadh] ca yaavataa [hanyante[\han] /
+Ap1.3.9.27/ [pRSTha.aaruuDhaH[aa\ruh] pazuunaaM na-[adhiiyiita[adhi\i] /
+Ap1.3.9.28/ ahoraatraav amaavaasyaasu /
+Ap1.3.10.1/ caaturmaasiiSu ca /
+Ap1.3.10.2/ vairamaNo guruSv aSTaakya aupaakaraNa iti try.ahaaH /
+Ap1.3.10.3/ tathaa saMbandheSu jJaatiSu /
+Ap1.3.10.4/ maatari pitary aacaarya iti dvaadaza.ahaaH /
+Ap1.3.10.5/ teSu ca-udaka.upasparzanaM taavantaM kaalam /
+Ap1.3.10.6/ anubhaavinaaM ca parivaapanam /
+Ap1.3.10.7/ na [samaavRttaa[sam.aa\vRt] [vaperann[\vap] anyatra vihaaraad ity eke /
+Ap1.3.10.8/ atha-api braahmaNam, rikto vaa eSo- '[anapihito[api\dhaa] yan muNDas tasya-etad apidhaanaM yac-zikhaa-iti /
+Ap1.3.10.9/ satreSu tu vacanaad vapanaM zikhaayaaH /
+Ap1.3.10.10/ aacaarye triin ahoraatraan ity eke /
+Ap1.3.10.11/ zrotriya.saMsthaayaam aparisaMvatsaraayaam ekaam /
+Ap1.3.10.12/ sa.brahmacaariNi-ity eke /
+Ap1.3.10.13/ zrotriya.abhyaagame- '[adhijigaaMsamaano[adhi\gam, des.]- ' [adhiiyaano[adhi\i] vaa-/[anujJaapya[anu\jJaa]-[adhiiyiita /
+Ap1.3.10.14/ [adhyaapayed[adhi\i] vaa /
+Ap1.3.10.15/ guru.saMnidhau ca-[adhiihi[adhi\i] bho ity [uktvaa[\vac]-[adhiiyiita /
+Ap1.3.10.16/ [adhyaapayed[adhi\i] vaa /
+Ap1.3.10.17/ ubhayata upasaMgrahaNam [adhijigaaMsamaanasya[adhi\gam, des.]-[adhiitya[adhi\i] ca /
+Ap1.3.10.18/ [adhiiyaaneSu[adhi\i] vaa yatra-anyo [vyaveyaad[vi.ava\i] etam eva zabdam utsRjya-[adhiiyiita[ut\sRj] /
+Ap1.3.10.19/ zva.gardabha.naadaaH salaavRky.ekasRka.uluuka.zabdaaH sarve vaaditra.zabdaa rodana.giita.saama.zabdaaz ca /
+Ap1.3.10.20/ zaakhaantare ca saamnaam anadhyaayaH /
+Ap1.3.10.21/ sarveSu ca zabda.karmasu yatra [saMsRjyeran[sam\srj] /
+Ap1.3.10.22/ [chardayitvaa[\chard] svapna.antam /
+Ap1.3.10.23/ sarpir vaa [praazya[pra\az] /
+Ap1.3.10.24/ puutii.gandhaH# / ( K puuti.-- )
+Ap1.3.10.25/ zuktaM ca-[aatma.saMyuktam[sam\yuj] /
+Ap1.3.10.26/ pradoSe ca [bhuktvaa[\bhuj]# / ( K adds na-adhiiyiita )
+Ap1.3.10.27/ prodakayoz ca paaNyoH /
+Ap1.3.10.28/ [preta.saMkLptaM[sam\kLp] ca-annaM [bhuktvaa[\bhuj] sa.pradoSam ahar anadhyaayaH /
+Ap1.3.10.29/ aa ca vipaakaat /
+Ap1.3.10.30/ azraaddhena tu [paryavadadhyaat[pari.ava\dhaa] /
+Ap1.3.11.1/ kaaNDa.upaakaraNe ca-amaatRkasya /
+Ap1.3.11.2/ kaaNDasamaapane ca-apitRkasya /
+Ap1.3.11.3/ manuSya.prakRtiinaaM ca devaanaaM yajJe [bhuktvaa[\bhuj]-ity eke //
+Ap1.3.11.4/ [paryuSitais[pari\vas] taNDulair aama.maaMsena ca na-anadhyaayaaH# / ( K anadhyaayaH )
+Ap1.3.11.5/ tathaa-oSadhi.vanaspati.muula.phalaiH /
+Ap1.3.11.6/ yat kaaNDam [upaakurviita[upa.aa\kR] yasya ca-anuvaakyaM [kurviita[\kR] na tat tad ahar [adhiiyiita[adhi\i] /
+Ap1.3.11.7/ upaakaraNa.samaapanayoz ca paaraayaNasya taaM vidyaam /
+Ap1.3.11.8/ vaayur ghoSavaan bhuumau vaa tRNa saMvaaho [varSati[\vRS] vaa yatra dhaaraaH [pravahet /
+Ap1.3.11.9/ graama.aaraNyayoz ca sandhau /
+Ap1.3.11.10/ mahaapathe ca /
+Ap1.3.11.11/ [viproSya[vi.pra\uS] ca samadhyayanaM tad ahaH / ( 9+10+11 = K 9 )
+Ap1.3.11.12/ svairi.karmasu ca / ( = K 10 )
+Ap1.3.11.13/ yathaa paada#1.prakSaalana.utsaadanaa.anulepanaaNi#2-iti / ( = K 11, 1:hasta, 2:anulekhaNaani )
+Ap1.3.11.14/ taavantaM kaalaM na-[adhiiyiita[adhi\i]-[adhyaapayed[adhi\aap] vaa / ( = K 12 )
+Ap1.3.11.15/ sandhyoH / ( = K 13 )
+Ap1.3.11.16/ tathaa vRkSam [aaruuDhaH[aa\ruh] /
+Ap1.3.11.17/ apsu ca-[avagaaDhaH[ava\gaah] /
+Ap1.3.11.18/ naktaM ca-[apaavRte[apa.aa\vR] / ( 16+17+18 = K 14 tathaa vRkSam aaruuDho- 'apsu ca-avagaaDho naktaM ca-apaavRte )
+Ap1.3.11.19/ divaa ca-[apihite / ( = K 15, pihite instead of apihite )
+Ap1.3.11.20/ [avihitam anuvaaka.adhyayanam aaSaaDha.vaasantikayoH / ( = K 16 )
+Ap1.3.11.21/ nitya.praznasya ca-avidhinaa / ( = K 17 )
+Ap1.3.11.22/ tasya vidhiH / ( = K 18 )
+Ap1.3.11.23/ [akRta.praataraaza udaka.antaM [gatvaa [prayataH zucau deze- '[adhiiyiita yathaa.adhyaayam [utsRjan vaacaa / ( = K 19 )
+Ap1.3.11.24/ manasaa ca-anadhyaaye / ( K = 20 )
+Ap1.3.11.25/ vidyuti ca-abhyagraayaaM stanayitnaav apraayatye preta.anne niihaare ca maanasaM [paricakSate / ( K = 21 ) 
+Ap1.3.11.26/ zraaddha.bhojana eva-eke / ( = K 22 )
+Ap1.3.11.27/ vidyut.stanayitnur vRSTiz ca-apartau yatra [saMnipateyus try.aham anadhyaayaH / ( = K 23 )
+Ap1.3.11.28/ yaavad bhuumir vyudakaa-ity eke / ( = K 24 )
+Ap1.3.11.29/ ekena dvaabhyaaM vaa-eteSaam aa.kaalam / ( = K 25 )
+Ap1.3.11.30/ suuryaa.candramasor grahaNe bhuumi.cale- 'apasvaana ulkaayaam agny.utpaate ca sarvaasaaM vidyaanaaM saarvakaalikam aa.kaalam / ( = K 26 )
+Ap1.3.11.31/ abhraM ca-apartau suuryaa.candramasoH pariveSa indradhanuH pratisuurya.matsyaz ca vaate puutii.gandhe#1 niihaare ca sarveSv eteSu taavantaM#2 kaalam / ( = K 27, 1:puuti.--, 2:taavat ) 
+Ap1.3.11.32/ muhuurtaM [virate vaate / ( = K 28 )
+Ap1.3.11.33/ salaavRkyaam ekasRka iti svapna.paryaantam / ( = K 29, --.paryantam instead of --.paryaantam )
+Ap1.3.11.34/ naktaM ca-araNye- 'anagnaav ahiraNye vaa / ( = K 30 )
+Ap1.3.11.35/ [ananuuktaM ca-apartau chandaso na-[adhiiyiita / ( = K 31 )
+Ap1.3.11.36/ pradoSe ca / ( = K 32 )
+Ap1.3.11.37/ saarvakaalikam [aamnaatam / ( = K 33 )
+Ap1.3.11.38/ [yathaa.uktam anyad ataH pariSatsu / ( = K 34 )
+Ap1.4.12.1/ tapaH svaadhyaaya iti braahmaNam /
+Ap1.4.12.2/ tatra [zruuyate / sa yadi [tiSThann [aasiinaH [zayaano vaa svaadhyaayam [adhiite tapa eva tat [tapyate tapo hi svaadhyaaya iti /
+Ap1.4.12.3/ atha-api vaajasaneyi.braahmaNam / brahma.yajJo ha vaa eSa yat svaadhyaayas tasya-ete vaSaT.kaaraa* yat [stanayati yad vidyotate yad [avasphuurjati yad vaato [vaayati / tasmaat [stanayati [vidyotamaane- 'avasphuurjati vaate vaa [vaayaty [adhiiyiita-eva vaSaT.kaaraaNaam acchambaTkaaraaya-iti / [*ed. vaSakaaraa]
+Ap1.4.12.4/ tasya zaakhaa.antare vaakya.samaaptiH /
+Ap1.4.12.5/ atha yadi vaato#1 vaa#1 [vaayaat [stanayed vaa [vidyoteta vaa-[avasphuurjed vaa-ekaaM vaa-Rcam ekaM vaa yajur ekaM vaa saama-[abhivyaahared bhuur bhuvaH suvaH satyaM tapaH zraddhaayaaM [juhomi-iti vaa-etat / teno ha-eva#2-asya-etad ahaH svaadhyaaya [upaatto [bhavati / ( K 1:vaa vaato instead of vaato vaa, 2:tena-uuha-eva instead of teno ha-eva )
+Ap1.4.12.6/ evaM saty aarya.samayena-[avipratiSiddham /
+Ap1.4.12.7/ adhyaaya.anadhyaayaM hy [upadizanti / tad anarthakaM [syaad vaajasaneyi.braahmaNaM ced [avekSeta /
+Ap1.4.12.8/ aarya.samayo hy agRhyamaana.kaaraNaH /
+Ap1.4.12.9/ vidyaaM praty anadhyaayaH [zruuyate na karma.yoge mantraaNaam /
+Ap1.4.12.10/ braahmaNa.[uktaa vidhayas teSaam [utsannaaH paaThaaH prayogaad [anumiiyante /
+Ap1.4.12.11/ yatra tu priiti.upalabdhitaH pravRttir na tatra zaastram [asti /
+Ap1.4.12.12/ tad [anuvartamaano narakaaya [raadhyati /
+Ap1.4.12.13/ atha braahmaNa.[uktaa vidhayaH /
+Ap1.4.12.14/ teSaaM mahaa.yajJaa mahaa.sattraaNi-iti saMstutiH /
+Ap1.4.12.15/ ahar ahar bhuuta.balir manuSyebhyo yathaa.zakti daanam /
+Ap1.4.13.1/ devebhyaH svaahaa.kaara aa kaaSThaat , pitRbhyaH svadhaa.kaara aa-uda.paatraat svaadhyaaya iti /
+Ap1.4.13.2-3/ puujaa varNa.jyaayasaaM [kaaryaa , vRddhataraaNaaM ca /
+Ap1.4.13.4/ [hRSTo [darpati [dRpto dharmam [atikraamati dharma.atikrame khalu punar narakaH /
+Ap1.4.13.5/ na [samaavRtte samaadezo [vidyate /
+Ap1.4.13.6/ oM.kaaraH svarga.dvaaraM tasmaad brahma-[adhyeSyamaaNa etad.aadi [pratipadyeta /
+Ap1.4.13.7/ vikathaaM ca-anyaaM [kRtvaa-evaM laukikyaa vaacaa [vyaavartate brahma/
+Ap1.4.13.8/ yajJeSu ca-etad.aadayaH prasavaaH/
+Ap1.4.13.9/ loke ca bhuuti.karmasv etad.aadiiny eva vaakyaani [syur yathaa puNya.ahaM svasti.Rddhim iti /
+Ap1.4.13.10/ na-asamayena kRcchraM [kurviita triHzraavaNaM triHsahavacanam iti [parihaapya /
+Ap1.4.13.11/ avicikitsaa yaavad brahma [nigantavyam iti haariitaH /
+Ap1.4.13.12/ na bahir.vede gatir [vidyate /
+Ap1.4.13.13/ [samaadiSTam [adhyaapayantaM yaavad adhyayanam [upasaMgRhNiiyaat /
+Ap1.4.13.14/ nityam [arhantam ity eke /
+Ap1.4.13.15/ na gatir [vidyate /
+Ap1.4.13.16/ vRddhaanaaM tu /
+Ap1.4.13.17/ brahmaNi mitho viniyoge na gatir [vidyate /
+Ap1.4.13.18/ brahma [vardhata ity [upadizanti /
+Ap1.4.13.19/ niveze [vRtte saMvatsare saMvatsare dvau dvau maasau [samaahita aacaarya.kule [vased bhuuyaH [zrutam# [icchann iti zvetaketuH /
+Ap1.4.13.20/ etena hy ahaM yogena bhuuyaH puurvasmaat kaalaat-zrutam [akurvi-iti / ( K zrutim )
+Ap1.4.13.21/ tat-zaastrair [vipratiSiddham /
+Ap1.4.13.22/ niveze hi [vRtte naiyamikaani [zruuyante /
+Ap1.4.14.1/ agnihotram atithayaH /
+Ap1.4.14.2/ yac ca-anyad evaM [yuktam / ( 1+2 = K 1 )
+Ap1.4.14.3/ adhyayana.arthena yaM [codayen na ca-enaM [pratyaacakSiita / ( = K 2 )
+Ap1.4.14.4/ na ca-asmin doSaM [pazyet / ( = K 3 )
+Ap1.4.14.5/ yad.Rcchaayaam [asaMvRttau gatir eva tasmin / ( = K 4 )
+Ap1.4.14.6/ maatari pitary aacaaryavat-zuzruuSaa / ( = K 5 )
+Ap1.4.14.7/ samaavRttena sarve gurava [upasaMgraahyaaH / ( = K 6 )
+Ap1.4.14.8/ [proSya ca samaagame / ( = K 7 )
+Ap1.4.14.9/ bhraatRSu bhaginiiSu ca yathaa.puurvam upasaMgrahaNam / ( = K 8 ) 
+Ap1.4.14.10/ nityaa ca puujaa yathaa.upadezam / ( = K 9 )
+Ap1.4.14.11/ Rtvik.zvazura.pitRvya.maatulaan avara.vayasaH [pratyutthaaya-[abhivadet / ( = K 10 ) 
+Ap1.4.14.12/ tuuSNiiM vaa-[upasaMgRhNiiyaat / ( = K 11 )
+Ap1.4.14.13/ (z) daza.varSaM paura.sakhyaM paJca.varSaM tu caaraNam / tri.varSa.puurvaH zrotriyaH abhivaadanam [arhati //( = K 12 )
+Ap1.4.14.14/ [jJaayamaane vayo.vizeSe vRddhataraaya-[abhivaadyam / ( = K 13 )
+Ap1.4.14.15/ viSama.gataaya-agurave na-[abhivaadyam / ( = K 14 )
+Ap1.4.14.16/ [anvaaruhya vaa-abhivaadayiita / ( = K 15 )
+Ap1.4.14.17/ sarvatra tu [pratyutthaaya-abhivaadanam / ( = K 16 )
+Ap1.4.14.18/ [aprayatena na-[abhivaadyam /
+Ap1.4.14.19/ tathaa-aprayataaya /
+Ap1.4.14.20/ aprayataz ca na [pratyabhivadet / ( 18+19+20 = K 17 )
+Ap1.4.14.21/ pati.vayasaH striyaH / ( = K 18 ) 
+Ap1.4.14.22/ na sa.upaanah.[veSTita.ziraa [avahita.paaNir vaa-[abhivaadayiita / ( = K 19 )
+Ap1.4.14.23/ sarva.naamnaa striyo raajanya.vaizyau ca na naamnaa / ( = K 20 )
+Ap1.4.14.24/ maataram aacaarya.daaraM ca-ity eke / ( = K 21 )
+Ap1.4.14.25/ (z) daza.varSaz ca braahmaNaH zata.varSaz ca kSatriyaH / pitaa.putrau sma tau [viddhi tayos tu braahmaNaH pitaa //( = K 22 )
+Ap1.4.14.26/ kuzalam avara.vayasaM vayasyaM vaa [pRcchet / ( = K 23 )
+Ap1.4.14.27/ anaamayaM kSatriyam / ( = K 24 )
+Ap1.4.14.28/ [anaSTaM vaizyam / ( = K 25 )
+Ap1.4.14.29/ aarogyaM zuudram / ( = K 26 )
+Ap1.4.14.30/ na-asaMbhaaSya zrotriyaM [vyativrajet / ( K = 27 )
+Ap1.4.14.31/ araNye ca striyam / ( = K 28 )
+Ap1.5.15.1/ upaasane guruuNaaM vRddhaanaam atithiinaaM home [japya.karmaNi bhojana aacamane svaadhyaaye ca yajJopaviitii [syaat /
+Ap1.5.15.2/ [bhuumi.gataasv apsv [aacamya [prayato [bhavati /
+Ap1.5.15.3/ yaM vaa [prayata [aacaamayet /
+Ap1.5.15.4/ na varSa.dhaaraasv [aacaamet /
+Ap1.5.15.5/ tathaa pradara.udake /
+Ap1.5.15.6/ [taptaabhiz ca-akaaraNaat /
+Ap1.5.15.7/ rikta.paaNir vayasa [udyamya-apa [upaspRzet /
+Ap1.5.15.8-9/ zakti.viSaye na muhuurtam apy [aprayataH [syaat , nagno vaa /
+Ap1.5.15.10/ na-apsu sataH prayamaNam [vidyate /
+Ap1.5.15.11/ [uttiirya tv aacaamet /
+Ap1.5.15.12/ na-[aprokSitam indhanam agnaav [aadadhyaat /
+Ap1.5.15.13/ muuDha.svastare ca-[asaMspRzann anyaan aprayataan [prayato [manyeta /
+Ap1.5.15.14/ tathaa tRNa.kaaSTheSu [nikhaateSu /
+Ap1.5.15.15/ [prokSya vaasa [upayojayet /
+Ap1.5.15.16/ zuuna.[upahataH sa.celo- '[avagaaheta /
+Ap1.5.15.17/ [prakSaalya vaa taM dezam agninaa [saMspRzya punaH [prakSaalya paadau ca-aacamya [prayato [bhavati /
+Ap1.5.15.18/ agniM na-aprayata [aasiidet /
+Ap1.5.15.19/ iSu.maatraad ity eke /
+Ap1.5.15.20/ na ca-enam [upadhamet /
+Ap1.5.15.21/ khaTvaayaaM ca na-upadadhyaat /
+Ap1.5.15.22/ prabhuuta.edha.udake graame yatra-aatma.adhiinaM prayamaNaM tatra vaaso dhaarmyo braahmaNasya /
+Ap1.5.15.23/ muutraM [kRtvaa puriiSaM vaa muutra.puriiSa.lepaan anna.lepaan ucchiSTa.lepaan retasaz ca ye lepaas taan [prakSaalya paadau ca-[aacamya [prayato [bhavati /
+Ap1.5.16.1/ [tiSThann [aacaamet prahvo vaa /
+Ap1.5.16.2/ [aasiinas trir [aacaamed-dhRdayaGgamaabhir adbhiH /
+Ap1.5.16.3-4/ trir oSThau [parimRjet  , dvir ity eke /
+Ap1.5.16.5-6/ sakRd [upaspRzet , dvir ity eke /
+Ap1.5.16.7/ dakSiNena paaNinaa savyaM [prokSya paadau ziraz ca-indriyaaNy [upaspRzec cakSuSii naasike zrotre ca /
+Ap1.5.16.8/ atha-apa [upaspRzet /
+Ap1.5.16.9/ [bhokSyamaaNas tu [prayato- 'api dvir [aacaamed dviH [parimRjet sakRd [upaspRzet /
+Ap1.5.16.10/ zyaava.anta.paryantaav oSThaav [upaspRzya-[aacaamet /
+Ap1.5.16.11/ na zmazrubhir ucchiSTo [bhavaty antar aasye sadbhir yaavan na hastena-[upaspRzati /
+Ap1.5.16.12/ ya aasyaad bindavaH [patanta [upalabhyante teSv aacamanaM [vihitam /
+Ap1.5.16.13/ ye bhuumau na teSv [aacaamed ity eke /
+Ap1.5.16.14/ svapne* kSavathau#1 zRGkhaaNikaa#2.azrv.aalambhe lohitasya kezaanaam agner gavaaM braahmaNasya striyaaz ca-aalambhe mahaapathaM ca [gatvaa-amedhyaM ca-[upaspRzya-[aprayataM ca manuSyaM niiviiM ca [paridhaaya-apa [upaspRzet / ( K 1:kSavadhau, 2:ziGghaNikaa and variant zRGghaaNikaa ) [*ed. svapnai ]
+Ap1.5.16.15/ aardraM vaa zakRd oSadhiir bhuumiM vaa /
+Ap1.5.16.16/ hiMsaa.arthena-asinaa maaMsaM [chinnam abhojyam /
+Ap1.5.16.17/ dadbhir apuupasya na-[apacchindyaat /
+Ap1.5.16.18/ yasya kule [mriyeta* na tatra-anirdaze [bhoktavyam / [*ed. mriyet ]
+Ap1.5.16.19/ tathaa-anutthitaayaaM suutikaayaam# / ( K suutakaayaam )
+Ap1.5.16.20/ antaH.zave ca /
+Ap1.5.16.21/ [aprayato- '[apahatam# annam [aprayataM na tv [abhojyam / ( K aprayata-upahatam )
+Ap1.5.16.22/ [aprayatena tu zuudreNa-upahRtam [abhojyam /
+Ap1.5.16.23/ yasmiMz ca-anne kezaH [syaat /
+Ap1.5.16.24/ anyad vaa-amedhyam /
+Ap1.5.16.25/ amedhyair [avamRSTam /
+Ap1.5.16.26/ kiiTo vaa-amedhya.sevii /
+Ap1.5.16.27/ muuSakalaaGgaM# vaa / ( K muusikalaaGgam )
+Ap1.5.16.28/ padaa vaa-[upahatam /
+Ap1.5.16.29/ sicaa vaa /
+Ap1.5.16.30/ zunaa vaa-apapaatreNa vaa [dRSTam /
+Ap1.5.16.31/ sicaa vaa-[upahRtam /
+Ap1.5.16.32/ daasyaa vaa naktam [aahRtam /
+Ap1.5.16.33/ [bhuJjaanaM vaa /
+Ap1.5.17.1/ yatra zuudra [upaspRzet /
+Ap1.5.17.2/ anarhadbhir vaa samaana.paGktau /
+Ap1.5.17.3/ [bhuJjaaneSu va yatra-[anuutthaaya-ucchiSTaM [prayacched [aacaamed vaa /
+Ap1.5.17.4/ [kutsayitvaa vaa yatra-annaM [dadyuH /
+Ap1.5.17.5/ manuSyair [avaghraatam anyair vaa-amedhyaiH /
+Ap1.5.17.6/ na naavi [bhuJjiita /
+Ap1.5.17.7/ tathaa praasaade /
+Ap1.5.17.8/ [kRta.bhuumau tu [bhuJjiita /
+Ap1.5.17.9/ [anaapriite mRn.maye [bhoktavyam /
+Ap1.5.17.10/ [aapriitaM ced [abhidagdhe /
+Ap1.5.17.11/ [parimRSTaM lauhaM [prayatam /
+Ap1.5.17.12/ [nirlikhitaM daaru.mayam /
+Ap1.5.17.13/ yathaa.aagamaM yajJe /
+Ap1.5.17.14/ na-[apaNiiyam annam [azniiyaat /
+Ap1.5.17.15/ tathaa rasaanaam amaaMsa.madhu.lavaNaani-iti [parihaapya /
+Ap1.5.17.16/ taila.sarpiSii tu-[upayojayed udake- '[avadhaaya /
+Ap1.5.17.17-18/ [kRta.annaM [paryuSitam [akhaadya.apeya.anaadyam , zuktaM ca /
+Ap1.5.17.19/ [phaaNita.pRthuka.taNDula.karambharuja#.saktu.zaaka.maaMsa.piSTa.kSiira.vikaara.oSadhi.vanaspati.muula.phala.varjam / ( K karamba bharuuja.--, variant bharuja-iti and bharija-iti )
+Ap1.5.17.20/ zuktaM ca-apara.yogam /
+Ap1.5.17.21/ sarvaM madyam [apeyam /
+Ap1.5.17.22/ tathaa-elakaM payaH /
+Ap1.5.17.23/ uSTrii.kSiira.mRgii.kSiira.sandhinii.kSiira.yamasuu.kSiiraaNi-iti /
+Ap1.5.17.24/ dhenoz ca-anirdazaayaaH /
+Ap1.5.17.25/ tathaa kiilaala.oSadhiinaaM# ca / ( K oSadhiinaa ca )
+Ap1.5.17.26/ karaJja.palaNDu.paraariikaaH /
+Ap1.5.17.27/ yac ca-anyat [paricakSate /
+Ap1.5.17.28/ kyaakva.[bhojyam iti hi braahmaNam /
+Ap1.5.17.29/ ekakhura.uSTra.gavaya.graamasuukara.zarabha.gavaam /
+Ap1.5.17.30/ dhenu.anaDuhor [bhakSyam /
+Ap1.5.17.31/ medhyam aanaDuham iti vaajasaneyakam /
+Ap1.5.17.32/ kukkuTo vikiraaNaam /
+Ap1.5.17.33/ plavaH pratudaam /
+Ap1.5.17.34/ kravya.adaH /
+Ap1.5.17.35/ haMsa.bhaasa.cakravaaka.suparNaaz ca /
+Ap1.5.17.36/ kruJca.krauJca.vaardhraaNasa.lakSMana.varjam / 
+Ap1.5.17.37/ paJca.nakhaanaaM 
+godhaa.kacchapa.zvaaviT.zalyaka.khaNga.zaza.puutikhaSa.varjam / Ap1.5.17.38/ [abhakSyaz ceTo matsyaanaam /
+Ap1.5.17.39/ sarpa.ziirSii mRduraH kravya.ado ye ca-anye [vikRtaa yathaa manuSya.zirasaH /
+
+Ap1.6.18.1/ madhv aamaM maargaM maaMsaM bhuumir muula.phalaani rakSaa gavyuutir nivezanaM yugya.ghaasaz ca-ugrataH [pratigRhyaaNi / 
+Ap1.6.18.2/ etaany api na-anantevaasy.[aahRtaani-iti haariitaH /
+Ap1.6.18.3/ aamaM vaa [gRhNiiran /
+Ap1.6.18.4/ [kRta.annasya vaa vi.rasasya /
+Ap1.6.18.5/ na su.bhikSaaH [syuH /
+Ap1.6.18.6/ svayam apy [avRttau suvarNaM [dattvaa pazuM vaa [bhuJjiita /
+Ap1.6.18.7/ na-atyantam [anvavasyet /
+Ap1.6.18.8/ vRttiM [praapya [viramet /
+Ap1.6.18.9/ trayaaNaaM varNaanaaM kSatriya.prabhRtiinaaM [samaavRttena na [bhoktavyam /
+Ap1.6.18.10/ prakRtyaa braahmaNasya [bhoktavyaM# kaaraNaad# [abhojyam / ( K bhokravyam akaaraNaad )
+Ap1.6.18.11/ yatra-apraayazcittaM karma-[aasevate praayazcittavati /
+Ap1.6.18.12/ [carita.nirveSasya [bhoktavyam /
+Ap1.6.18.13/ sarva.varNaanaaM svadharme [vartamaanaanaaM [bhoktavyaM zuudra.varjam ity eke /
+Ap1.6.18.14/ tasya-api [dharma.upanatasya /
+Ap1.6.18.15/ suvarNam [datvaa pazuM vaa [bhuJjiita na-atyantam [anvavasyed vRttiM [praapya [viramet / 
+Ap1.6.18.16/ saGgha.annam [abhojyam /
+Ap1.6.18.17/ [parikruSTaM ca /
+Ap1.6.18.18/ sarveSaaM ca zilpa.aajiivaanaam /
+Ap1.6.18.19/ ye ca zastram [aajiivanti /
+Ap1.6.18.20/ ye ca-aadhim /
+Ap1.6.18.21/ bhiSak /
+Ap1.6.18.22/ vaardhuSikaH /
+Ap1.6.18.23/ [diikSito- '[akriita.raajakaH /
+Ap1.6.18.24/ agniiSomiiya.saMsthaayaam eva /
+Ap1.6.18.25/ [hutaayaaM vaa# vapaayaaM [diikSitasya [bhoktavyam / ( K om. vaa )
+Ap1.6.18.26/ yajJa.arthe vaa [nirdiSTe zeSaad [bhuJjiirann iti hi braahmaNam /
+Ap1.6.18.27/ kliibaH /
+Ap1.6.18.28/ raajJaaM praiSa.karaH /
+Ap1.6.18.29/ ahaviryaajii /
+Ap1.6.18.30/ caarii /
+Ap1.6.18.31/ avidhinaa ca [pravrajitaH /
+Ap1.6.18.32/ yaz ca-agniin [apaasyati /
+Ap1.6.18.33/ yaz ca sarvaan [varjayate sarvaannii ca zrotriyo niraakRtir vRSalii.patiH /
+Ap1.6.19.1/ [matta [unmatto [baddho- 'aNikaH [pratyupaviSTo yaz ca [pratyupavezayate taavantaM kaalam /
+Ap1.6.19.2/ ka [azya.annaH# / ( K aazya.-- )
+Ap1.6.19.3/ ya [iipsed iti kaNvaH /
+Ap1.6.19.4/ puNya iti kautsaH /
+Ap1.6.19.5/ yaH kaz cid [dadyaad iti vaarSyaayaNiH /
+Ap1.6.19.6/ yadi ha# rajaH sthaavaraM puruSe [bhoktavyam atha cet-calaM daanena nirdoSo [bhavati / ( K hi )
+Ap1.6.19.7/ [zuddhaa bhikSaa [bhoktavyaa-eka.kuNikau kaaNva.kutsau tathaa puSkarasaadiH /
+Ap1.6.19.8/ sarvatopetaM vaarSyaayaNiiyam / (sarvata upetam) double sandhi?
+Ap1.6.19.9/ puNyasya-[iipsato [bhoktavyam /
+Ap1.6.19.10/ puNyasya-apy [aniipsato na [bhoktavyam /
+Ap1.6.19.11/ yataH kutaz ca-[abhyudyataM [bhoktavyam /
+Ap1.6.19.12/ na-ananiyoga.puurvam iti haariitaH /
+Ap1.6.19.13/ atha puraaNe zlokaav [udaaharanti / `(z) [udyataam [aahRtaaM bhikSaaM purastaad [apraveditaam / [bhojyaaM [mene prajaapatir api [duSkRta.kaariNaH // (z) na tasya pitaro- 'aznanti daza varSaaNi paJca ca / na ca [havyaM [vahaty agnir yas taam abhy [adhimanyata iti // 
+Ap1.6.19.14/ (z) cikitsakasya mRgayoH zalya.[kRntasya paazinaH / kulaTaayaaH SaNDhakasya# ca teSaam annam [anaadyam // ( K SaNDakasya )
+Ap1.6.19.15/ atha-apy [udaaharanti / (z) annaade bhruuNahaa [maarSTi anenaa [abhizaMsati / stenaH [pramukto raajani [yaacann anRta.saMkara iti //
+Ap1.7.20.1/ na-imaM laukikam arthaM [puraskRtya dharmaaMz [caret / 
+Ap1.7.20.2/ niSphalaa hy abhyudaye [bhavanti /
+Ap1.7.20.3/ tad yathaa-amre phala.arthe [nirmite# chaayaa gandha ity [anuutpadyete / evaM dharmaM [caryamaaNam arthaa [anuutpadyante / ( K nimitte )
+Ap1.7.20.4/ na-u ced [anuutpadyante na dharma.haanir [bhavati /
+Ap1.7.20.5/ anasuuyur duSpralambhaH [syaat kuhaka.zaTha.naastika.baalavaadeSu /
+Ap1.7.20.6/ na dharma.adharmau [carata aavaM sva iti / na deva.gandharvaa na pitara ity [aacakSate- 'ayaM dharmo- 'ayam adharma iti /
+Ap1.7.20.7/ yat#1 tv aaryaaH [kriyamaaNaM [prazaMsanti sa dharmo yad#2 [garhante so- 'adharmaH / ( K 1:yaM, 2:yaM ) 
+Ap1.7.20.8/ sarvajanapadeSv ekaanta.samaahitam aaryaaNaam [vRttaM samyag.[viniitaanaaM vRddhaanaam aatmavataam alolupaanaam adaambhikaanaaM vRtta.saadRzyaM [bhajeta /
+Ap1.7.20.9/ evam ubhau lokaav [abhijayati /
+Ap1.7.20.10/ [avihitaa braahmaNasya vaNijyaa /
+Ap1.7.20.11/ aapadi [vyavahareta paNyaanaam apaNyaani [vyudasyan /
+Ap1.7.20.12/ manuSyaan rasaan raagaan gandhaan annaM carma gavaaM vazaaM zleSma.udake tokmakiNve pippali.mariice dhaanyaM maaMsam aayudhaM [sukRta.aazaaM ca /
+Ap1.7.20.13/ tila.taNDulaaMs tv eva dhaanyasya vizeSeNa na [vikriiNiiyaat / 
+Ap1.7.20.14/ [avihitaz ca-eteSaaM mitho vinimayaH /
+Ap1.7.20.15/ annena ca-annasya manuSyaaNaaM ca manusyai rasaanaaM ca rasair gandhaanaaM ca gandhair vidyayaa ca vidyaanaam /
+Ap1.7.20.16/ [akriita.paNyair [vyavahareta /
+Ap1.7.21.1/ muJja.balbajair muula.phalaiH /
+Ap1.7.21.2/ tRNa.kaaSThair [a.vikRtaiH /
+Ap1.7.21.3/ na-atyantam [anvavasyet /
+Ap1.7.21.4/ vRttiM [praapya [viramet /
+Ap1.7.21.5/ na [patitaiH [saMvyavahaaro [vidyate /
+Ap1.7.21.6/ tathaa-apapaatraiH /
+Ap1.7.21.7/ atha [pataniiyaani /
+Ap1.7.21.8/ steyam aabhizastyaM puruSa.vadho brahma.ujjhaM garbha.zaatanam maatuH pitur iti yoni.saMbandhe saha-apatye strii.gamanaM suraa.paanam asaMyoga.saMyogaH /
+Ap1.7.21.9/ gurvii.sakhiM guru.sakhiM ca [gatvaa-anyaaMz ca para.talpaan /
+Ap1.7.21.10/ na-aguru.talpe [patati-ity eke /
+Ap1.7.21.11/ adharmaaNaaM tu satatam aacaaraH /
+Ap1.7.21.12/ atha-azuci.karaaNi /
+Ap1.7.21.13/ zuudra.gamanam aarya.striiNaam /
+Ap1.7.21.14/ [pratiSiddhaanaaM maaMsa.bhakSaNam /
+Ap1.7.21.15/ zuno manuSyasya ca kukkuTa.suukaraaNaaM graamyaaNaaM kravyaadasaam /
+Ap1.7.21.16/ manuSyaaNaaM muutra.puriiSa.praazanam /
+Ap1.7.21.17/ zuudra.ucchiSTam apapaatra.aagamanaM#1 ca.aaryaaNaam#2 / ( K 1:--.gamanaM, 2:ca aaryaaNaam )
+Ap1.7.21.18/ etaany api [pataniiyaani-ity eke /
+Ap1.7.21.19/ ato- 'anyaani doSavanty azuci.karaaNi [bhavanti /
+Ap1.7.21.20/ doSaM [buddhvaa na puurvaH parebhyaH [patitasya samaakhyaane [syaad [varjayet tv enaM dharmeSu /
+Ap1.8.22.1/ adhyaatmikaan yogaan [anutiSThen nyaaya.saMhitaan anaizcaarikaan /
+Ap1.8.22.2/ aatma.laabhaan na paraM [vidyate /
+Ap1.8.22.3/ tatra-aatma.laabhiiyaan-zlokaan [udaahariSyaamaH /
+Ap1.8.22.4/ (z)? puuH praaNinaH sarva eva guhaa.zayasya / [ahanyamaanasya vikalmaSasya / acalaM cala.niketaM ye- 'anutiSThanti te- 'amRtaaH /
+Ap1.8.22.5/ (z) yad idam id iha-id iha loke viSayam [ucyate / [vidhuuya kavir etad [anutiSThed guhaa.zayam /
+Ap1.8.22.6/ aatmann eva-aham alabdhvaa-etad dhitaM sevasva na-ahitam / (z) atha-anyeSu [pratiicchaami saadhuSThaanam anapekSayaa / mahaantaM tejasas-  kaayaM sarvatra [nihitaM prabhum / 
+Ap1.8.22.7/ (z)? sarva.bhuuteSu yo nityo vipazcid amRto dhruvaH / anaGgo- 'azabdo- 'azariiro- 'asparzaz ca mahaan-zuciH / sa sarvaM paramaa kaaSThaa sa vaiSuvataM(<viSuvat) sa vai vaibhaajanaM puram /
+Ap1.8.22.8/ (z) taM yo- 'anutiSThet sarvatra praadhvaM ca-asya sadaa-aacaret / durdarzaM nipuNaM [yukto yaH [pazyet sa [modeta viSTape //
+Ap1.8.23.1/ (z) aatman [pazyan sarva.bhuutaani na [muhyec [cintayan kaviH / aatmaanaM ca-eva sarvatra yaH [pazyet sa vai brahmaa naaka.pRSThe [viraajati //
+Ap1.8.23.2/  (z)? nipuNo- 'aNiiyaan bisorNaayaa yaH sarvam [aavRtya [tiSThati / varSiiyaaMz ca pRthivyaa dhruvaH sarvam [aarabhya [tiSThati / sa indriyair jagato- 'asya jJaanaad anyo- 'ananyasya [jJeyaat parameSThii vibhaajaH / tasmaat kaayaaH [prabhavanti sarve sa muulaM zaazvatikaH sa nityaH //
+Ap1.8.23.3/ (z)? doSaaNaaM tu [vinirghaato yoga.muula iha [jiivite / [nirhRtya bhuuta.daahiiyaan kSemaM [gacchati paNDitaH //
+Ap1.8.23.4/ atha bhuuta.daahiiyaan doSaan [udaahariSyaamaH / 
+Ap1.8.23.5/ krodho harSo roSo lobho moho dambho droho mRSodyam atyaaza.pariivaada.avasuuyaa kaama.manyuu anaatmyam ayogas teSaaM yoga.muulo [nirghaataH /
+Ap1.8.23.6/ akrodho- 'aharSo- 'aroSo- 'alobho- 'amoho- 'adambho- 'adrohaH satya.vacanam anatyaazo- 'apaizunam anasuuyaa saMvibhaagas tyaaga aarjavaM maardavaM zamo damaH sarva.bhuutair avirodho yoga aaryam aanRzaMsaM tuSTir iti sarva.aazramaaNaaM samaya.padaani taany [anutiSThan vidhinaa saarvagaamii [bhavati /
+Ap1.9.24.1-3/ kSatriyaM [hatvaa gavaaM sahasraM vairayaatana.arthaM [dadyaat , zataM vaizye , daza zuudre /
+Ap1.9.24.4/ RSabhaz ca-atra-adhikaH sarvatra praayazcitta.arthaH /
+Ap1.9.24.5/ striiSu ca-eteSaam evam /
+Ap1.9.24.6-7/ puurvayor varNayor veda.adhyaayaM [hatvaa savana.gataM vaa-[abhizastaH / braahmaNa.maatram ca /
+Ap1.9.24.8-9/ garbhaM ca tasya-[avijJaatam / aatreyiiM ca striyam /
+Ap1.9.24.10/ tasya nirveSaH /
+Ap1.9.24.11/ araNye kuTiM [kRtvaa [vaag.yataH zavazira.dhvajo- 'ardhazaaNii.pakSam adhonaabhy.uparijaanu- aacchaadya / 
+Ap1.9.24.12/ tasya panthaa antaraa vartmanii /
+Ap1.9.24.13/ [dRSTvaa ca-anyam [utkraamet /
+Ap1.9.24.14/ khaNDena lohitakena zaraaveNa graame [pratiSTheta /
+Ap1.9.24.15/ ko- '[abhizastaaya bhikSaam iti sapta.agaaraaNi# [caret / ( K --.agaaraM and --.agaaraaNi in variant )
+Ap1.9.24.16/ saa vRttiH / 
+Ap1.9.24.17/ [alabdhaa#-upavaasaH / (K alabdhvaa-) 
+Ap1.9.24.18/ gaaz ca [rakSet /
+Ap1.9.24.19/ taasaaM niSkramaNa.pravezane dvitiiyo graame- 'arthaH /
+Ap1.9.24.20/ dvaadaza varSaaNi [caritvaa siddhaH sadbhiH saMprayogaH /
+Ap1.9.24.21/ aaji.pathe vaa kuTim [kRtvaa braahmaNa.gavya.[upajigiiSaMaaNo [vaset triH pratiraaddho- '[apajitya vaa [muktaH /
+Ap1.9.24.22/ aazvamedhikaM vaa-avabhRtham [avetya [mucyate /
+Ap1.9.24.23/ dharma.artha.[saMnipaate- 'artha.graahiNa etad eva /
+Ap1.9.24.24/ guruM [hatvaa zrotriyaM vaa [karma.samaaptam etena-eva vidhinaa-uttamaad ucchvaasaac [caret /
+Ap1.9.24.25/ na-asya-asmiMl loke pratyaapattir [vidyate kalmaSaM tu [nirhaNyate /
+Ap1.9.25.1/ gurutalpa.gaamii sa.vRSaNaM ziznaM [parivaasya-aJjalaav [aadhaaya dakSiNaaM dizam anaavRttiM [vrajet / 
+Ap1.9.25.2/ [jvalitaaM vaa suurmiM [pariSvajya [samaapnuyaat /
+Ap1.9.25.3/ suraa.aapo- 'agni.sparzaa suraaM [pibet /
+Ap1.9.25.4/ stenaH prakiirNa.kezo- 'aMse musalam [aadaaya# raajaanaM [gatvaa karma-[aacakSiita / tena-enaM hanyaad vadhe mokSaH / ( K aadhaaya )
+Ap1.9.25.5/ [anujJaate- 'anujJaataaram enaH /# ( K adds apRzati )
+Ap1.9.25.6/ agniM vaa [pravizet tiikSNaM vaa tapa [aayacchet / ( = K 6, 7 )
+Ap1.9.25.7/ [bhakta.apacayena vaa-aatmaanaM [samaapnuyaat / ( = K 8 )
+Ap1.9.25.8/ kRcchra.saMvatsaraM vaa [caret / ( = k 9 )
+Ap1.9.25.9-10/ atha-apy [udaaharanti #1/ steyaM [kRtvaa suraaM [piitvaa guru.daaraM ca [gatvaa brahmahatyaam [akRtvaa#2 caturtha.kaalaa [mita.bhojanaaH [syur apo- '[abhyaveyuH savana.anukalpam / sthaana.aasanaabhyaaM [viharanta ete tribhir varSair apa paapaM [nundate (nudante)#3 / ( 1 = K 10, 11 steyaM ..., 2:inserts /, 3:nundante )
+Ap1.9.25.11/ prathamaM varNaM [parihaapya prathamaM varNaM [hatvaa saMgraamaM [gatvaa-[avatiSTheta / tatra-enaM [hanyuH / ( = K 12 )
+Ap1.9.25.12/ api vaa lomaani tvacaM maaMsam iti [haavayitvaa-agniM [pravizet / ( = K 13 )
+Ap1.9.25.13/ vaayasa.pracalaaka.barhiNa.cakravaaka.haMsa.bhaasa.maNDuuka.nakulaDerika.azvahiMsaayaaM zuudravat praayazcittam // ( = K 14 )
+Ap1.9.26.1/ dhenv.anaDuhoz ca-akaaraNaat /
+Ap1.9.26.2/ dhurya.vaaha.[pravRttau ca-itareSaaM praaNinaam /
+Ap1.9.26.3/ [anaakrozyam aakruzya-anRtaM vaa-[uktvaa triraatram akSiira.akSaara.alavaNa.bhojanaM / 
+Ap1.9.26.4/ zuudrasya sapta.raatram abhojanam /
+Ap1.9.26.5/ striiNaaM ca-evam /
+Ap1.9.26.6/ yeSv aabhizastyaM teSaam ekaaGgaM [chittvaa-apraaNa.hiMsaayaam /
+Ap1.9.26.7/ anaaryavapaizuna[pratiSiddhaaacaareSv [abhakSya.abhojya.apeyapraazane zuudraayaaM ca retaH [siktvaa-ayonau ca doSavac ca karma.abhisaMdhi.puurvaM [kRtvaa-anabhisaMdhi.puurvaM vaa-ab.liGgaabhir apa [upaspRzed vaaruNiibhir vaa-anyair vaa pavitrair# yathaa karma.abhyaasaH / ( K pavitra.mantrair )
+Ap1.9.26.8/ gardabhena-[avakiirNii nirRtiM paaka.yajJena [yajeta / 
+Ap1.9.26.9/ tasya zuudraH [praazniiyaat /
+Ap1.9.26.10/ [mithyaaadhiitapraayazcittam /
+Ap1.9.26.11/ saMvatsaram aacaarya.hite [vartamaano vaacaM [yacchet svaadhyaaya eva-[utsRjamaano vaacam aacaarya aacaarya.daare bhikSaa.carye ca /
+Ap1.9.26.12/ evam anyeSv api doSavat sva.pataniiyeSu-uttaraaNi yaani [vakSyaamaH / 
+Ap1.9.26.13/ kaama.manyubhyaaM vaa [juhuyaat kaamo- 'akaarSiin manyur [akaarSiid iti [japed vaa /
+Ap1.9.26.14/ parvaNi vaa tila.bhakSa [upoSya vaa zvo.bhuuta udakam [upaspRzya saavitriiM praaNaayaamazaH sahasra.kRtva [aavartayed apraaNaayaamazo vaa //
+Ap1.9.27.1/ zraavaNyaaM#1 paurNamaasyaaM tilabhaksa [upoSya vaa zvobhuute#2 mahaa.nadam udakam [upaspRzya saavitryaa samit.sahasram [aadadhyaaj [japed vaa / ( K 1:inserts vaa after zraavaNyaaM, 2:zvo bhuute )
+Ap1.9.27.2/ iSTi.yajJa.kratuun vaa pavitra.arthaan [aaharet / 
+Ap1.9.27.3/ [abhojyaM [bhuktvaa naiSpuriiSyam /
+Ap1.9.27.4/ tat sapta.raatreNa-[avaapyate /
+Ap1.9.27.5/ hemanta.zizirayor vaa-ubhayoH saMdhyor# udakam [upaspRzet / ( K saMdhyor vaa )
+Ap1.9.27.6/ kRcchra.dvaadaza.raatraM vaa [caret /
+Ap1.9.27.7/ tryaham anakta.aazy adivaa.aazii tatas tryahaM tryaham [ayaacita.vratas tryahaM na-aznaati kiMcana-iti kRcchra.dvaadaza.raatrasya vidhiH /
+Ap1.9.27.8/ etam eva-[abhyaset# saMvatsaraM sa kRcchra.saMvatsaraH / (K abhyasyet )
+Ap1.9.27.9/ atha-aparam#1 / bahuuny apy [apataniiyaani [kRtvaa tribhir anaznat#2 paaraayaNaiH [kRta.praayazcitto [bhavati / ( K 1:-aparaM bahuuny ...,  2:anaznan )
+Ap1.9.27.10/ (z) anaaryaaM zayane [bibhred# [dadad vRddhiM kaSaayapaH / abraahmaNa iva [vanditvaa tRNeSv [aasiita pRSThatap // ( K bibhtad )
+Ap1.9.27.11/ (z) yad eka.raatreNa karoti paapaM kRSNaM varNaM braahmaNaH sevamaanaH / caturtha.kaala udaka.abhyavaayii tribhir varSais tad [apahanti paapam //
+Ap1.10.28.1/ yathaa kathaa ca para.parigraham [abhimanyate steno ha [bhavati-iti kautsa.haariitau tathaa kaNva.puSkarasaadii /
+Ap1.10.28.2/ [santy apavaadaaH parigraheSv iti vaarSyaayaNiH /
+Ap1.10.28.3/ zamyoSaa yugya.ghaaso na svaaminaH [pratiSedhayanti /
+Ap1.10.28.4/ ativyapahaaro [vyRddho [bhavati /
+Ap1.10.28.5/ sarvatra-anumati.puurvam iti haariitaH /
+Ap1.10.28.6/ na patitam aacaaryaM jJaatiM vaa darzanaartho [gacchet /
+Ap1.10.28.7/ na ca-asmaad bhogaan [upayuJjiita /
+Ap1.10.28.8/ yadRcchaa[saMnipaata [upasaMgRhya tuuSNiiM [vyativrajet /Ap1.10.28.9/ maataa putratvasya bhuuyaaMsi karmaaNy [aarabhate tasyaaM zuzruuSaa nityaa [patitaayaam api /
+Ap1.10.28.10/ na tu dharma.saMnipaataH#[ [syaat / ( K sannivaapaH )
+Ap1.10.28.11/ adharma.aahRtaan[ bhogaan [anujJaaya na vayaM ca-adharmaz ca-ity [abhivyaahRtya-adho.naabhi#1-upari.jaanu-aachaadya#2 tri.SavaNam udakam [upaspRzann akSiira.akSaara.alavaNaM#3 [bhuJjaano dvaadaza varSaaNi naagaaraM#4 [pravizet / ( K 1:---adho na-abhi---, 2:jaanu-aacchaadyaH, 3:--.kSaaralavaNaM, 4:na-aagaaraM )
+Ap1.10.28.12/ tataH siddhiH /
+Ap1.10.28.13/ atha saMprayogaH [syaad aaryaiH /
+Ap1.10.28.14/ etad eva-anyeSaam api [pataniiyaanaam /
+Ap1.10.28.15/ guru.talpa.gaamii tu suSiraaM suurmiM [pravizya-ubhayata [aadiipya-abhidahed aatmaanam /
+Ap1.10.28.16/ mithyaa-etad iti haariitaH /
+Ap1.10.28.17/ yo hy aatmaanaM paraM vaa-abhimanyate- 'abhizasta eva sa [bhavati /
+Ap1.10.28.18/ etena-eva vidhinaa-uttamaad ucchvaasaac#1 [caret / na-asya-asmiMl loke pratyaapattir [vidyate / kalmaSaM#2 tu [nirhaNyate / ( K 1:ujchaasaac?, 2:kalpaSaM )
+Ap1.10.28.19/ daara.vyatikramii khara.ajinaM bahir.loma [paridhaaya daara.vyatikramiNe bhikSaam iti sapta.agaaraaNi [caret / saa vRttiH SaN.maasaan / 
+Ap1.10.28.20/ striyaas tu bhartR.vyatikrame#1 #2kRcchra.dvaadaza.raatraabhyaasas taavantaM kaalam / ( K 1:bhartu.--, 2:kRccha-- )
+Ap1.10.28.21/ atha bhruuNahaa zva.ajinaM khara.ajinaM vaa bahir.loma [paridhaaya puruSa.ziraH pratiipaana.artham [aadaaya //
+Ap1.10.29.1a/ khaTva.aGgam daNDa.arthe karma.naamadheyaM [prabruvaaNaz [caGkramyeta ko bhruuNa.ghne bhikSaam iti / graame praaNa.vRttiM [pratilabhya zuunya.agaaraM vRkSa.muulaM vaa-[abhyupaazrayen na hi ma aaryaiH# saMprayogo [vidyate / ( K aaryaiH saha )
+Ap1.10.29.1b/ etena-eva vidhinaa-uttamaad ucchvaasaac [caret / na-asya-asmiMl loke pratyaapattir [vidyate / kalmaSaM tu [nirhaNyate / 
+Ap1.10.29.2/ yaH [pramatto [hanti [praaptam doSa.phalam /
+Ap1.10.29.3/ saha saMkalpena bhuuyaH /
+Ap1.10.29.4/ evam anyeSv api doSavatsu karmasu /
+Ap1.10.29.5/ tathaa puNya.kriyaasu /
+Ap1.10.29.6/ pariikSaa.artho- 'api braahmaNa aayudhaM na-aadadiita /
+Ap1.10.29.7/ yo hiMsaa.artham [abhikraantaM [hanti manyur eva manyuM [spRzati na tasmin doSa iti puraaNe /
+Ap1.10.29.8/ atha-[abhizastaaH [samavasaaya [careyur dhaarmyam iti [saaMzitya-itaretara.yaajakaa itaretara.adhyaapakaa mitho [vivahamaanaaH# / ( K vivaahamaanaaH )
+Ap1.10.29.9/ putraan [saMniSpaadya [bruuyur vipra# [vrajatata#-asmad evaM hy asmatsv aaryaaH [saMpratyapatsyata-iti / ( K viprajata instead of vipra vrajatata- )
+Ap1.10.29.10/ atha-api na sa.indriyaH [patati /
+Ap1.10.29.11/ tad etena [veditavyam / aGga.hiino hi# sa.aGgaM [janayati / ( K api )
+Ap1.10.29.12/ mithyaa-etad iti haariitaH /
+Ap1.10.29.13/ dadhi.dhaanii.sa.dharmaa strii [bhavati /
+Ap1.10.29.14/ yo hi dadhi.dhaanyaam [aprayataM paya [aatacya# [manthati na tena dharma.kRtyaM [kriyate / evam azuci zuklaM yan [nivartate na tena saha saMprayogo [vidyate / ( K aataJcya )
+Ap1.10.29.15/ abhiicaaraa.anuvyaahaaraav azuci.karaav [apataniiyau /
+Ap1.10.29.16/ [pataniiyaav iti haariitaH /
+Ap1.10.29.17/ [pataniiya.vRttis tv azuci.karaaNaaM dvaadaza maasaan dvaadaza.ardhamaasaan dvaadaza dvaadaza.ahaan dvaadaza sapta.ahaan dvaadaza try.ahaan#1 dvaadaza.ahaM sapta.ahaM try.aham#2 eka.aham / ( K  1:inserts dvaadaza dvahaan between try.ahaan and dvaadaza.ahaM, 2:inserts dvyaham )
+Ap1.10.29.18/ ity azuci.kara.nirveSo yathaa karma.abhyaasaH //
+Ap1.11.30.1/ vidyayaa [snaati-ity eke /
+Ap1.11.30.2/ tathaa vratena-aSTaacatvaariMzat pariimaaNena /
+Ap1.11.30.3/ vidyaa.vratena ca-ity eke /
+Ap1.11.30.4/ teSu sarveSu snaatakavad.vRttiH /  
+Ap1.11.30.5/ samaadhi.vizeSaat-zruti.vizeSaat-ca puujaayaaM phala.vizeSaH /
+Ap1.11.30.6/ atha snaataka.vrataani /
+Ap1.11.30.7/ puurveNa graamaan niSkramaNa.pravezanaani [ziilayed uttareNa vaa /
+Ap1.11.30.8/ saMdhyoz ca bahir.graamaad aasanaM vaag.yataz ca / 
+Ap1.11.30.9/ vipratiSedhe zruti.lakSaNaM baliiyaH /
+Ap1.11.30.10/ sarvaan raagaan vaasasi [varjayet /
+Ap1.11.30.11/ kRSNaM ca svaabhaavikam /
+Ap1.11.30.12/ anuudbhaasi vaaso [vasiita /
+Ap1.11.30.13/ apratikRSTaM ca zakti.viSaye /
+Ap1.11.30.14/ divaa ca zirasaH praavaraNaM [varjayen muutra.puriiSayoH karma [parihaapya /
+Ap1.11.30.15/ ziras tu [praavRtya muutra.puriiSe [kuryaad bhuumyaaM kiMcid [antardhaaya /
+Ap1.11.30.16/ chaayaayaam muutra.puriiSayoH karma [varjayet /
+Ap1.11.30.17/ svaaM tu chaayaam [avamehet /
+Ap1.11.30.18/ na sa.upaanah-muutra.puriiSe [kuryaat [kRSTe pathy apsu ca / ( = K18+19+20+21 )
+Ap1.11.30.19/ tathaa SThevana.maithunayoH karma-apsu [varjayet / ( = K 22 )
+Ap1.11.30.20/ agnim aadityam apo braahmaNaM gaa devataaz ca-abhimukho muutra.puriiSayoH karma [varjayet / ( = K 23 )
+Ap1.11.30.21/ azmaanaM loSTham aardraaan oSadhi.vanaspatiin uurdhvaan [aacchidya muutra.puriiSayoH zundhane [varjayet / ( = K 24 )
+Ap1.11.30.22/ agnim#1 apo braahmaNaM gaa devataa#2 dvaaraM#2 pratiivaatam ca zakti.viSaye na-[abhiprasaarayiita / ( = K 25, K 1:inserts aadityam, 2:devataadvaaraM )
+Ap1.11.30.23/ atha-apy [udaaharanti /
+Ap1.11.31.1/ (z) praaG.mukho- 'annaani [bhuJjiita# [uccared dakSiNaa.mukhaH / udaG.mukhaH- muutraM [kuryaat pratyak.paadaavanejanam iti // ( K bhuJjiittocared )
+Ap.1.11.31.2/ aaraac ca-aavasathaan muutra.puriiSe [kuryaad dakSiNaaM dizaM dakSiNaa.paraaM vaa / 
+Ap1.11.31.3/  astam.ite ca bahir graamaad aaraad aavasathaad vaa muutra.puriiSayoH karma [varjayet /
+Ap1.11.31.4/ devataa.abhidhaanaM ca-aprayataH /
+Ap1.11.31.5/ puruSam ca-ubhayor devataanaaM raajJaz ca /
+Ap1.11.31.6/ braahmaNasya gor iti pada.upasparzanaM [varjayet /
+Ap1.11.31.7/ hastena ca-akaaraNaat /
+Ap1.11.31.8/ gor dakSiNaanaaM kumaaryaaz ca pariivaadaan [varjayet /
+Ap1.11.31.9/ stRhatiiM# ca gaaM na-[aacakSiita / ( K spRhatiiM )
+Ap1.11.31.10/ [saMsRSTaaM ca vatsena-animitte /
+Ap1.11.31.11/ na-adhenum adhenur iti [bruuyaat /dhenu.bhavyaa-ity eva [bruuyaat /
+Ap1.11.31.12/ na bhadram bhadram iti [bruuyaat / puNyaM prazaastam ity eva [bruuyaat / ( = K 13+14 )
+Ap1.11.31.13/ vatsa.tantiiM ca na-upari [gacchet / ( = K 15 )
+Ap1.11.31.14/ pleGkhaav antareNa ca na-[atiiyaat / ( = K 16 )
+Ap1.11.31.15/ na-asau me sapatna iti [bruuyaat / yady asau me sapatna iti bruuyaad [dviSantaM bhraatRvyaM [janayet / ( K = 17 )
+Ap1.11.31.16/ na-indra.dhanur iti parasmai [prabruuyaat / ( = K 18 )
+Ap1.11.31.17/ na [patataH [saMcakSiitaH# /( = K 19, saMcakSiita )
+Ap1.11.31.18/ [udyantam astaM yantaM# ca-aadityaM darzane [varjayet / ( = K 20, yas taM ) 
+Ap1.11.31.19/ divaa-aadityaH sattvaani#1 [gopaayati naktaM candramaas#2 tasmaad amaavaasyaayaaM nizaayaaM [svaadhiiya aatmano guptim [icchet  [praayatya brahmacaryakaale caryayaa ca / ( = K 21, 1:satvaani, 2:inserts / )
+Ap1.11.31.20/ saha hy etaaM raatriM suuryaa.candramasau [vasataH / ( = K 22 )
+Ap1.11.31.21/ na kusRtyaa graamaM [pravizet / yadi [pravizen namo rudraaya vaastoSpataya ity etaam RcaM [japed anyaaM vaa raudriim // ( = K 23 )
+Ap1.11.31.22/ na-abraahmaNaaya-ucchiSTaM [prayacchet / yadi [prayacched dantaan skuptvaa tasminn [avadhaaya [prayacchet // ( = K 25+26 )
+Ap1.11.31.23/ krodhaadiiMz ca bhuuta.daahiiyaan doSaan [varjayet // ( = K 27 )
+Ap1.11.32.1/ pravacana.yukto varSaa.zaradaM maithunaM [varjayet /
+Ap1.11.32.2/ [mithunii.bhuuya ca na tayaa saha sarvaaM raatriM [zayiita /
+Ap1.11.32.3/ [zayaanaz ca-adhyaapanaM [varjayet /
+Ap1.11.32.4/ na ca tasyaaM zayyaayaam [adhyaapayed yasyaaM [zayiita /
+Ap1.11.32.5/ anaaviHsrag.anulepaNaH [syaat /
+Ap1.11.32.6/ sadaa nizaayaaM daaraM praty [alaMkurviita /
+Ap1.11.32.7/ saziraa vamajjanam apsu [varjayet /
+Ap1.11.32.8/ [astamite ca snaanam /
+Ap1.11.32.9/ paalaazam aasanaM paaduke danta.prakSaalanam iti ca [varjayet /
+Ap1.11.32.10/ stutiM ca guroH samakSaM yathaa [su.snaatam iti /
+Ap1.11.32.11/ aa nizaayaa jaagaraNam /
+Ap1.11.32.12/ anadhyaayo nizaayaam anyatra dharma.upadezaat-ziSyebhyaH /
+Ap1.11.32.13/ manasaa vaa svayam / 
+Ap1.11.32.14/ uurdhvam ardha.raatraad adhyaapanam /.
+Ap1.11.32.15/ na-apara.raatram [utthaaya-anadhyaaya iti [saMvizet /
+Ap1.11.32.16/ kaamam apaz [zayiita /
+Ap1.11.32.17/ manasaa vaa-[adhiiyiita /
+Ap1.11.32.18/ kSudraan [kSudraa.caritaaMz ca dezaan na [seveta /
+Ap1.11.32.19/ sabhaaH samaajaaMz ca /
+Ap1.11.32.20/ samaajaM ced [gacchet [pradakSiNii.kRtya-[apeyaat /
+Ap1.11.32.21/ nagara.pravezanaani ca [varjayet /
+Ap1.11.32.22/ praznaM ca na [vibruuyaat /
+Ap1.11.32.23/ atha-apy [udaaharanti /
+Ap1.11.32.24/ (z) muulaM tuulaM [vRhati durvivaktuH prajaaM pazuun aayatanaM [hinasti / dharma.prahraada na kumaalanaaya [rudan ha mRtyur [vyuvaaca praznam iti //
+Ap1.11.32.25/ gaardabhaM yaanam aarohaNe viSam aarohaNa.avarohaNaani ca [varjayet /
+Ap1.11.32.26/ baahubhyaaM ca nadiitaram# / ( K nadiitaraNam )
+Ap1.11.32.27/ naavaaM# ca saaMzayikiim / ( K naavaM )
+Ap1.11.32.28/ tRNa.cchedana.loSTa.vimardanaa#.SThevanaani ca-akaaraNaat / ( K vimardana )
+Ap1.11.32.29/ yac ca-anyat [paricakSate yac ca-anyat [paricakSate //
+Ap2.1.1.1/ paaNi.grahaNaad adhi gRhamedhinor vratam /
+Ap2.1.1.2/ kaalayor bhojanam /
+Ap2.1.1.3/ atRptiz ca-annasya /
+Ap2.1.1.4/ parvasu ca-ubhayor upavaasaH /
+Ap2.1.1.5/ aupavastam eva kaala.antare bhojanam /
+Ap2.1.1.6/ tRptiz ca-annasya /
+Ap2.1.1.7/ yac ca-enayoH priyaM [syaat tad etasminn ahani [bhuJjiiyaataam /
+Ap2.1.1.8/ adhaz ca [zayiiyaataam /
+Ap2.1.1.9/ maithuna.varjanaM ca /
+Ap2.1.1.10/ zvo.bhuute# sthaaliipaakaH / ( K zvo bhuute )
+Ap2.1.1.11/ tasya-upacaaraH paarvaNena [vyaakhyaataH /
+Ap2.1.1.12/ nityaM loka [upadizanti /
+Ap2.1.1.13/ yatra kva ca-agnim [upasamaadhaasyan [syaat tatra praaciir udiiciiz ca tisras tisro lekhaa [likhitvaa-adbhir [avokSya-agnim [upasamindhyaat /
+Ap2.1.1.14/ [utsicya-etad udakam uttareNa puurveNa vaa-anyad [upadadhyaat /
+Ap2.1.1.15/ nityam uda.dhaanaany adbhir ariktaani [syur gRhamedhinor vratam /
+Ap2.1.1.16/ ahany asaMvezanam /
+Ap2.1.1.17/ Rtau ca [saMnipaato daareNa-anuvratam /
+Ap2.1.1.18/ antaraale- 'api daara eva /
+Ap2.1.1.19/ braahmaNa.vacanaac ca saMvezanam /
+Ap2.1.1.20/ strii.vaasasaa-eva [saMnipaataH [syaat /
+Ap2.1.1.21/ [yaavat.saMnipaataM ca-eva sahazayyaa# / ( K saha zayyaa )
+Ap2.1.1.22/ tato naanaa /
+Ap2.1.1.23/ udaka.upasparzanam //
+
+Ap2.1.2.1/ api vaa lepaan [prakSaalya-[aacamya prokSaNam aGgaanaam /
+Ap2.1.2.2/ sarva.varNaanaaM sva.dharma.anuSThaane parama.parimitaM sukham / 
+Ap2.1.2.3/ tataH [parivRttau karma.phala.zeSeNa jaatiM ruupaM varNaM balaM medhaaM prajJaaM dravyaaNi dharma.anuSThaanam iti [pratipadyate / tat-cakravad ubhayor lokayoH sukha eva [vartate /
+Ap2.1.2.4/ yathaa-oSadhi.vanaspatiinaaM biijasya kSetra.karma.vizeSe phala.parivRddhir evam /
+Ap2.1.2.5/ etena doSa.phala.parivRddhir [uktaa /
+Ap2.1.2.6/ steno- '[abhizasto braahmaNo raajanyo vaizyo vaa parasmiMl loke [parimite# niraye [vRtte [jaayate caaNDaalo braahmaNaH paulkaso raajanyo vaiNo vaizyaH / ( K parimitaM )
+Ap2.1.2.7/ etena-anye doSa.phalaiH karmabhiH paridhvaMsaa doSa.phalaasu yoniSu [jaayante varNa.paridhvaMsaayaam /
+Ap2.1.2.8/ yathaa caaNDaala.upasparzane saMbhaaSaayaaM darzane ca doSas tatra praayazcittam /
+Ap2.1.2.9/ avagaahanam apaam upasparzane saMbhaaSaayaaM braahmaNa.saMbhaaSaa darzane jyotiSaaM darzanam // ( = K 9+10 )
+Ap2.2.3.1/ aaryaaH [prayataa vaizvadeve- 'anna.saMskartaaraH [syuH /
+Ap2.2.3.2/ bhaaSaaM kaasaM kSavayum# ity abhimukho- 'annaM [varjayet / ( K kSavadhum )
+Ap2.2.3.3/ kezaan aGgaM vaasaz ca-aalabhya-apa [upaspRzet /
+Ap2.2.3.4/ aarya.adhiSThitaa[ vaa zuudraaH saMskartaaraH syuH /
+Ap2.2.3.5/ teSaaM sa eva-aacamana.kalpaH /
+Ap2.2.3.6/ adhikam ahar ahaH keza.zmazru.loma.nakha.vaapanam /
+Ap2.2.3.7/ udaka.upasparzanaM ca saha vaasasaa /
+Ap2.2.3.8/ api vaa-aSTamiiSv eva parvasu vaa [vaperan# / ( K vaparen )
+Ap2.2.3.9/ parokSam annaM [saMskRtam agnaav [adhizritya-adbhiH [prokSet / tad deva.pavitram ity [aacakSate /
+Ap2.2.3.10/ [siddhe- 'anne [tiSThan bhuutam iti svaamine [prabruuyaat /
+Ap2.2.3.11/ tat [su.bhuutaM viraaD annaM tan maa [kSaayi-iti prativacanaH /
+Ap2.2.3.12/ gRhamedhinor# yad [azaniiyasya homaa balayaz ca svarga.puSTi.[saMyuktaaH / ( K gRhamedhino )
+Ap2.2.3.13/ teSaaM mantraaNaam upayoge dvaadaza.aham adhaH.zayyaa brahma.caryaM kSaara.lavaNa.varjanaM ca /
+Ap2.2.3.14/ uttamasya-eka.raatram upavaasaH /
+Ap2.2.3.15/ baliinaaM tasya tasya deze saMskaaro hastena [parimRjya-[avokSya [nyupya pazcaat pariSecanam /
+Ap2.2.3.16/ aupaasane pacane vaa SaDbhir [aadyaiH pratimantraM hastena [juhuyaat /
+Ap2.2.3.17/ ubhayataH pariSecanaM yathaa purastaat /
+Ap2.2.3.18/ evaM baliinaaM deze deze [samavetaanaaM sakRt sakRd ante pariSecanam /
+Ap2.2.3.19/ [sati su.upasaMsRSTena[ [kaaryaaH /
+Ap2.2.3.20/ apareNa-agniM saptama.aSTamaabhyaam udag.apavargam /
+Ap2.2.3.21/ uda.dhaana.saMnidhau navamena /
+Ap2.2.3.22/ madhye- 'agaarasya dazama.ekaadazaabhyaaM praag.apavargam /
+Ap2.2.3.23/ uttara.puurvadeze#- 'agaarasya-uttaraiz caturbhiH // ( K uttara.puurve deze )
+Ap2.2.4.1/ zayyaa.deze kaama.liGgena /
+Ap2.2.4.2/ dehalyaam antarikSa.liGgena /
+Ap2.2.4.3/ uttareNa-apidhaanyaam /
+Ap2.2.4.4/ uttarair brahma.sadane /
+Ap2.2.4.5/ dakSiNataH pitR.liGgena praaciina.aaviity.avaaciina.paaNiH [kuryaat /
+Ap2.2.4.6/ raudra uttaro yathaa devataabhyaH /
+Ap2.2.4.7/ tayor naanaa pariSecanaM dharma.bhedaat /
+Ap2.2.4.8/ naktam eva-uttamena vaihaayasam /
+Ap2.2.4.9/ ya etaan avyagro yathaa.upadezaM [kurute nityaH svargaH puSTiz ca /
+Ap2.2.4.10/ agraM ca [deyam / 
+Ap2.2.4.11/ atithiin eva-agre [bhojayet /
+Ap2.2.4.12/ baalaan vRddhaan roga.saMbandhaan striiz ca-antarvatniiH /
+Ap2.2.4.13/ kaale svaaminaav annaarthinaM na [pratyaa.cakSiiyaataam /
+Ap2.2.4.14/ abhaave bhuumir udakaM tRNaani kalyaaNii vaag iti /# etaani vai sato- 'agaare na [kSiiyante kadaacana-iti / ( K om. / )
+Ap2.2.4.15/ evaM.vRttaav ananta.lokau [bhavataH /
+Ap2.2.4.16/ braahmaNaaya-anadhiiyaaanaaya-aasanam udakam annam iti [deyam /# na [pratyuttiSThet / ( K om. / )
+Ap2.2.4.17/ abhivaadanaaya-eva-uttiSThed [abhivaadyaz cet /
+Ap2.2.4.18/ raajanya.vaizyau ca /
+Ap2.2.4.19/ zuudram [abhyaagataM karmaNi [niyuJjyaat / atha-asmai [dadyaat / ( = K 19+20 )
+Ap2.2.4.20/ daasaa vaa raaja.kulaad [aahRtya-atithivat-zuudram [puujayeyuH / ( = K 21 )
+Ap2.2.4.21/ nityam uttaraM vaasaH [kaaryam / ( = K 22 )
+Ap2.2.4.22/ api vaa suutram eva-[upaviitaarthe / ( = K 23 )
+Ap2.2.4.23/ yatra [bhujyate tat [samuuhya [nirhRtya-[avokSya taM dezam amatrebhyo lepaan [saMkRSya-adbhiH [saMsRjya-uttarataH zucau deze rudraaya [ninayet / evaM vaastu zivaM [bhavati / ( = K 24 )
+Ap2.2.4.24/ braahmaNa aacaaryaH [smaryate tu / ( = K 25 )
+Ap2.2.4.25/ aapadi braahmaNena raajanye vaizye vaa-adhyayanam / ( = K 26 )
+Ap2.2.4.26/ anugamanaM ca pazcaat / ( = K 27 )
+Ap2.2.4.27/ tata uurdhvaM braahmaNa eva-agre [gatau [syaat // ( =K 28 )
+Ap2.2.5.1/ sarva.vidyaanaam apy upaniSadaam [upaakRtya-anadhyayanaM tad ahaH /
+Ap2.2.5.2/ [adhiitya ca-avikramaNaM sadyaH / 
+Ap2.2.5.3/ yadi [tvareta guroH samiikSaayaaM svaadhyaayam [adhiitya kaamaM gacchet /# evam ubhayoH zivaM [bhavati // ( K om. / )
+Ap2.2.5.4/ [samaavRttaM ced aacaaryo- '[abhyaagacchet tam abhimukho- '[abhyaagamya tasya-[upasaMgRhya na [biibhatsamaana udakam [upaspRzet [puraskRtya-[upasthaapya yathaa.upadezaM [puujayet /
+Ap2.2.5.5/ aasane zayane [bhakSye [bhojye vaasasi vaa [saMnihite nihiinatara.vRttiH [syaat /
+Ap2.2.5.6/ [tiSThan savyena paaNinaa-[anugRhya-aacaaryam [aacamayet /
+Ap2.2.5.7/ anyaM vaa [samudetam /
+Ap2.2.5.8/ sthaana.aasana.caGkramaNa.smiteSv [anucikiirSan /
+Ap2.2.5.9/ [saMnihite muutraa.puriiSa.vaata.karma-uccair bhaaSaa.haasa.SThevana#.danta.skavana.niHzRGkhaNa.bhrukSepaNa.taalana.niSThyaani-iti / ( K --.SThiivana-- )
+Ap2.2.5.10/ daare prajaayaaM ca-upasparzana.bhaaSaa visrambha.puurvaaH [parivarjayet /
+Ap2.2.5.11/ vaakyena vaakyasya [pratiighaatam aacaaryasya [varjayet /
+Ap2.2.5.12/ zreyasaaM ca / ( 11+ 12 = K 11 )
+Ap2.2.5.13/ sarva.bhuuta.pariivaada.aakrozaaMz ca / ( = K 12 )
+Ap2.2.5.14/ vidyayaa ca vidyaanaam / ( = K 13 )
+Ap2.2.5.15/ yayaa vidyayaa na [viroceta punar aacaaryam [upetya niyamena [saadhayet / ( = K 14 )
+Ap2.2.5.16/ upaakaraNaad aa-utsarjanaad#1 adhyaapayitur niyamaH /#2 loma.saMharaNaM maaMsaM zraaddhaM maithunam iti ca [varjayet / ( = K 15, 1: upaakaraNaadyaa-utsarjanaad ,  2: om. / )
+Ap2.2.5.17/ Rtve vaa jaayaam / ( = K 16 )
+Ap2.2.5.18/ yathaa.aagamaM ziSyebhyo vidyaa.saMpradaane niyameSu ca [yuktaH [syaat /# evaM [vartamaanaH puurva.aparaan saMbandhaan aatmaanaM ca kSeme [yunakti / ( = K 17, om. / )
+Ap2.2.5.19/ manasaa vaacaa praaNena cakSuSaa zrotreNa tvak.zizna.udara.aarambhanaNa.anaasraavaan [parivRJjaano- 'amRtatvaaya [kalpate // ( = K 18 )
+Ap2.3.6.1/ jaati.aacaara.saMzaye dharma.artham [aagatam agnim [upasamaadhaaya jaatim aacaaraM ca pRcchet /
+Ap2.3.6.2/ saadhutaaM cet [pratijaaniite- 'agnir upadraSTaa vaayur upazrotaa-aadityo- 'anukhyaataa saadhutaaM#1 [pratijaaniite saadhu-asmaa [astu vitatha eSa enasa ity [uktvaa [zaastuM [pratipadyeta#2 / ( K 1:insets 
+cet, 2:pratipadyate )
+Ap2.3.6.3/ agnir iva [jvalann atithir [abhyaagacchati / 
+Ap2.3.6.4/ dharmeNa vedaanaam eka.ekaaM zaakhaam [adhiitya zrotriyo [bhavati /
+Ap2.3.6.5/ [sva.dharma.yuktaM kuTumbinam [abhyaagacchati dharma.puraskaaro na-anya.prayojanaH so- 'atithir [bhavati /
+Ap2.3.6.6/ tasya puujaayaaM zaantiH svargaz ca /
+Ap2.3.6.7/ tam abhimukho- 'abhyaagamya yathaa.vayaH [sametya tasya-aasanam [aahaarayet /
+Ap2.3.6.8/ zakti.viSaye na-abahu.paadam aasanaM [bhavati-ity eke /
+Ap2.3.6.9/ tasya paadau [prakSaalayet /# zuudra.mithunaav ity eke /(K om. / )
+Ap2.3.6.10/ anyataro- 'abhiSecane [syaat /
+Ap2.3.6.11/ tasya-udakam [aahaarayen mRnmayena#-ity eke / ( K mRN.mayena )
+Ap2.3.6.12/ na-udakam [aacaarayed(aahaarayed?)#  [asamaavRttaH / ( K aahaarayed )
+Ap2.3.6.13/ adhyayana.saaMvRttiz ca-atra-adhikaa /
+Ap2.3.6.14/ [saantvayitvaa [tarpayed rasair bhakSyair adbhir [avaraardhyena*-iti / [*ed. avaraarghyena-]
+Ap2.3.6.15/ aavasathaM [dadyaad upari.zayyaam upastaraNam upadhaanaM sa.avastaraNam abhyaJjanaM ca-iti /
+Ap2.3.6.16/ anna.saMskartaaram [aahuuya vriihiin yavaan vaa tad.arthaan [nirvapet /
+Ap2.3.6.17/ [uddhRtaany annaany [avekSeta-idaM bhuuyaa3 idaa3m  iti / 
+Ap2.3.6.18/ bhuuya [uddhara-ity eva [bruuyaat /
+Ap2.3.6.19/ [dviSan [dviSato vaa na-annam [azniiyaad doSeNa vaa [miimaaMsamaanasya [miimaaMsitasya vaa /
+Ap2.3.6.20/ paapmaanaM hi sa tasya [bhakSayati-iti [vijJaayate //
+Ap2.3.7.1/ sa eSa praajaapatyaH# kuTumbino yajJo nitya.pratataH[ / ( K prajaapatyaH )
+Ap2.3.7.2/ yo- 'atithiinaam agniH sa aahavaniiyo yaH kuTumbe sa gaarhapatyo yasmin [pacyate so- 'anvaahaaryapacanaH /
+Ap2.3.7.3/ uurjaM puSTiM prajaaM pazuun iSTaa.puurtam iti gRhaaNaam [aznaati yaH puurvo- 'atither [aznaati /
+Ap2.3.7.4/ paya.upasecanam annam agniSToma.saMmitaM[ sarpiSaa-ukthya.saMmitaM[ madhunaa-atiraatra.saMmitaM[ maaMsena dvaadaza.aha.saMmitam[ udakena prajaa.vRddhir aayuSaz ca /
+Ap2.3.7.5/ priyaa apriyaaz ca-atithayaH svargaM lokaM [gamayanti-iti [vijJaayate /
+Ap2.3.7.6/ sa yat praatar madhyaMdine saayam iti [dadaati savanaany eva taani [bhavanti /
+Ap2.3.7.7/ yad [anutiSThaty [udavasyaty eva tat /
+Ap2.3.7.8/ yat [saantvayatati# saa dakSiNaa prazaMsaa / ( K saantavayati )
+Ap2.3.7.9/ yat [saMsaadhayati te viSNu.kramaaH /
+Ap2.3.7.10/ yad [upaavartate so- 'avabhRthaH /
+Ap2.3.7.11/ iti hi# braahmaNam / ( K om. hi )
+Ap2.3.7.12/ raajaanaM ced atithir [abhyaagacchet-zreyasiim asmai puujaam aatmanaH [kaarayet /
+Ap2.3.7.13/ [aahita.agniM ced atithir [abhyaagacchet svayam enam [abhyudetya [bruuyaat / vraatya kva-avaatsiir iti / vraatya udakam iti / vraatya [tarpayaMs tv iti /
+Ap2.3.7.14/ puraa-agnihotrasya homaad upaaMzu [japet / vraatya yathaa te manas tathaa-[astu-iti / vraatya yathaa te vazas tathaa-[astu-iti / vraatya yathaa te priyaM tathaa-[astu-iti / vraatya yathaa te nikaamas tathaa-[astu-iti //
+Ap2.3.7.15/ yasya-[uddhRteSv [ahuteSv agniSv atithir [abhyaagacchet svayam enam [abhyudetya [bruuyaat vraatya [atisRja [hoSyaami / ity [atisRSTena [hotavyam / [anatisRSTaz cej-[juhuyaad doSaM braahmaNam [aaha //
+Ap2.3.7.16/ eka.raatraM ced atithiin [vaasayet paarthivaaMl lokaan [abhijayati dvitiiyayaa-antarikSyaaMs tRtiiyayaa divyaaMz caturthyaa paraavato lokaan aparimitaabhir [aparimitaaMl lokaan [abhijayati-iti [vijJaayate /
+Ap2.3.7.17/ [asamudetaz ced atithir [bruvaaNa [aagacched aasanam udakam annaM zrotriyaaya [dadaami-ity eva [dadyaat / evam asya [samRddhaM [bhavati //
+Ap2.4.8.1/ yena [kRta.aavasathaH [syaad atithir na taM [pratyuttiSThet [pratyavarohed vaa purastaat-ced [abhivaaditaH /
+Ap2.4.8.2/ zeSabhojii-atithiinaaM [syaat /
+Ap2.4.8.3/ na rasaan gRhe [bhuJjiita-anavazeSam atithibhyaH /
+Ap2.4.8.4/ na-aatma.artham abhiruupam annaM [paacayet /
+Ap2.4.8.5/ go.madhu.parka.arho veda.adhyaayaH /
+Ap2.4.8.6/ aacaarya Rtvik snaatako raajaa vaa dharma[yuktaH /
+Ap2.4.8.7/ aacaaryaaya-Rtvije zvazuraaya raajJa iti parisaMvatsaraad [upatiSThadbhyo gaur madhu.parkaz ca /
+Ap2.4.8.8/ dadhi madhu.[saMsRSTaM madhu.parkaH payo vaa madhu.saMsRSTam[ /
+Ap2.4.8.9/ abhaava udakam /
+Ap2.4.8.10/ SaDaGgo vedaH /
+Ap2.4.8.11/ chandaH kalpo vyaakaraNaM jyotiSaM niruktaM ziikSaa chando.vicitir iti /
+Ap2.4.8.12/ zabda. artha.aarambhaNaanaaM tu karmaNaaM samaamnaaya.samaaptau veda.zabdaH / tatra saMkhyaa [vipratiSiddhaa /
+Ap2.4.8.13/ aGgaanaaM tu pradhaanair avyapadeza iti nyaayavit.samayaH /
+Ap2.4.8.14/ atithiM [niraakRtya yatra [gate bhojane [smaret tato [viramya-[upoSya //
+Ap2.4.9.1/ zvo.bhuute#1 yathaa.manasaM#2 [tarpayitvaa [saMsaadhayet / ( K 1. zvo bhuute , 2.yathaa.maanasaM )
+Ap2.4.9.2/ yaanavantam aa yaanaat /
+Ap2.4.9.3/ yaavat-na-[anujaaniiyaad itaraH /
+Ap2.4.9.4/ apratiibhaayaaM siimno [nivarteta /
+Ap2.4.9.5/ sarvaan vaizvadeve bhaaginaH [kurviita-aa zva.caaNDaalebhyaH# / ( K zva.caNDaalebhyaH )
+Ap2.4.9.6/ na-[anarhadbhyo [dadyaad ity eke /
+Ap2.4.9.7/ [upetaH striiNaam [anupetasya ca-ucchiSTaM [varjayet /
+Ap2.4.9.8/ sarvaaNy udaka.puurvaaNi daanaani /
+Ap2.4.9.9/ yathaa.zruti vihaare /
+Ap2.4.9.10/ ye nityaa bhaaktikaas teSaam anuparodhena saMvibhaago [vihitaH /
+Ap2.4.9.11/ kaamam aatmaanaM bhaaryaaM putraM vaa-[uparundhyaan na tu-eva daasa.karma.karam / 
+Ap2.4.9.12/ tathaa ca-aatmano- 'anuparodhaM [kuryaad yathaa karmasv# asamarthaH# [syaat / ( K karmasu samarthas )
+Ap2.4.9.13a/ atha-apy [udaaharanti / (z) aSTau graasaa muner bhakSaH# SoDaza-araNyavaasinaH / dvaatriMzataM gRhasthasya-[aparimitaM brahmacaariNaH // ( K bhakSyaaH )
+Ap2.4.9.13b/ (z) aahita.agnir anaDvaaMz ca brahmacaarii ca te trayaH / [aznanta eva [sidhyanti na-eSaaM siddhir [anaznataam iti // 
+Ap2.5.10.1/ bhikSaNe nimittam aacaaryo vivaaho yajJo maataa.pitror bubhuurSaa-[arhataz ca niyama.vilopaH /
+Ap2.5.10.2/ tatra guNaan [samiikSya yathaa.zakti [deyam /
+Ap2.5.10.3/ indriya.priity.arthasya tu bhikSaNam animittam / na tad [aadriyeta // ( = K 3+4 )
+Ap2.5.10.4/ svakarma braahmaNasya-adhyayanam adhyaapanam yajJo yaajanam daanaM pratigrahaNam daayaad yaM ziloJchaH# / ( = K 5, siloJchaH )
+Ap2.5.10.5/ anyat-ca-[aparigRhiitam / ( = K 6 )
+Ap2.5.10.6/ etaany eva kSatriyasya-adhyaapana.yaajana.pratigrahaNaani-iti [parihaapya daNDa.yuddha.adhikaani / ( = K 7 ) 
+Ap2.5.10.7/ kSatriyavad vaizyasya daNDa.yuddha.varjaM kRSi.go.rakSya.vaaNijya.adhikam / ( = K 8 )
+Ap2.5.10.8/ na-[ananuucaanam RtvijaM [vRNiite na paNamaanam# / ( = 9, --.maaNam )
+Ap2.5.10.9/ [ayaajyo- '[anadhiiyaanaH / ( = K 10 )
+Ap2.5.10.10/ yuddhe tad yogaa yathaa.upaayam [upadizanti tathaa [pratipattavyam / ( = K 11 )
+Ap2.5.10.11/ [nyasta.aayudha.prakiirNa.keza.praaJjali.[paraaG.aavRttaanaam aaryaa vadhaM [paricakSate / ( = K 12 )
+Ap2.5.10.12/ zaastrair [adhigataanaam indriya.daurbalyaad [vipratipannaanaaM [zaastaa nirveSam [upadized yathaa.karma [yathaa.uktam / ( = K 13 )
+Ap2.5.10.13/ tasya cet-zaastram [atipravarteran rajaanaM [gamayet / ( = K 14 )
+Ap2.5.10.14/ raajaa purohitaM dharma.artha.kuzalam / ( = K 15 )
+Ap2.5.10.15/ sa braahmaNaan [niyuJjyaat / ( = K 16 )
+Ap2.5.10.16/ bala.vizeSeNa vadha.daasya.varjaM niyamair [upazoSayet // ( = K 17 )
+Ap2.5.11.1/ itareSaaM varNaanaam aa praaNa.viprayogaat [samavekSya teSaaM karmaaNi raajaa daNDam [praNayet /
+Ap2.5.11.2/ na ca saMdehe daNDaM [kuryaat /
+Ap2.5.11.3/ [su.vicitaM [vicitya-aa daiva.praznebhyo raajaa daNDaaya [pratipadyeta /
+Ap2.5.11.4/ evaM.vRtto[ raajaa-ubhau lokaav [abhijayati /
+Ap2.5.11.5/ raajJaH panthaa braahmaNena-[asametya /
+Ap2.5.11.6/ sametya tu braahmaNasya-eva panthaaH /
+Ap2.5.11.7/ yaanasya bhaara.abhinihitasya-aturasya[ striyaa iti sarvair [daatavyaH /
+Ap2.5.11.8/ varNa.jyaayasaaM ca-itarair varNaiH /
+Ap2.5.11.9/ [aziSTa.patita.matta.unmattaanaam aatma.svasti.ayana.arthena sarvair eva [daatavyaH /
+Ap2.5.11.10/ dharma.caryayaa jaghanyo varNaH puurvaM puurvaM varNam [aapadyate jaati.[parivRttau / 
+Ap2.5.11.11/ adharma.caryayaa puurvo varNo jaghanyaM jaghanyaM varNam [aapadyate jaati.parivRttau /
+Ap2.5.11.12/ dharma.prajaa.saMpanne[ daare na-anyaaM [kurviita /
+Ap2.5.11.13/ anyatara.abhaave [kaaryaa praag agnyaadheyaat /
+Ap2.5.11.14/ aadhaane hi [satii karmabhiH [saMbadhyate yeSaam etad aGgam /
+Ap2.5.11.15/ sagotraaya duhitaraM na [prayacchet / 
+Ap2.5.11.16/ maatuz ca yoni.saMbandhebhyaH / 
+Ap2.5.11.17/ braahme vivaahe bandhu.ziila#1.zruta.arogyaaNi [buddhvaa prajaa.sahatva#2.karmabhyaH [pratipaadayet-zakti.viSayeNa-[alaMkRtya / ( K 1:inserts lakSaNasampanna, 2:prajaaM sahatva-- )
+Ap2.5.11.18/ aarSe duhitRmate mithunau gaavau [deyau /
+Ap2.5.11.19/ daive yajJa.tantra Rtvije [pratipaadayet /
+Ap2.5.11.20/ mithaH kaamaat [saaMvartete sa gaandharvaH //
+Ap2.5.12.1/ zakti.viSayeNa dravyaaNi [datvaa# [vaheran# sa aasuraH / ( K datvaa-aavaheran )
+Ap2.5.12.2/ duhitRmataH [prothayitvaa# [vaheran# sa raakSasaH / ( K prothayitvaa`aavaheran )
+Ap2.5.12.3/ teSaaM traya aadyaaH [prazastaaH puurvaH puurvaH zreyaan /
+Ap2.5.12.4/ yathaa# [yukto# vivaahas tathaa [yuktaa prajaa [bhavati / ( K yathaayukto )
+Ap2.5.12.5/ paaNi.samuuDhaM[ braahmaNasya na-aprokSitam [abhitiSThet /
+Ap2.5.12.6-7/ agniM braahmaNam ca-antareNa na-[atikraamet / braahmaNaaMz ca /
+Ap2.5.12.8/ [anujJaapya vaa-[atikraamet /
+Ap2.5.12.9/ agnim apaz ca na yugapad-[dhaarayiita /
+Ap2.5.12.10/ naanaa.agniinaaM ca saMnivaapaM# [varjayet / ( K sannipaataM )
+Ap2.5.12.11/ pratimukham agnim [aahriyamaaNam na-apratiSThitaM bhuumau [pradakSiNii.kuryaat /
+Ap2.5.12.12/ pRSThataz ca-aatmanaH paaNii na [saMzleSayet /
+Ap2.5.12.13/ [svapann [abhinimrukto na-[aazvaan vaag.yato[ raatrim [aasiita / zvo. bhuuta udakam [upaspRzya vaacaM [visRjet / 
+Ap2.5.12.14/ [svapann [abhyudito na-[aazvaan [vaag.yato- 'ahas [tiSThet /
+Ap2.5.12.15/ aa# [tamitoH# praaNam [aayacched ity eke / ( K aatamitoH )
+Ap2.5.12.16/ svapnaM vaa paapakaM [dRSTvaa /
+Ap2.5.12.17/ arthaM vaa [siSaadhayiSan /
+Ap2.5.12.18/ niyama.atikrame ca-anyasmin /
+Ap2.5.12.19/ doSa.phala.saMzaye na tat [kartavyam /
+Ap2.5.12.20/ evam adhyaaya.anadhyaaye /
+Ap2.5.12.21/ na saMzaye pratyakSavad [bruuyaat /
+Ap2.5.12.22/ [abhinimrukta.abhyudita.kunakhi.zyaavadaagradidhiSu.didhiSuupati.paryaahita.pariiSTa.parivitta.parivinna.parivividaaneSu ca-uttara.uttarasminn 
+azuci.kara.nirveSo gariiyaan gariiyaan // 
+Ap2.5.12.23/ tat-ca liGgaM [caritvaa-[uddhaaryam ity eke // 
+Ap2.6.13.1/ savarNaapuurva.zaastra.vihitaayaaM yatha.rtu [gacchataH putraas teSaaM karmabhiH saMbandhaH /
+Ap2.6.13.2/ daayena#-avyatikramaz ca-ubhayoH / ( K daayena ca- )
+Ap2.6.13.3/ puurvavatyaam [asaMskRtaayaaM varNa.antare ca maithune doSaH /
+Ap2.6.13.4/ tatra-api doSavaan putra eva /
+Ap2.6.13.5/ utpaadayituH putra iti hi braahmaNam /
+Ap2.6.13.6a/ atha-apy [udaaharanti /(z) idaaniim eva-ahaM janaka striiNaam [iirSyaami no puraa / yadaa yamasya saadane janayituH putram [abruvan //
+Ap2.6.13.6b/ (z) reto.dhaaH putraM [nayati [paretya yama.saadane / tasmaad bhaaryaaM [rakSanti [bibhyantaH para.retasaH // 
+Ap2.6.13.6c/ (z) [apramattaa [rakSatha tantum etaM maa vaH kSetre parabiijaani [vaapsuH / janayituH putro [bhavati saaMparaaye moghaM [vettaa [kurute tantum etam iti //
+Ap2.6.13.7/ [dRSTo dharma.vyatikramaH saahasaM ca puurveSaam /
+Ap2.6.13.8/ teSaaM tejo.vizeSeNa pratyavaayo na [vidyate / 
+Ap2.6.13.9/ tad [anviikSya [prayuJjaanaH [siidaty avaraH /
+Ap2.6.13.10/ daanaM kraya.dharmaz ca-apatyasya na [vidyate /
+Ap2.6.13.11a/ vivaahe duhitRmate daanaM [kaamyaM dharmaarthaM [zruuyate tasmaad duhitRmate- 'adhirathaM zataM [deyaM tan mithuyaa [kuryaad iti /
+Ap2.6.13.11b/ tasyaaM kraya.zabdaH saMstuti.maatram /# dharmaad-hi saMbandhaH /
+Ap2.6.13.12/  eka.dhanena jyeSThaM [toSayitvaa / ( K om. / )
+Ap2.6.14.1/ [jiivan putrebhyo daayaM [vibhajet samaM kliibam [unmattaM# [patitaM ca [parihaapya / ( K unmatta )
+Ap2.6.14.2/ putra.abhaave yaH [pratyaasannaH sapiNDaH /
+Ap2.6.14.3/ tad.abhaava aacaarya aacaarya.abhaave- 'antevaasii [hRtvaa tad.artheSu dharma.kRtyeSu vaa-[upayojayet /
+Ap2.6.14.4/ duhitaa vaa/
+Ap2.6.14.5/ sarva.abhaave raajaa daayaM [hareta# / ( K haret )
+Ap2.6.14.6/ jyeSTho daayaada ity eke /
+Ap2.6.14.7/ deza.vizeSe suvarNam kRSNaa gaavaH kRSNaM bhaumaM jyeSThasya /
+Ap2.6.14.8/ rathaH pituH pariibhaaNDaM# ca gRhe / ( K paribhaaNDaM )
+Ap2.6.14.9/ alaMkaaro bhaaryaayaa# jJaati.dhanaM ca-ity eke / ( K bhaaryaayaaH )Ap2.6.14.10/ tat-zaastrair [vipratiSiddham /
+Ap2.6.14.11/ manuH putrebhyo daayaM [vyabhajad ity avizeSeNa [zruuyate /
+Ap2.6.14.12/ atha-api tasmaat-jyeSThaM putraM dhanena [niravasaayayanti-ity ekavat-[zruuyate /
+Ap2.6.14.13/ atha-api nitya.anuvaadam avidhim [aahur nyaayavido yathaa tasmaad ajaavayaH pazuunaaM saha#1 [caranti#1-iti#2 tasmaat snaatakasya mukhaM [rebhaayati#3-iva#4 tasmaad bastaz ca zrotriyaz ca strii.kaamatamaav iti / ( K 1:sahacaranti-, 2:inserts /, 3:rephaayati-, 4:inserts / )
+Ap2.6.14.14/ sarve hi dharma.yuktaa[ bhaaginaH /
+Ap2.6.14.15/ yas tv adharmeNa dravyaaNi [pratipaadayati jyeSTho- 'api tam abhaagaM [kurviita /
+Ap2.6.14.16/ jaayaaa.patyor na vibhaago [vidyate /
+Ap2.6.14.17/ paaNigrahaNaad-hi sahatvaM karmasu /
+Ap2.6.14.18/ tathaa puNya.phaleSu /
+Ap2.6.14.19/ dravya.parigraheSu ca /
+Ap2.6.14.20/ na hi bhartur vipravaase naimittike daane steyam [upadizanti 
+//
+
+Ap2.6.15.1/ etena deza.kula.dharmaa [vyaakhyaataaH /
+Ap2.6.15.2/ maatuz ca yoni.saMbandhebhyaH pituz ca-aa saptamaat 
+puruSaad# yaavataa vaa saMbandho [jJaayate teSaaM [preteSu-udaka.upasparzanaM garbhaan [parihaapya-aparisaMvatsaraan / ( K om. puruSaad )
+Ap2.6.15.3/ maataa.pitaraav eva teSu /
+Ap2.6.15.4/ hartaaraz ca /
+Ap2.6.15.5/ bhaaryaayaaM parama.guru.saMsthaayaaM ca-akaalam# abhojanam# / ( K ca-akaalabhojanam )
+Ap2.6.15.6/ aatura.vyaJjanaani [kurviiran /
+Ap2.6.15.7-8/ kezaan [prakiirya paaMsuun opyekavaasaso#1 (paaMsuun [opya-ekavaasaso ?) dakSiNaa.mukhaaH sakRd [upamajjaya#2-[uttiirya-upavizanti /#3 evaM triH /#4 ( = K 7, 1:opya-ekavaasaso, 2:upamajjya, 3:om. /, 4:adds K 8:evaM triH )
+Ap2.6.15.9/ tat.pratyayam udakam [utsicya-apratiikSaa graamam [etya yat striya [aahus tat [kurvanti /
+Ap2.6.15.10/ itareSu ca-etad eva-eke- [upadizanti /
+Ap2.6.15.11/ zuciin mantravataH sarva.kRtyeSu [bhojayet /
+Ap2.6.15.12/ dezataH kaalataH zaucataH samyak pratigrahiitRta iti daanaani [pratipaadayati /
+Ap2.6.15.13/ yasya-agnau na [kriyate yasya ca-agraM na [diiyate na tad [bhoktavyam /
+Ap2.6.15.14/ na kSaara.lavaNa.homo [vidyate /
+Ap2.6.15.15/ tathaa-avaraan na [saMsRSTasya ca / 
+Ap2.6.15.16/ [ahaviSyasya homa udiiciinam uSNaM bhasma-[apohya tasmiJ [juhyaat tad-[hutam ahutaM ca-agnau [bhavati /
+Ap2.6.15.17/ na strii [juhuyaat /
+Ap2.6.15.18/ na-[anupetaH /
+Ap2.6.15.19/ aa-anna.praazanaad garbhaa na-[aprayataa [bhavanti /
+Ap2.6.15.20/ aa parisaMvatsaraad ity eke /
+Ap2.6.15.21/ yaavataa yaa dizo na [prajaaniiyuH /
+Ap2.6.15.22/ aa-upanayanaad ity aparam /
+Ap2.6.15.23/ atra hy adhikaaraH zaastrair [bhavati /
+Ap2.6.15.24/ saa niSThaa /
+Ap2.6.15.25/ smRtiz ca /
+
+Ap2.7.16.1/ saha deva.manuSyaa asmiMl loke puraa [babhuuvuH / atha devaaH karmabhir divaM [jagmur [ahiiyanta manuSyaaH / teSaaM ye tathaa karmaaNy [aarabhante saha devair brahmaNaa ca-amuSmiMl loke [bhavanti / atha-etan manuH zraaddha.zabdaM karma [provaaca /Ap2.7.16.2/ prajaa.niHzreyasaa ca / ( 1+2 = K 1 )Ap2.7.16.3/ tatra pitaro devataa braahmaNaas tv aahavaniiya.arthe* / ( = K 2 ) [*ed. aahaniiyaarthe]
+Ap2.7.16.4/ maasi maasi [kaaryam / ( = K 3 ) 
+Ap2.7.16.5/ apara.pakSasya-apara.ahnaH zreyaan / ( = K 4 )
+Ap2.7.16.6/ tathaa-apara.pakSasya jaghanyaany ahaani / ( = K 5 )
+Ap2.7.16.7/ sarveSv eva-apara.pakSasya-ahassu [kriyamaaNe pitRRn [priiNaati / kartus tu kaala.abhiniyamaat phala.vizeSaH // ( = K 6 )
+Ap2.7.16.8/ prathame- 'ahani [kriyamaaNe strii.praayam apatye [jaayate / ( = K 7 )
+Ap2.7.16.9/ dvitiiye- 'astenaaH / ( = K 8 )
+Ap2.7.16.10/ tRtiiye brahma.varcasinaH / ( = K 9 )
+Ap2.7.16.11/ caturthe kSudra.pazumaan / ( = K 10 )
+Ap2.7.16.12/ paJcame pumaaMsaH / bahu.apatyo na ca-anapatyaH [pramiiyate / ( = K 11 )
+Ap2.7.16.13/ SaSThe- 'adhvaziilo- 'akSaziilaz ca / ( = K 12 )
+Ap2.7.16.14/ saptame karSe raaddhiH /  ( = K 13 )
+Ap2.7.16.15/ aSTame puSTiH / ( = K 14 )
+Ap2.7.16.16/ navama ekakhuraaH / ( = K 15 )
+Ap2.7.16.17/ dazame vyavahaare raaddhiH / ( = K 16 )
+Ap2.7.16.18/ ekaadaze kRSNa.ayasaM trapu.siisam / ( = K 17 )
+Ap2.7.16.19/ dvaadaze pazumaan / ( = K 18 )
+Ap2.7.16.20/ trayodaze bahu.putro bahu.mitro [darzaniiya.apatyaH /# yuva.maariNas tu [bhavanti / ( = K 19, om. /  )
+Ap2.7.16.21/ caturdaza aayudhe raaddhiH / ( = K 20 )
+Ap2.7.16.22/ paJcadaze puSTiH / ( = K 21 )
+Ap2.7.16.23/ tatra dravyaaNi tilamaaSaa vriihi.yavaa aapo muula.phalaani / ( = K 22 )
+Ap2.7.16.24/ snehavati tv eva-anne tiivrataraa pitRRNaaM priitir draaghiiyaaMsaM ca kaalam / ( = K 23 )
+Ap2.7.16.25/ tathaa dharma.aahRtena[ dravyeNa tiirthe [pratipannena / ( = K 24 )
+Ap2.7.16.26/ saMvatsaraM gavyena priitiH / ( = K 25 )
+Ap2.7.16.27/ bhuuyaaMsam ato maahiSeNa / ( = K 26 )
+Ap2.7.16.28/ etena graamya.araNyaanaaM pazuunaaM maaMsaM medhyaM [vyaakhyaatam // ( = K 27 )
+
+Ap2.7.17.1/ khaDga.upastaraNe khaDga.maaMsena-aanantyaM kaalam /
+Ap2.7.17.2/ tathaa zatabaler matsyasya maaMsena /
+Ap2.7.17.3/ vaardhraaNasasya# ca / ( K vaarghraaNasasya )
+Ap2.7.17.4/ [prayataH [prasanna.manaaH sRSTo [bhojayed braahmaNaan brahmavido yoni.gotra.mantra.antevaasii.asaMbandhaan /
+Ap2.7.17.5/ guNa.haanyaaM tu pareSaaM [samudetaH sodaryo- 'api [bhojayitavyaH /
+Ap2.7.17.6/ etena-antevaasino [vyaakhyaataaH /
+Ap2.7.17.7-8/ atha-apy [udaaharanti / (z) saMbhojanii naama pizaaca.bhikSaa na-eSaa pitRRn [gacchati na-uta# devaan / iha-eva saa [carati [kSiiNa.puNyaa zaalaa.antare gaur iva [naSTa.vatsaa // ( K no- 'atha )
+Ap2.7.17.9/ (z)? iha-eva [saMbhuJjatii# dakSiNaa kulaat kulaM [vinazyati-iti / ( K sambhuJjati-iti )
+Ap2.7.17.10/ tulya.guNeSu vayo.vRddhaH zreyaan dravya.kRzaz ca-iipsan /
+Ap2.7.17.11/ puurvedyur nivedanam /
+Ap2.7.17.12/ apare.dyur dvitiiyam /
+Ap2.7.17.13/ tRtiiyam aamantraNam /
+Ap2.7.17.14/ triH.praayam eke zraaddham [upadizanti /
+Ap2.7.17.15/ yathaa prathamam evaM dvitiiyaM tRtiiyaM ca /
+Ap2.7.17.16/ sarveSu [vRtteSu sarvataH [samavadaaya zeSasya graasa.avaraardhyaM*# [praazniiyaad [yathaa.uktam / ( K graasa varaardhyaM  )[*ed. --.avaraarghyaM (!)]
+Ap2.7.17.17/ udiicya.vRttis tv aasana.gataanaaM hasteSu-udapaatra.aanayanam /
+Ap2.7.17.18/ [uddhriyataam agnau ca [kriyataam ity [aamantrayate /
+Ap2.7.17.19/ kaamam [uddhriyataaM kaamam agnau [kriyataam ity [attisRSTa [uddharet-juhuyaat-ca / 
+Ap2.7.17.20/ zvabhir apapaatraiz ca zraaddhasya darzanaM [paricakSate /
+Ap2.7.17.21/ zvitraH zipi.viSTaH para.talpa.gaamy aayudhiiya.putraH [zuudra.utpanno braahmaNyaam ity ete zraaddhe [bhuJjaanaaH paGkti.duuSaNaa [bhavanti / 
+Ap2.7.17.22/ trimadhus trisuparNas triNaaciketaz caturmedhaH paJcaagnir jyeSTha.saamago# veda.adhyaayy anuucaanaputraH zrotriya ity ete zraaddhe [bhuJjaanaaH paGkti.paavanaa [bhavanti / ( K jyeSTha.saamiko )
+Ap2.7.17.23/ na ca naktaM zraaddhaM [kurviita /
+Ap2.7.17.24/ [aarabdhe ca-abhojanam aa samaapanaat /
+Ap2.7.17.25/ anyatra raahu.darzanaat //
+Ap2.8.18.1/ vilayanaM [mathitaM piNyaakaM madhu maaMsaM ca [varjayet /
+Ap2.8.18.2/ kRSNa.dhaanyaM zuudraannaM ye ca-anyena.azya.saMmataaH# / ( K ca-anye- 'anaazya.sammataaH )
+Ap2.8.18.3/ [ahaviSyam anRtaM krodhaM yena ca [krodhayet / smRtim [icchan yazo medhaaM svargaM puSTiM dvaadaza-etaani [varjayet / ( = K 3+4 )
+Ap2.8.18.4/ adho.naabhi-upari.jaanu-[aacchaadya tri.SavaNam udakam [upaspRzann anagni.pakva.vRttir [acchaayaa.upagaH#1 sthaana.aasanikaH saMvatsaram etad vrataM [caret /#2 etad aSTaacatvaariMzat [saMmitam ity [aacakSate / ( = K 5, 1:acchaayaa.upagatasthaama--, 2: om. / )
+Ap2.8.18.5/ nityazraaddham / ( = K 6 )
+Ap2.8.18.6/ bahir graamaat-zucayaH zucau deze [saMskurvanti / ( = K 7 )
+Ap2.8.18.7/ tatra navaani dravyaaNi / ( = K 8 )
+Ap2.8.18.8/ yair annaM [saMskriyate yeSu ca [bhujyate / ( = K 9 )
+Ap2.8.18.9/ taani ca [bhuktavadbhyo [dadyaat / ( = K 10 )
+Ap2.8.18.10/ [samudetaaMz ca [bhojayet / ( = K 11 )
+Ap2.8.18.11/ na ca-atad.guNaaya-ucchiSTaM [prayacchet / ( = K 12 )
+Ap2.8.18.12/ evaM saMvatsaram / ( = K 13 )
+Ap2.8.18.13/ teSaam uttamaM lohena-ajena [kaaryam / ( = K 14 )
+Ap2.8.18.14/ maanaM ca [kaarayet [praticchannam / ( = K 15 )
+Ap2.8.18.15/ tasya-uttara.ardhe braahmaNaan [bhojayet / ( = K 16 )
+Ap2.8.18.16/ ubhayaan [pazyati braahmaNaaMz ca [bhuJjaanaan maane ca 
+pitRRn ity [upadizanti / ( = K 17 )
+Ap2.8.18.17/ [kRta.akRtam ata uurdhvam / ( = K 18 )
+Ap2.8.18.18/ zraaddhena hi#1 tRptiM [vedayante#2 pitaraH / ( = K 19, 1:om.hi, 2:nivedayante ) )
+Ap2.8.18.19/ tiSyeNa puSTi.kaamaH / ( = K 20 )
+Ap2.8.19.1/ gaura.sarSapaaNaaM [cuurNaani [kaarayitvaa taiH paaNi.paadaM [prakSaalya mukhaM karNau [praazya ca yad vaato na-[ativaati tad.aasano- 'ajinaM bastasya prathamaH kalpo [vaag.yato dakSiNaa.mukho [bhuJjiita / 
+Ap2.8.19.2/ anaayuSyaM tv# evaM.mukhasya# bhojanaM maatur ity [upadizanti / ( K tvaivaMmukhasya ? )
+Ap2.8.19.3/ audumbaraz camasaH suvarNa.naabhaH [prazaastaH /
+Ap2.8.19.4/ na ca-anyena-api [bhoktavyaH# / ( K bhoktavyam )
+Ap2.8.19.5/ yaavad.graasaM [saMnayan /#1
+Ap2.8.19.6/ [askandayan /#1
+Ap2.8.19.7/ na-[apajahiita /#1
+Ap2.8.19.8/ [apajahiita vaa /#1
+Ap2.8.19.9/ kRtsnaM graasaM [grasiita#2 saha-aGguSTham / ( 5+6+7+8+9 = K 5, all 1:om. /, 2:grasati )
+Ap2.8.19.10/ na ca mukha.zabdaM [kuryaat / ( = K 6 )
+Ap2.8.19.11/ paaNiM ca na-[avadhuunuyaat / ( = K 7 )
+Ap2.8.19.12/ [aacamya ca-uurdhvau paaNii [dhaarayed aa prodakii.bhaavaat / ( = K 8 )
+Ap2.8.19.13/ tato- 'agnim [upaspRzet / ( = K 9 )
+Ap2.8.19.14/ divaa ca na [bhuJjiita-anyat-muula.phalebhyaH / ( = K 10 )
+Ap2.8.19.15/ sthaaliipaaka.anudezyaani[ ca [varjayet / ( = K 11 )
+Ap2.8.19.16/ sa.uttaraacchaadanaz ca-eva yajJopaviitii [bhuJjiita / ( = K 12 )
+Ap2.8.19.17/ naiyyamikaM tu zraaddhaM snehavad eva [dadyaat / ( = K 13 )
+Ap2.8.19.18/ sarpir maaMsam iti prathamaH kalpaH / ( = K 14 )
+Ap2.8.19.19/ abhaave tailaM zaakam iti / ( = K 15 )
+Ap2.8.19.20/ maghaasu ca-adhikaM zraaddha.kalpena sarpir braahmaNaan [bhojayet //( = K 16 )
+
+Ap2.8.20.1/ maasi.zraaddhe tilaanaaM droNaM droNaM yena-upaayena [zaknuyaat tena-[upayojayet /
+Ap2.8.20.2/ [samudetaaMz ca [bhojayen na ca-atadguNaaya-ucchiSTam [dadyuH /
+Ap2.8.20.3/ udagayana [aapuuryamaaNa.pakSasya-ekaraatram avaraardhyam [upoSya tiSyeNa puSTi.kaamaH sthaaliipaakaM [zrapayitvaa mahaaraajam [iSTvaa tena sarpiSmataa braahmaNaM [bhojayitvaa puSTy.arthena siddhiM [vaacayiita /
+Ap2.8.20.4/ evam ahar ahar aa parasmaat tiSyaat /
+Ap2.8.20.5/ dvau dvitiiye /
+Ap2.8.20.6/ triiMs tRtiiye /
+Ap2.8.20.7/ evaM saMvatsaram [abhyuccayena /
+Ap2.8.20.8/ mahaantaM poSaM [puSyati /
+Ap2.8.20.9/ aadita eva-upavaasaH /
+Ap2.8.20.10/ [aatta.tejasaaM bhojanaM [varjayet /
+Ap2.8.20.11/ bhasma.tuSaa.adhiSThaanam /
+Ap2.8.20.12/ padaa paadasya prakSaalanam adhiSThaanaM ca [varjayet /
+Ap2.8.20.13/ preGkholanaM ca paadayoH /
+Ap2.8.20.14/ jaanuni ca-atyaadhaanaM jaGghaayaaH /
+Ap2.8.20.15/ nakhaiz ca nakha.vaadanam# / ( K vaadanaH )
+Ap2.8.20.16/ sphoTanaani ca-akaaraNaat /
+Ap2.8.20.17/ yac ca-anyat [paricakSate /
+Ap2.8.20.18/ yaa-[uktaa ca dharma.yukteSu[ dravya.parigraheSu ca /
+Ap2.8.20.19/ [pratipaadayitaa ca tiirthe /
+Ap2.8.20.20/ [yantaa ca-atiirthe [yato na bhayaM [syaat /
+Ap2.8.20.21/ [saMgrahiitaa ca manuSyaan /
+Ap2.8.20.22/ [bhoktaa ca dharma.avipratiSiddhaan[ bhogaan /
+Ap2.8.20.23/ evam ubhau lokaav [abhijayati //
+
+Ap2.9.21.1/ catvaara aazramaa gaarhasthyam aacaarya.kulaM maunaM vaanaprasthyam iti /
+Ap2.9.21.2/ teSu sarveSu yathaa.upadezam avyagro [vartamaanaH kSemaM [gacchati /
+Ap2.9.21.3/ sarveSaam upanayana.prabhRti samaana aacaaryakule vaasaH /
+Ap2.9.21.4/ sarveSaam anuutsargo vidyaayaaH /
+Ap2.9.21.5/ [buddhvaa karmaaNi yat [kaamayeta tad [aarabheta /
+Ap2.9.21.6/ yathaa vidyaa.arthasya niyama etena-eva*-antam [anuupasiidata aacaarya.kule zariira.nyaaso brahmacaariNaH / [*ed. eba]
+Ap2.9.21.7/ atha parivraajaH /
+Ap2.9.21.8/ ata eva brahmacaryavaan [pravrajati /
+Ap2.9.21.9/ tasya-[upadizanti /
+Ap2.9.21.10/ anagnir aniketaH [syaad azarma.azaraNo muniH /# svaadhyaaya-eva-[utsRjamaano vaacaM graame praaNa.vRttiM [pratilabhya-aniho- 'anamutraz [caret / ( K om. / )
+Ap2.9.21.11/ tasya [muktam aacchaadanaM [vihitam /
+Ap2.9.21.12/ sarvataH parimokSam eke /
+Ap2.9.21.13/ satya.anRte sukha.duHkhe vedaan imaM lokam amuM ca [parityajya-aatmaanam [anvicchet /
+Ap2.9.21.14/ [buddhe kSema.praapaNam /
+Ap2.9.21.15/ tat-zaastrair [vipratiSiddham /
+Ap2.9.21.16/ [buddhe cet kSema.praapaNam iha-eva na duHkham [upalabheta /
+Ap2.9.21.17/ etena paraM [vyaakhyaatam /
+Ap2.9.21.18/ atha vaanaprasthaH /
+Ap2.9.21.19/ ata eva brahmacaryavaan [pravrajati /
+Ap2.9.21.20-21/ tasya-[upadizanti / eka.agnir aniketaH [syaad 
+azarma.azaraNo muniH /# svaadhyaaya eva-[utsRjamaano vaacam // ( = K 20 , om. / )
+
+Ap2.9.22.1/ tasya-araNyam aacchaadanaM [vihitam /
+Ap2.9.22.2/ tato muulaiH phalaiH parNais tRNair iti [vartayaMz [caret /
+Ap2.9.22.3/ antataH [pravRttaani /
+Ap2.9.22.4/ tato- 'apo vaayum aakaazam ity [abhinizrayet /
+Ap2.9.22.5/ teSaam uttara uttaraH saMyogaH phalato [viziSTaH /
+Ap2.9.22.6/ atha vaanaprasthasya-eva-anupuurvyam eke- [upadizanti /
+Ap2.9.22.7/ vidyaaM [samaapya daaraM [kRtvaa-agniin [aadhaaya karmaaNy [aarabhate soma.avaraardhyaani yaani [zruuyante /
+Ap2.9.22.8/ gRhaan [kRtvaa sa.daaraH sa.prajaH saha-agnibhir bahir graamaad [vaset /
+Ap2.9.22.9/ eko vaa /
+Ap2.9.22.10/ ziloJchena [vartayet /
+Ap2.9.22.11/ na ca-ata uurdhvaM [pratigRhNiiyaat /
+Ap2.9.22.12/ [abhiSiktaz ca [juhuyaat /
+Ap2.9.22.13/ zanair apo- 'abhyaveyaad#1 [abhighnann abhimukham#2 aadityam udakam [upaspRzet / ( K 1:apo- 'abhyupeyaad, 2:abhimukha )
+Ap2.9.22.14/ iti sarvatra-udaka.upasparzana.vidhiH /
+Ap2.9.22.15/ tasya dvaMdvaM#1 dravyaaNaam#1 eke- [upadizanti paaka.artha.bhojana.artha#2.vaasi.parazu.daatrakaajaanaam / ( K 1:dvanda?.dravyaaNaam, 2:paaka.arthaM bhojana.arthaM )
+Ap2.9.22.16/ dvaMdvaanaam# eka.ekam [aadaaya-itaraaNi [datvaa-araNyam [avatiSTheta / ( K dvandaanaam )
+Ap2.9.22.17/ tasya-araNyena-eva-ata uurdhvaM homo vRttiH pratiikSaat-chaadanaM ca /
+Ap2.9.22.18/ yeSu karmasu puroDaazaaz caravas teSu [kaaryaaH /
+Ap2.9.22.19/ sarvaM ca-upaaMzu saha svaadhyaayena /
+Ap2.9.22.20/ na-araNyam abhi-[aazraavayet /
+Ap2.9.22.21/ agni.arthaM zaraNam /
+Ap2.9.22.22/ aakaaze svayam /
+Ap2.9.22.23/ [anupastiirNe zayyaa.aasane /
+Ap2.9.22.24/ nave sasye [praapte puraaNam [anujaaniiyaat //
+
+Ap2.9.23.1/ bhuuyaaMsaM vaa niyamam [icchann anvaham eva paatreNa saayaM praatar artham [aaharet / 
+Ap2.9.23.2/ tato muulaiH phalaiH parNais tRNair iti [vartayaMz [cared antataH [pravRttaani tato- 'apo vaayum aakaazam ity [abhinizrayet# teSaam uttara uttaraH saMyogaH phalato [viziSTaH / ( K inserts / )
+Ap2.9.23.3/ atha puraaNe zlokaav [udaaharanti /
+Ap2.9.23.4/ (z) aSTaaziitisahasraaNi ye prajaam [iizira-RSayaH / dakSiNena-aryamNaH panthaanaM te zmazaanaani [bhejire // ( 3+4 = K 3 )
+Ap2.9.23.5/ (z) aSTaaziitisahasraaNi ye prajaaM na-[iiSira-RSayaH / uttareNa-aryamNaH# panthaanaM te- 'amRtatvaM hi [kalpate // ( = K 4 )
+Ap2.9.23.6/ ity uurdhva.retasaaM prazaMsaa / ( = K 5 )
+Ap2.9.23.7/ atha-api saMkalpa.siddhayo [bhavanti / ( = K 6 )
+Ap2.9.23.8/ yathaa varSaM prajaa.daanaM# duure darzanaM manojavataa yac ca-anyad evaM [yuktam / ( = K 7, prajaa daanaM )
+Ap2.9.23.9/ tasmaat-zrutitaH pratyakSa.phalatvaac ca [viziSTaan aazramaan etaan eke [bruvate / ( = K 8 )
+Ap2.9.23.10/ [traividya.vRddhaanaaM tu vedaaH pramaaNam iti niSThaa tatra yaani [zruuyante vriihi.yava.pazu.aajya.payaH.kapaala.patnii.saMbandhaany uccair niicaiH [kaaryam iti tair [viruddha aacaaro- 'apramaaNam iti [manyante / ( = K 11 )
+Ap2.9.23.11/ yat tu zmazaanam [ucyate naanaa.karmaNaam eSo- 'ante puruSa.saMskaaro [vidhiiyate / ( = K 12 )
+Ap2.9.23.12/ tataH param anantyaM phalaM svargya.zabdaM [zruuyate //
+
+Ap2.9.24.1/ atha-apy asya prajaatim amRtam aamnaaya [aaha /# prajaam anu [prajaayase tad u te martyaamRtam iti / ( K -- )
+Ap2.9.24.2/ atha-api sa eva-ayaM [viruuDhaH pRthak pratyakSeNa-[upalabhyate [dRzyate ca-api saaruupyaM dehatvam eva-anyat /
+Ap2.9.24.3-6/ te [ziSTeSu karmasu [vartamaanaaH puurveSaaM saaMparaayeNa kiirtiM svargaM ca [vardhayanti / evam avaro- 'avaraH pareSaam / aa bhuuta.saMplavaat te [svarga.jitaH / punaH sarge biija.arthaa [bhavanti-iti bhaviSyat.puraaNe /
+Ap2.9.24.7-8/ atha-api prajaapater vacanam / (z) trayiiM vidyaaM brahmacaryaM prajaatiM zraddhaaM tapo yajJam anupradaanam / ya etaani [kurvate tair it saha smo rajo [bhuutvaa [dhvaMsate- 'anyat [prazaMsann iti //
+Ap2.9.24.9/ tatra ye paapakRtas ta eva [dhvaMsanti yathaa parNaM vanaspater na paraan [hiMsanti /
+Ap2.9.24.10/ na-asya-asmiMl loke karmabhiH saMbandho [vidyate tathaa parasmin karma.phalaiH /
+Ap2.9.24.11/ tad etena [veditavyam /
+Ap2.9.24.12/ prajaapater RSiiNaam iti sargo- 'ayam /
+Ap2.9.24.13/ tatra ye puNya.kRtas teSaaM prakRtayaH paraa [jvalantya [upalabhyante /
+Ap2.9.24.14/ [syaat tu karma.avayavena tapasaa vaa kazcit sazariiro- 'antavantaM lokaM [jayati saMkalpa.siddhiz ca [syaan na tu taj jyaiSThyam aazramaaNaam /
+
+Ap2.9.25.1/ [vyaakhyaataaH sarva.varNaanaaM saadhaaraNa.vaizeSikaa dharmaaH /# raajJas tu vizeSaad [vakSyaamaH / ( = K om. / : dharmaa raajJas -- )
+Ap2.9.25.2/ dakSiNaa.dvaaraM vezma puraM ca [maapayet /
+Ap2.9.25.3/ antarasyaaM puri vezma /
+Ap2.9.25.4/ tasya purastaad aavasathas tad aamantraNam ity [aacakSate /
+Ap2.9.25.5/ dakSiNena puraM sabhaa dakSiNa.udag.dvaaraa yathaa-ubhayaM [saMdRzyeta bahir antaraM ca-iti /
+Ap2.9.25.6/ sarveSv eva-ajasraa agnayaH [syuH /
+Ap2.9.25.7/ agni.puujaa ca nityaa yathaa gRhamedhe /
+Ap2.9.25.8/ aavasathe zrotriya.avaraardhyaan atithiin [vaasayet /
+Ap2.9.25.9/ teSaaM yathaa.guNam aavasathaaH zayya.aanna.paanaM ca [videyam /
+Ap2.9.25.10/ guruun amaatyaaMz ca na-[atijiivet /
+Ap2.9.25.11/ na ca-asya viSaye kSudhaa rogeNa hima.aatapaabhyaaM vaa-avasiided abhaavaad buddhi.puurvaM vaa kazcit /
+Ap2.9.25.12/ sabhaayaa madhye- 'adhidevanam [uddhatya-avokSya-akSaan [nivaped yugmaan vaibhiitakaan yathaaarthaan /
+Ap2.9.25.13/ aaryaaH zucayaH satyaziilaa diivitaaraH [syuH /
+Ap2.9.25.14/ aayudha.grahaNaM nRtta.giita.vaaditraaNi-iti raaja.adhiinebhyo- 'anyatra na [vidyeran /
+Ap2.9.25.15/ kSemakRd raajaa yasya viSaye graame- 'araNye vaa taskara.bhayaM na [vidyate //
+
+Ap2.10.26.1/ bhRtyaanaam anuparodhena kSetraM vittaM ca [dadad braahmaNebhyo yathaa.arham anantaaMl lokaan [abhijayati / 
+Ap2.10.26.2/ braahmaNa.svaany [apajigiiSamaaNo raajaa yo [hanyate tam [aahur aatmayuupo yajJo- 'ananta.dakSiNa iti /
+Ap2.10.26.3/ etena-anye zuuraa [vyaakhyaataaH prayojane [yudhyamaanaas tanu.tyajaH /
+Ap2.10.26.4/ graameSu nagareSu ca-aaryaan-zuciin satyaziilaan prajaaguptaye [nidadhyaat /
+Ap2.10.26.5/ teSaaM puruSaas tathaa.guNaa eva [syuH /
+Ap2.10.26.6/ sarvato yojanaM nagaraM taskarebhyo [rakSyam /
+Ap2.10.26.7/ krozo graamebhyaH /
+Ap2.10.26.8/ tatra yat-muSyate tais tat [pratidaapyam /
+Ap2.10.26.9/ dhaarmyaM zulkam [avahaarayet /
+Ap2.10.26.10/ akaraH zrotriyaH /
+Ap2.10.26.11/ sarva.varNaanaaM ca striyaH /
+Ap2.10.26.12/ kumaaraaz ca praag vyaJjanebhyaH /
+Ap2.10.26.13/ ye ca vidyaa.arthaa [vasanti /
+Ap2.10.26.14/ tapasvinaz ca ye dharma.paraaH /
+Ap2.10.26.15/ zuudraz ca paada.avanektaa /
+Ap2.10.26.16/ [andha.muuka.badhira.roga.viSTaaz ca
+Ap2.10.26.17/ ye vyarthaa dravya.parigrahaiH /
+Ap2.10.26.18/ abuddhi.puurvam [alaMkRto yuvaa paradaaram [anupravizan kumaariiM vaa vaacaa [baadhyaH /
+Ap2.10.26.19/ buddhi.puurvaM tu [duSTa.bhaavo daNDyaH /
+Ap2.10.26.20/ [saMnipaate [vRtte zizna.cchedanaM sa.vRSaNasya / 
+Ap2.10.26.21/ kumaaryaaM tu svaany [aadaaya [naazyaH /
+Ap2.10.26.22/ atha [bhRtye raajJaa /
+Ap2.10.26.23/ [rakSye ca-ata uurdhvaM maithunaat /
+Ap2.10.26.24/ nirveSa.abhyupaaye tu svaamibhyo- '[avasRjet //
+
+Ap2.10.27.1/ [carite yathaa.puraM dharmaad-hi saMbandhaH /
+Ap2.10.27.2/ sagotra.sthaaniiyaaM na parebhyaH [samaacakSiita /
+Ap2.10.27.3/ kulaaya hi strii [pradiiyata ity [upadizanti /
+Ap2.10.27.4/ tad indriya.daurbalyaad [vipratipannam /
+Ap2.10.27.5/ [aviziSTaM hi paratvaM paaNeH /
+Ap2.10.27.6/ tad.vyatikrame khalu punar ubhayor narakaH /
+Ap2.10.27.7/ niyama.aarambhaNo hi varSiiyaan abhyudaya evam aarambhaNaad apatyaat /
+Ap2.10.27.8/ [naazya aaryaH zuudraayaam / 
+Ap2.10.27.9/ [vadhyaH zuudra aaryaayaam /
+Ap2.10.27.10/ daaraM ca-asya [karzayet /
+Ap2.10.27.11/ savarNaayaam anya.puurvaayaaM sakRt [saMnipaate paadaH [patati-ity [upadizanti /
+Ap2.10.27.12/ evam abhyaase paadaH paadaH /
+Ap2.10.27.13/ caturthe sarvam /
+Ap2.10.27.14/ jihvaa.aacchedanaM zuudrasya-aaryaM dhaarmikam [aakrozataH /
+Ap2.10.27.15/ vaaci# pathi zayyaayaam aasana iti [samiibhavato daNDa.taaDanam / (K baaci )
+Ap2.10.27.16/ puruSa.vadhe steye bhuumi.aadaana iti svaany [aadaaya [vadhyaH /
+Ap2.10.27.17/ cakSu.nirodhas tv eteSu braahmaNasya /
+Ap2.10.27.18/ niyama.atikramaNam anyaM vaa rahasi [bandhayet / 
+Ap2.10.27.19-20/ aa samaapatteH / asamaapattau [naazyaH /
+Ap2.10.27.21/ aacaarya Rtvik snaatako raajaa-iti traaNaM [syur anyatra [vadhyaat //
+
+Ap2.11.28.1/ kSetraM [parigRhya-utthaanaa.bhaavaat phalaabhaave yaH [samRddhaH sa bhaavi tad [apahaaryaH /
+Ap2.11.28.2-3/ avazinaH kiinaazasya karma.nyaase daNDa.taaDanam / tathaa pazupasya / 
+Ap2.11.28.4/ avarodhanaM ca-asya pazuunaam /
+Ap2.11.28.5/ [hitvaa vrajam aadinaH [karzayet pazuun na-[atipaatayet / ( = K 5+6  )
+Ap2.11.28.6/ [avarudhya pazuun maaraNe naazane vaa svaamibhyo- '[avasRjet / ( = K 7 )
+Ap2.11.28.7/ pramaadaad araNye pazuun [utsRStaan [dRSTvaa graamam [aaniiya svaamibhyo- 'avasRjet / ( = K 8 )
+Ap2.11.28.8-9/ punaH pramaade sakRd [avarudhya / tata uurdhvaM na [suurkSet / ( = K 9+10 )
+Ap2.11.28.10/ paraparigraham [avidvaan [aadadaana edha.udake muule puSpe phale gandhe graase zaaka iti vaacaa [baadhyaH / ( = K 11 )
+Ap2.11.28.11/ viduSo vaasasaH parimoSaNam / ( = K 12 )
+Ap2.11.28.12/ [adaNDyaH [kaamakRte tathaa praaNa.saMzaye bhojanam [aadadaanaH / ( = K 13 )
+Ap2.11.28.13/ [praapta.nimitte daNDa.akarmaNi raajaanam enaH [spRzati // ( = K 14 )
+
+Ap2.11.29.1/ [prayojayitaa [mantaa [kartaa-iti svarga.naraka.phaleSu karmasu bhaaginaH / 
+Ap2.11.29.2/ yo bhuuya [aarabhate tasmin phala.vizeSaH /
+Ap2.11.29.3/ kuTumbinau dhanasya-[iizate /
+Ap2.11.29.4/ tayor [anumate- 'anye- 'api tad-hiteSu [varteran /
+Ap2.11.29.5/ vivaade [vidyaa.abhijana.saMpannaa vRddhaa medhaavino dharmeSv a.vinipaatinaH /
+Ap2.11.29.6/ saMdehe liGgato daivena-iti [vicitya /
+Ap2.11.29.7/ puNyaahe praatar agnaav [iddhe- '[apaamante raajavaty 
+ubhayataH [samaakhyaapya sarva.anumate mukhyaH satyaM praznaM [bruuyaat /
+Ap2.11.29.8/ anRte raajaa daNDaM [praNayet /
+Ap2.11.29.9/ narakaz ca-atra-adhikaH saaMparaaye /
+Ap2.11.29.10/ satye svargaH sarva.bhuuta.prazaMsaa ca /
+Ap2.11.29.11/ saa niSThaa yaa vidyaa striiSu zuudreSu ca /
+Ap2.11.29.12/ aatharvaNasya vedasya zeSa ity [upadizanti /
+Ap2.11.29.13/ kRcchraa dharma.samaaptiH [samaamnaatena#1 /#2 lakSaNa.karmaNaat#3 tu [samaapyate / ( K 1:samaamnaanena, 2: om. /, 3:karmaNaa )
+Ap2.11.29.14/ tatra lakSaNam / sarva.jana.padeSv [ekaanta.samaahitam aaryaaNaaM vRttaM [samyag.viniitaanaaM vRddhaanaam aatmavataam alolupaanaam adaambhikaanaaM vRtta.saadRzyaM [bhajeta /# evam ubhau lokaav [abhijayati / ( = K 14+15, om. / )
+Ap2.11.29.15/ striibhyaH sarva.varNebhyaz ca dharma.zeSaan [pratiiyaad ity eke- ity eke // 
+   //samaaptaM ca-idam aapastambiiya.dharmasuutram //
+

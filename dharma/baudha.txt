@@ -1,0 +1,2614 @@
+                       Baudhaayana-Dharmasuutra
+
+
+Typed and analyzed by Masato Fujii & Mieko Kajihara
+Proofread by Toru Yagi
+Revised version 1 (completed on May 20, 1992)
+Editions:
+  [H] E. Hultzsch (ed.): Das Baudhayana-Dharmasutra. Zweite, verbesserte
+Auflage. [Abhandlungen fur die Kunde des
+Morgenlandes, 16]                      Leipzig 1922.
+  [K] Umesa Chandra Pandeya (ed.): The Baudhayana-Dharmasutra with the
+'Vivarana' Commentary by Sri Govinda Svami and
+Critical Notes                   by M. M. A. Chinnaswami Sastri. [The Kashi
+Sanskrit Series,                     104]  Varanasi 1972.
+
+Text Input System 
+(1)  	Sanskrit characters which should bear diacritical marks
+	when Romanized have been input mostly by capitals.  
+	
+	vowels:     a, aa, i, ii, u, uu, R, RR, L, e, ai, o, au
+	gutturals:  k, kh, g, gh, G
+	palatals:   c, ch, j, jh, J
+	linguals:   T, Th, D, Dh, N
+	dentals:    t, th, d, dh, n
+	labials:    p, ph, b, bh, m
+	semivowels: y, r, l, v
+	sibilants:  z, S, s
+	aspiration: h
+	anusvaara:  M
+	visarga:    H
+
+(2) Members of a compound are separated by periods. 
+(3) External sandhi is decomposed with ^.
+(4) Verbs are marked by `('.
+ 
+===================- TEXT =====================
+
+
+                      // atha baudhaayanadharmasuutram //
+
+B1.1.1.1/ upadiSTo dharmaH prati.vedam //
+B1.1.1.2/ tasya^anu (vyaakhyaasyaamaH //
+B1.1.1.3/ smaarto dvitiiyaH //
+B1.1.1.4/ tRtiiyaH ziSTa.aagamaH //
+B1.1.1.5/ ziSTaaH khalu vigata.matsaraa nirahaMkaaraaH kumbhii.dhaanyaa
+alolupaa dambha.darpa.lobha.moha.krodha.vivarjitaaH //
+B1.1.1.6ab/ dharmeNa^adhigato yeSaaM vedaH saparibRMhaNaH /
+B1.1.1.6cd/ ziSTaas tad.anumaana.jJaaH zruti.pratyakSa.hetavaH // iti //
+[cf. Va 6.43; M 12.109]
+B1.1.1.7/ tad.abhaave daza.avaraa pariSat //
+B1.1.1.8/ atha^api^(udaaharanti /
+B1.1.1.8ab/ caaturvaidyaM vikalpii ca aGga.vid dharma.paaThakaH /
+B1.1.1.8cd/ aazrama.sthaas trayo vipraaH parSad eSaa daza.avaraa //
+B1.1.1.9ab/ paJca vaa (syus trayo vaa (syur eko vaa (syaad aninditaH /
+B1.1.1.9cd/ prativaktaa tu dharmasya  na^itare tu sahasrazaH //
+B1.1.1.10ab/ yathaa daarumayo hastii yathaa carmamayo mRgaH /
+B1.1.1.10cd/ braahmaNaz ca^anadhiiyaanas trayas te naama.dhaarakaaH //
+B1.1.1.11ab/ yad (vadanti tamas.muuDhaa muurkhaa dharmam ajaanataH /
+B1.1.1.11cd/ tat paapaM zatadhaa (bhuutvaa vaktqn (samadhigacchati //
+B1.1.1.12ab/ bahu.dvaarasya dharmasya suukSmaa duranugaa gatiH /
+B1.1.1.12cd/ tasmaan na vaacyo hy ekena bahujJena^api saMzaye //
+B1.1.1.13ab/ dharma.zaastra.ratha.aaruuDhaa veda.khaDga.dharaa dvijaaH /
+B1.1.1.13cd/ kriiDa.artham api yad (bruuyuH sa dharmaH paramaH smRtaH //
+B1.1.1.14ab/ yathaa^azmani sthitaM toyaM maaruta.arkau (praNaazayet /
+B1.1.1.14cd/ tadvat kartari yat paapaM jalavat (saMpraliiyate //
+B1.1.1.15ab/ zariiraM balam aayuz ca vayaH kaalaM ca karma ca /
+B1.1.1.15cd/ samiikSya dharmavid buddhyaa praayazcittaani (nirdizet //
+B1.1.1.16ab/ avrataanaam amantraaNaaM jaati.maatra.upajiivinaam /
+B1.1.1.16cd/ sahasrazaH sametaanaaM pariSattvaM na (vidyate // iti //
+
+B1.1.2.1/ paJcadhaa vipratipattir dakSiNatas tathaa^uttarataH //
+B1.1.2.2/ yaani dakSiNatas taani (vyaakhyaasyaamaH //
+B1.1.2.3/ yathaa^etad anupetena saha bhojanaM striyaa saha bhojanaM
+paryuSita.bhojanaM maatula.pitR.svasR.duhitR.gamanam iti //
+B1.1.2.4/ atha^uttarata uurNaa.vikrayaH siidhu.paanam ubhayatas.dadbhir
+vyavahaara aayudhiiyakaM samudra.saMyaanam iti //
+B1.1.2.5/ itarad itarasmin kurvan (duSyati^itarad itarasmin //
+B1.1.2.6/ tatra tatra deza.praamaaNyam eva (syaat //
+B1.1.2.7/ mithyaa^etad iti gautamaH //
+B1.1.2.8/ ubhayaM ca^eva / na^(aadriyeta ziSTa.smRti.virodha.darzanaat //
+B1.1.2.9/ praag aadarzaat pratyak kanakhalaad [K: kaalakavanaad] dakSiNena
+himavantam udak paariyaatram etad aaryaavartam / tasmin ya aacaaraH sa
+pramaaNam //
+B1.1.2.10/ gaGgaa.yamunayor antaram ity eke //
+B1.1.2.11/ atha^apy atra bhaallavino gaathaam (udaaharanti //
+B1.1.2.12ab/ pazcaat sindhur vidharaNii suuryasya^udayanaM puraH /
+B1.1.2.12cd/ yaavat kRSNaa (vidhaavanti taavad dhi brahmavarcasam // iti //
+B1.1.2.13ab/ avantayas^aGga.magadhaaH suraaSTraa dakSiNaapathaaH /
+B1.1.2.13cd/ upaavRt.sindhu.sauviiraa ete saMkiirNa.yonayaH //
+B1.1.2.14/ aaraTTaan kaaraskaraan puNDraan sauviiraan vaGgaan kaliGgaan
+praanuunaan iti ca (gatvaa punastomena (yajeta sarvapRSThayaa vaa //
+B1.1.2.15-1/ atha^apy (udaaharanti /
+B1.1.2.15-2ab/ padbhyaaM sa (kurute paapaM yaH kaliGgaan (prapadyate /
+B1.1.2.15-2cd/ RSayo niSkRtiM tasya (praahur vaizvaanaraM haviH //
+B1.1.2.16ab/ bahuunaam api doSaaNaaM kRtaanaaM doSa.nirNaye /
+B1.1.2.16cd/ pavitra.iSTiM (prazaMsanti saa [! disagreement] hi paavanam
+uttamam // iti //
+B1.1.2.17-1/ atha^apy (udaaharanti /
+B1.1.2.17-2ab/ vaizvaanariiM vraatapatiiM pavitra.iSTiM tathaa^eva ca /
+B1.1.2.17-2cd/ Rtau^Rtau prayuJjaanaH paapebhyo (vipramucyate // paapebhyo
+vipramucyata iti //
+
+B1.2.3.1/ aSTaacatvaariMzad varSaaNi pauraaNaM veda.brahmacaryam //
+B1.2.3.2/ caturviMzatiM dvaadaza vaa prati.vedam //
+B1.2.3.3/ saMvatsara.avamaM vaa prati.kaaNDam //
+B1.2.3.4/ grahaNa.antaM vaa jiivitasya^asthiratvaat //
+B1.2.3.5/ kRSNakezas^agniin (aadadhiita^iti zrutiH //
+B1.2.3.6ab/ na^asya karma (niyacchanti kiMcid aa mauJji.bandhanaat /
+B1.2.3.6cd/ vRttyaa zuudra.samo hy eSa yaavad vedena (jaayate //^iti //
+B1.2.3.7/ garbha.aadiH saMkhyaa varSaaNaam / tad.aSTameSu braahmaNam
+(upanayiita //
+B1.2.3.8/ try.adhikeSu raajanyam //
+B1.2.3.9/ tasmaad eka.adhikeSu vaizyam //
+B1.2.3.10/ vasanto griiSmaH zarad ity Rtavo varNa.aanupuurvyeNa //
+B1.2.3.11/ gaayatrii.triSTub.jagatiibhir yathaa.kramam //
+B1.2.3.12/ aa SoDazaad aa dvaaviMzaad aa caturviMzaad anaatyaya eSaaM krameNa //
+B1.2.3.13/ mauJjii dhanur.jyaa zaaNii^iti mekhalaaH //
+B1.2.3.14/ kRSNa.ruru.basta.ajinaany ajinaani //
+B1.2.3.15/ muurdha.lalaaTa.naasaagra.pramaaNaa yaajJikasya vRkSasya daNDaaH //
+B1.2.3.16/ bhavat.puurvaaM bhikSaa.madhyaaM yaacJaa.antaaM bhikSaaM (caret
+sapta.akSaraaM kSaaM ca hiM ca na (vardhayet //
+B1.2.3.17/ bhavat.puurvaaM braahmaNo (bhikSeta bhavan.madhyaaM raajanyo
+bhavad.antaaM vaizyaH sarveSu varNeSu //
+B1.2.3.18/ te braahmaNa.aadyaaH svakarmasthaaH //
+B1.2.3.19/ sadaa^araNyaat samidha (aahRtya^(aadadhyaat //
+B1.2.3.20/ satyavaadii hriimaan anahaMkaaraH //
+B1.2.3.21/ puurva.utthaayii jaghanya.saMvezii //
+B1.2.3.22/ sarvatra^apratihata.guruvaakyas^anyatra paatakaat //
+B1.2.3.23/ yaavad.artha.saMbhaaSii striibhiH //
+B1.2.3.24/
+nRtta.giita.vaaditra.gandha.maalya.upaanac.chattra.dhaaraNa.aJjana.abhyaJjan
+a.varjii //
+B1.2.3.25/ dakSiNaM dakSiNena savyaM savyena ca^(upasaMgRhNiiyaat //
+B1.2.3.26/ diirgham aayuH svargaM ca^iipsan kaamam anyasmai saadhu.vRttaaya
+guruNaa^anujJaataH //
+B1.2.3.27/ asaav ahaM bho iti zrotre (saMspRzya manaH.samaadhaana.artham //
+B1.2.3.28/ adhastaaj jaanvor aa padbhyaam //
+B1.2.3.29/ na^aasiino na^aasiinaaya na zayaano na zayaanaaya na^aprayato
+na^aprayataaya //
+B1.2.3.30/ zakti.viSaye muhuurtam api na^aprayataH (syaat //
+B1.2.3.31/ samid.dhaarii^udakumbha.puSpa.anna.hasto na^(abhivaadayed yac
+ca^anyad apy evaM.yuktam //
+B1.2.3.32/ na samavaaye^(abhivaadayed atyantazaH //
+B1.2.3.33/ bhraatR.patniinaaM yuvatiinaaM ca guru.ptniinaaM jaata.viiryaH //
+B1.2.3.34/ nau.zilaa.phalaka.kuJjara.praasaada.kaTeSu cakravatsu ca^adoSam
+saha.aasanam //
+B1.2.3.35/ prasaadhana.utsaadana[K:
+ucchaadana].snaapana.ucchiSTabojanaani^iti guroH //
+B1.2.3.36/ ucchiSTa.varjanaM[K: varjaM] tat.putre^anuucaane vaa //
+B1.2.3.37/ prasaadhana.utsaadana[K: ucchaadana].snaapana.varjanaM[K:
+varjaM] ca tat.patnyaam //
+B1.2.3.38/ dhaavantam (anudhaaved gacchantam (anugacchet tiSThantam
+(anutiSThet //
+B1.2.3.39/ na^apsu zlaaghamaanaH [K: zlaghamaanaH] (snaayaat //
+B1.2.3.40/ daNDa iva (plavet //
+B1.2.3.41/ abraahmaNaad adhyayanam aapadi //
+B1.2.3.42/ zuzruuSaa^anuvrajyaa ca yaavad.adhyayanam //
+B1.2.3.43/ tayos tad eva paavanam //
+B1.2.3.44/ bhraatR.putra.ziSyeSu ca^evam //
+B1.2.3.45/ Rtvij.zvazura.pitRvya.maatulaanaaM tu yaviiyasaaM
+pratyutthaaya.abhibhaaSaNam //
+B1.2.3.46/ pratyabhivaada iti kaatyaH //
+B1.2.3.47/ zizaav aaGgirase darzanaat //
+
+B1.2.4.1ab/ dharma.arthau yatra na (syaataaM zuzruuSaa vaa^api tadvidhaa /
+B1.2.4.1cd/ vidyayaa saha martavyaM na ca^enaam uuSare (vapet // [cf. M 2.112]
+B1.2.4.2ab/ agnir iva kakSaM (dahati brahma pRSTam anaadRtam /
+B1.2.4.2cd/ tasmaad vai zakyaM na (bruuyaad brahma maanam akurvataam // iti //
+B1.2.4.3/ eva^asmai [K: atra^eva^asmai] vaco (vedayante //
+B1.2.4.4/ brahma vai mRtyave prajaaH (praayacchat / tasmai brahmacaariNam
+eva na (praayacchat / sas^(abraviid (astu mahyam apy etasmin bhaaga iti /
+yaam eva raatriM samidhaM na^(aaharaatai^iti //
+B1.2.4.5/ tasmaad brahmacaarii yaaM raatriM samidhaM na^(aaharaty aayuSa
+eva taam (avadaaya (vasati / tasmaad brahmacaarii samidham (aaharen ned
+aayuSas^(avadaaya (vasaani^iti //
+B1.2.4.6/ diirga.sattraM vai^eSa (upaiti yo brahmacaryam (upaiti / sa yaam
+upayan samidham (aadadhaati saa praayaNiiyaa^atha yaaM snaasyan
+saa^udayaniiyaa^atha yaa antareNa sattryaa eva^asya taaH //
+B1.2.4.7-1/ braahmaNo vai brahmacaryam upayan^caturdhaa bhuutaani
+(pravizaty agniM padaa mRtyuM padaa^aacaaryaM padaa^aatmany eva^asya
+caturthaH paadaH (pariziSyate /
+B1.2.4.7-2/ sa yad agnau samidham (aadadhaati ya eva^asya^agnau paadas tam
+eva tena (parikriiNaati taM (saMskRtya^aatman (dhatte sa enam (aavizati /
+B1.2.4.7-3/ atha yad aatmaanaM daridrii.(kritya^ahriir (bhuutvaa (bhikSate
+brahmacaryaM (carati ya eva^asya mRtyau paadas tam eva tena (parikriiNaati
+taM (saMskRtya^aatman (dhatte sa enam (aavizati /
+B1.2.4.7-4/ atha yad aacaarya.vacaH (karoti ya eva^asya^aacaarye paadas tam
+eva tena (parikriiNaati taM (saMskRtya^aatman (dhatte sa enam (aavizati /
+B1.2.4.7-5 atha yat svaadhyaayam (adhiite ya eva^asya^aatmani paadas tam
+eva tena (parikriiNaati taM (saMskRtya^aatman (dhatte sa enam (aavizati /
+B1.2.4.7-6/ na ha vai (snaatvaa (bhikSeta / api ha vai (snaatvaa bhikSaaM
+(caraty api jJaatiinaam azanaayaa^api pitqNaam anyaabhyaH kriyaabhyaH /
+B1.2.4.7-7/ sa yad anyaaM bhikSitavyaaM na (vindeta^api svaam
+eva^aacaarya.jaayaaM (bhikSeta^atho svaaM maataram /
+B1.2.4.7-8/ na^enaM saptamy abhikSitaa^(atiiyaat /
+B1.2.4.7-9ab/ bhaikSasya^acaraNe doSaH paavakasya^asamindhane /
+B1.2.4.7-9cd/ sapta.raatram (akRtvaa^etad avakiirNi.vrataM (caret //
+B1.2.4.7-10/ tam evaM vidvaaMsam evaM carantaM sarve vedaa (aavizanti //
+B1.2.4.8/ yathaa ha vaa agniH samiddho (rocate^evaM ha vai^eSa (snaatvaa
+(rocate ya evaM vidvaan brahmacaryaM (carati^iti braahmaNam / iti
+braahmaNam //
+
+B1.3.5.1/ atha snaatakasya //
+B1.3.5.2/ antarvaasa uttariiyam //
+B1.3.5.3/ vaiNavaM daNDaM (dhaarayet //
+B1.3.5.4/ sa.udakaM ca kamaNDalum //
+B1.3.5.5/ dvi.yajJopaviitii //
+B1.3.5.6/ uSNiiSam ajinam uttariiyam upaanahau chattraM ca^upaasanaM
+darzapuurNamaasau //
+B1.3.5.7/ parvasu ca keza.zmazru.loma.nakha.vaapanam //
+B1.3.5.8/ tasya vRttiH //
+B1.3.5.9/ braahmaNa.raajanya.vaizya.rathakaareSv aamaM (lipseta //
+B1.3.5.10/ bhaikSaM vaa //
+B1.3.5.11/ vaagyatas (tiSThet //
+B1.3.5.12/ sarvaaNi ca^asya deva.pitR.saMyuktaani paakayajJa.saMsthaani
+bhuutikarmaani (kurviita^iti //
+B1.3.5.13/ etena vidhinaa prajaapateH parameSThinaH parama.RSayaH paramaaM
+kaaSThaaM (gacchanti^iti baudhaayanaH //
+
+B1.4.6.1/ atha kamaNDalu.caryaam (upadizanti //
+B1.4.6.2-1ab/ chaagasya dakSiNe karNe paaNau viprasya dakSiNe /
+B1.4.6.2-1cd/ apsu ca^eva kuza.stambe paavakaH (paripaThyate //
+B1.4.6.2-2/ tasmaat^zaucaM (kRtvaa paaNinaa (parimRjiita paryagnikaraNaM hi
+tat / (uddiipyasva jaataveda iti punar.daahaad (viziSyate //
+B1.4.6.3/ tatra^api kiMcit saMspRSTaM manasi (manyeta [K: (manyate] kuzair
+vaa tRNair vaa (prajvaalya pradakSiNaM paridahanam //
+B1.4.6.4/ ata uurdhvaM zva.vaayasa.prabhRty.upahataanaam agni.varNa ity
+(upadizanti //
+B1.4.6.5/ muutra.puriiSa.lohita[K: rohita].retaH.prabhRty.upahataanaam
+utsargaH //
+B1.4.6.6/ bhagne kamaNDalau vyaahRtibhiH zataM (juhuyaaj (japed vaa //
+B1.4.6.7-1/ bhuumir bhuumim (agaan maataa maataram apy (agaat / (bhuuyaasma
+putraiH pazubhir yo no (dveSTi sa (bhidyataam iti // [= AsSS 3.14.12, ApSS
+30.20.9, ApMP 2.15.17; cf. SadvB 1.6.20, KausSS 30.20.9, KausS 136.2]
+B1.4.6.7-2/ kapaalaani (saMhRtya^apsu (prakSipya saavitriiM daza.avaraaM
+(kRtvaa punar eva^anyaM (gRhNiiyaat //
+B1.4.6.8/ varuNam (aazritya / etat te varuNa punar eva maam om iti /
+akSaraM (dhyaayet //
+B1.4.6.9ab/ zuudraad (gRhya zataM (kuryaad vaizyaad ardhazataM smRtam /
+B1.4.6.9cd/ kSatriyaat paJcaviMzat tu braahmaNaad daza kiirtitaaH //
+B1.4.6.10/ astam.ita aaditya udakaM (gRhNiiyaan na (gRhNiiyaad iti
+(miimaaMsante brahmavaadinaH //
+B1.4.6.11/ (gRhNiiyaad ity etad aparam //
+B1.4.6.12/ yaavad udakaM (gRhNiiyaat taavat praaNam [K: praaNaan] (aayacchet //
+B1.4.6.13/ agnir ha vai hy udakaM (gRhNaati //
+B1.4.6.14/ kamaNDalu.udakena^abhiSikta.paaNi.paado yaavad aardraM taavad
+azuciH pareSaam / aatmaanam eva puutam (karoti / na^anyat karma
+(kurviita^iti (vijJaayate //
+B1.4.6.15/ api vaa prati.zaucam aa maNibandhaat^zucir iti baudhaayanaH //
+B1.4.6.16/ atha^apy (udaaharanti //
+
+B1.4.7.1-1ab/ kamaNDalur dvijaatiinaaM zauca.arthaM vihitaH puraa /
+B1.4.7.1-1cd/ brahmaNaa muni.mukhyaiz ca tasmaat taM (dhaarayet sadaa //
+B1.4.7.1-2ab/ tataH zaucaM tataH paanaM saMdhyaa.upaasanam eva ca /
+B1.4.7.1-2cd/ nir.vizaGkena kartavyaM yadi^(icchet ^zreya aatmanaH //
+B1.4.7.2/ (kuryaat^zuddhena manasaa na cittaM (duuSayed budhaH / saha
+kamaNDalunaa^utpannaH svayaM.bhuus tasmaat kamaNDalunaa (caret [^aacaret]
+//
+B1.4.7.3/ muutra.puriiSe kurvan dakSiNe haste (gRhNaati savya aacamaniiyam
+/ etat (sidhyati saadhuunaam //
+B1.4.7.4ab/ yathaa hi soma.saMyogaac camaso medhya (ucyate /
+B1.4.7.4cd/ apaaM tathaa^eva saMyogaan nityo medhyaH kamaNDaluH //
+B1.4.7.5/ pitR.deva.agni.kaaryeSu tasmaat taM (parivarjayet //
+B1.4.7.6/ tasmaad vinaa kamaNDalunaa na^adhvaanaM (vrajen na siimantaM na
+gRhaad gRham //
+B1.4.7.7/ padam api na (gacched iSu.maatraad ity eke //
+B1.4.7.8/ yad (icched dharma.saMtatim iti baudhaayanaH //
+B1.4.7.9/ Rg.vidhena^iti vaag (vadati / Rg.vidhena^iti vaag (vadati // [K:
+Rgvidham RgvidhaanaM vaag vadati Rgvidham RgvidhaanaM vaag vadati //]
+
+B1.5.8.1/ atha^ataH zauca.adhiSThaanam //
+B1.5.8.2ab/ adbhiH (zudhyanti gaatraaNi buddhir jJaanena (zudhyati /
+B1.5.8.2cd/ ahiMsayaa ca bhuutaatmaa manaH satyena (zudhyati // iti //
+B1.5.8.3/ manaH.zuddhir antaH.zaucam //
+B1.5.8.4/ bahiH.zaucaM (vyaakhyaasyaamaH //
+B1.5.8.5/ kauzaM sautraM vaa tris.trivRd yajJopaviitam //
+B1.5.8.6/ aa naabheH //
+B1.5.8.7/ dakSiNaM baahum (uddhRtya savyam (avadhaaya ziras^(avadadhyaat //
+B1.5.8.8/ vipariitaM pitRbhyaH //
+B1.5.8.9/ kaNThe^avasaktaM niviitam //
+B1.5.8.10/ adhas^avasaktaM adhoviitam //
+B1.5.8.11/ praaG.mukha udaG.mukho vaa^aasiinaH zaucam (aarabheta zucau deze
+dakSiNam baahuM jaanu.antaraa (kRtvaa (prakSaalya paadau paaNii ca^aa
+maNibandhaat //
+B1.5.8.12/ paada.prakSaalana.uccheSaNena na^(aacaamet //
+B1.5.8.13/ yady (aacaamed bhuumau (sraavayitvaa^(aacaamet //
+B1.5.8.14/ braahmeNa tiirthena^(aacaamet //
+B1.5.8.15/ aGguSTha.muulaM braahmaM tiirtham //
+B1.5.8.16/ aGguSTha.agraM pitryam aGguly.agraM daivam aGguli.muulam aarSam //
+B1.5.8.17/ na^aGguliibhir na sa.budbudaabhir na sa.phenaabhir na^uSNaabhir
+na kSaaraabhir na lavaNaabhir na kaluSaabhir na vivarNaabhir na
+dur.gandha.rasaabhiH //
+B1.5.8.18/ na hasan na jalpan na tiSThan na vilokayan na prahvo na praNato
+na mukta.zikho na praavRta.kaNTho na veSTita.ziraa na tvaramaaNo
+na^ayajJopaviitii na prasaarita.paado na baddha.kakSyo na bahir.jaanuH
+zabdam akurvan //
+B1.5.8.19/ trir apo hRdayaM.gamaaH (pibet //
+B1.5.8.20/ triH (parimRjet //
+B1.5.8.21/ dvir ity eke //
+B1.5.8.22/ sakRd ubhayaM zuudrasya striyaaz ca //
+B1.5.8.23-1/ atha^apy (udaaharanti /
+B1.5.8.23-2ab/ gataabhir hRdayaM vipraH kaNThyaabhiH kSatriyaH zuciH /
+B1.5.8.23-2cd/ vaizyas^adbhiH praazitaabhiH (syaat strii.zuudrau (spRzya
+ca^antataH // iti //
+B1.5.8.24ab/ dantavad danta.sakteSu dantavat teSu dhaaraNaat /
+B1.5.8.24cd/ srasteSu teSu na^(aacaamet teSaaM saMsraavavat^zuciH // iti //
+B1.5.8.25-1/ atha^apy (udaaharanti /
+B1.5.8.25-2ab/ dantavad danta.lagneSu yac ca^apy antar mukhe (bhavet /
+B1.5.8.25-2cd/ aacaantasya^avaziSTaM syaan nigirann eva tat^zuciH // iti //
+B1.5.8.26/ khaany adbhiH (saMspRzya paadau naabhiM ziraH savyaM paaNim
+antataH //
+B1.5.8.27/ taijasaM ced (aadaaya^ucchiSTii (syaat tad
+(udasya^(aacamya^aadaasyann adbhiH (prokSet //
+B1.5.8.28/ atha ced annena^ucchiSTii (syaat tad (udasya^(aacamya^aadaasyann
+adbhiH (prokSet //
+B1.5.8.29/ atha ced adbhir ucchiSTii (syaat tad (udasya^aacamya^aadaasyann
+adbhiH (prokSet //
+B1.5.8.30/ etad eva vipariitam amatre //
+B1.5.8.31/ vaanaspatye vikalpaH //
+B1.5.8.32/ taijasaanaam ucchiSTaanaaM gozakRn.mRd.bhasmabhiH parimaarjanam
+anyatamena vaa //
+B1.5.8.33/ taamra.rajata.suvarNaanaam amlaiH //
+B1.5.8.34/ amatraaNaaM dahanam //
+B1.5.8.35/ daaravaaNaaM takSaNam //
+B1.5.8.36/ vaiNavaanaaM gomayena //
+B1.5.8.37/ phalamayaanaaM go.vaala.rajjvaa //
+B1.5.8.38/ kRSNa.ajinaanaaM bilva.taNDulaiH //
+B1.5.8.39/ kutapaanaam ariSTaiH //
+B1.5.8.40/ aurNaanaam aadityena //
+B1.5.8.41/ kSaumaaNaaM gaura.sarSapa.kalkena //
+B1.5.8.42/ mRdaa celaanaam //
+B1.5.8.43/ cela.vac carmaNaam //
+B1.5.8.44/ taijasa.vad upala.maNiinaam //
+B1.5.8.45/ daaru.vad asthnaam //
+B1.5.8.46/ kSauma.vat^zaGkha.zRGga.zukti.dantaanaam //
+B1.5.8.47/ payasaa vaa //
+B1.5.8.48/ cakSur.ghraaNa.aanukuulyaad vaa
+muutra.puriiSa.asRj.zukra.kuNapa.spRSTaanaaM puurva.uktaanaam anyatamena
+triHsapta.kRtvaH parimaarjanam //
+B1.5.8.49/ ataijasaanaam evaM.bhuutaanaam utsargaH //
+B1.5.8.50/ vacanaad yajJe camasa.paatraanaam //
+B1.5.8.51/ na somena^ucchiSTaa (bhavanti^iti zrutiH //
+B1.5.8.52ab/ kaalas^agnir manasaH zuddhir udaka.aady.upalepanam /
+B1.5.8.52cd/ avijJaataM ca bhuutaaNaaM SaDvidhaM zaucam (ucyate // iti //
+B1.5.8.53-1/ atha^apy (udaaharanti /
+B1.5.8.53-2/ kaalaM dezaM tathaa^aatmaanaM dravyaM dravya.prayojanam /
+upapattim avasthaaM ca (vijJaaya zaucaM zauca.jJaH kuzalo dharma.iipsuH
+(samaacaret //
+
+B1.5.9.1ab/ nityaM zuddhaH kaaru.hastaH paNyaM yac ca prasaaritam /
+B1.5.9.1cd/ brahmacaari.gataM bhaikSaM nityaM medhyam iti zrutiH //
+B1.5.9.2ab/ vatsaH prasnavane medhyaH zakuniH phala.zaatane /
+B1.5.9.2cd/ striyaz ca rati.saMsarge zvaa mRga.grahaNe zuciH //
+B1.5.9.3ab/ aakaraaH zucayaH sarve (varjayitvaa suraa.karam /
+B1.5.9.3cd/ aduuSyaaH saMtataa dhaaraa vaata.udbhuutaaz ca reNavaH //
+B1.5.9.4ab/ amedhyeSu ca ye vRkSaa uptaaH puSpa.phala.upagaaH /
+B1.5.9.4cd/ teSaam api na (duSyanti puSpaaNi ca phalaani ca //
+B1.5.9.5ab/ caitya.vRkSaM citiM yuupaM caNDaalaM veda.vikrayam /
+B1.5.9.5cd/ etaani braahmaNaH spRSTvaa sa.celo jalam (aavizet //
+B1.5.9.6ab/ aatma.zayyaa.aasanaM vastraM jaayaa.apatyaM kamaNDaluH /
+B1.5.9.6cd/ zuciiny aatmana etaani pareSaam azuciini tu //
+B1.5.9.7ab/ aasanaM zayanaM yaanaM naavaH pathi tRNaani ca /
+B1.5.9.7cd/ caNDaala.patita.spRSTaM maarutena^eva (zudhyati //
+B1.5.9.8ab/ khalakSetreSu yad dhaanyaM kuupa.vaapiiSu yaj jalam /
+B1.5.9.8cd/ abhojyaad api tad bhojyaM yac ca goSTha.gataM payaH //
+B1.5.9.9ab/ triiNi devaaH pavitraaNi braahmaNaanaam (akalpayan /
+B1.5.9.9cd/ adRSTam adbhir nirNiktaM yac ca vaacaa (prazasyate //
+B1.5.9.10ab/ aapaH pavitraM bhuumi.gataa go.tRptir yaasu (jaayate /
+B1.5.9.10cd/ avyaaptaaz ced amedhyena gandha.varNa.rasa.anvitaaH //
+B1.5.9.11/ bhuumes tu saMmaarjana.prokSaNa.upalepana.avastaraNa.ullekhanair
+yathaa.sthaanaM doSa.vizeSaat praayatyam //
+B1.5.9.12/ atha^apy (udaaharanti //
+
+B1.5.10.1ab/ go.carma.maatram ab.bindur bhuumeH (zudhyati paatitaH /
+B1.5.10.1cd/ samuuDham asamuuDhaM vaa yatra^amedhyaM na (lakSyate // iti //
+B1.5.10.2/ parokSam adhizritasya^annasya^avadyotya.abhyukSaNam //
+B1.5.10.3/ tathaa^aapaNeyaanaaM ca bhakSaaNaam //
+B1.5.10.4/ biibhatsavaH zuci.kaamaa hi devaa na^azraddadhaanasya havir
+(juSanta iti //
+B1.5.10.5-1ab/ zucer azraddadhaanasya zraddadhaanasya ca^azuceH /
+B1.5.10.5-1cd/ (miimaaMsitvaa^ubhayaM devaaH samam annam (akalpayan //
+B1.5.10.5-2ab/ prajaapatis tu taan (aaha na samaM viSamaM hi tat /
+B1.5.10.5-2cd/ hatam azraddadhaanasya zraddhaa.puutaM (viziSyate // iti //
+B1.5.10.6-1/ atha^apy (udaaharanti /
+B1.5.10.6-2ab/ azraddhaa paramaH paapmaa zraddhaa hi paramaM tapaH /
+B1.5.10.6-2cd/ tasmaad azraddhayaa dattaM havir na^(aznanti devataaH //
+B1.5.10.7/ (iSTvaa (dattvaa^api vaa muurkhaH svargaM nahi sa (gacchati //
+B1.5.10.8ab/ zaGkaa.vihata.caaritro yaH sva.abhipraayam aazritaH /
+B1.5.10.8cd/ zaastra.atigaH smRto muurkho dharma.tantra.uparodhanaat // iti //
+B1.5.10.9/ zaaka.puSpa.phala.muula.oSadhiinaaM tu prakSaalanam //
+B1.5.10.10/ zuSkaM tRNam ayaajJikaM kaaSThaM loSTaM vaa
+(tiraskRtya^ahoraatrayor udag.dakSiNaa.mukhaH (pravRtya zira (uccared
+(avamehed vaa //
+B1.5.10.11/ muutre mRdaa^adbhiH prakSaalanam //
+B1.5.10.12/ triH paaNeH //
+B1.5.10.13/ tadvat puriiSe //
+B1.5.10.14/ paryaayaat tris triH paayoH paaNez ca //
+B1.5.10.15/ muutra.vad retasa utsarge //
+B1.5.10.16/ niiviiM (visrasya (paridhaaya^apa (upaspRzet //
+B1.5.10.17/ aardraM tRNaM gomayaM bhuumiM vaa (samupaspRzet //
+B1.5.10.18/ naabher adhaH sparzanaM karma.yukto (varjayet //
+B1.5.10.19/ uurdhvaM vai puruSasya naabhyai medhyam avaaciinam amedhyam iti
+zrutiH //
+B1.5.10.20/ zuudraaNaam aarya.adhiSThitaanaam ardhamaasi maasi vaa vapanam
+aarya.vadaacamana.kalpaH //
+B1.5.10.21/ vaizyaH kusiidam (upajiivet //
+B1.5.10.22/ paJcaviMzatis tv eva paJca.maaSikii (syaat //
+B1.5.10.23-1/ atha^apy (udaaharanti /
+B1.5.10.23-2ab/ yaH samargham RNaM (gRhya mahaa.arghaM (saMprayojayet /
+B1.5.10.23-2cd/ sa vai vaarddhuSiko naama sarva.dharmeSu garhitaH //
+B1.5.10.23-3ab/ vRddhiM ca bhruuNa.hatyaaM ca tulayaa (samatolayat /
+B1.5.10.23-3cd/ (atiSThad bhruuNa.haa koTyaaM vaarddhuSiH (samakampata // iti //
+B1.5.10.24ab/ gorakSakaan vaaNijakaaMs tathaa kaaru.kuziilavaan /
+B1.5.10.24cd/ preSyaan vaarddhuSikaaMz caiva vipraan^zuudra.vad (aacaret //
+B1.5.10.25/ kaamaM tu parilupta.kRtyaaya kadaryaaya naastikaaya paapiiyase
+puurvau (dadyaataam //
+B1.5.10.26ab/ ayajJena^avivaahena vedasya^utsaadanena ca /
+B1.5.10.26cd/ kulaany akulataaM (yaanti braahmaNa.atikrameNa ca //
+B1.5.10.27ab/ braahmaNa.atikramo na^(asti muurkhe mantra.vivarjite /
+B1.5.10.27cd/ jvalantam agnim (utsRjya nahi bhasmani (huuyate //
+B1.5.10.28ab/ gobhir azvaiz ca yaanaiz ca kRSyaa raaja.upasevayaa /
+B1.5.10.28cd/ kulaany akulataaM (yaanti yaani hiinaani mantrataH //
+B1.5.10.29ab/ mantratas tu samRddhaani kulaany alpa.dhanaany api /
+B1.5.10.29cd/ kula.saMkhyaaM ca (gacchanti (karSanti ca mahad.yazaH //
+B1.5.10.30ab/ vedaH kRSi.vinaazaaya kRSir veda.vinaazinii /
+B1.5.10.30cd/ zaktimaan ubhayaM (kuryaad azaktas tu kRSiM (tyajet //
+B1.5.10.31ab/ na vai devaan piivaras^a.saMyata.aatmaa roruuyamaaNaH kakudii
+(samaznute /
+B1.5.10.31cd/ calat.tundii rabhasaH kama.vaadii kRzaasa ity aNavas tatra
+(yaanti //
+B1.5.10.32ab/ yad yauvane (carati vibhrameNa sad vaa^asad vaa yaadRzaM vaa
+yadaa vaa /
+B1.5.10.32cd/ uttare ced vayasi saadhu.vRttas tad eva^asya (bhavati
+na^itaraaNi //
+B1.5.10.33ab/ (zoceta manasaa nityaM duSkRtaany anucintayan /
+B1.5.10.33cd/ tapasvii ca^apramaadii ca tataH paapaat (pramucyate //
+B1.5.10.34ab/ (spRzanti bindavaH paadau ya aacaamayataH paraan /
+B1.5.10.34cd/ na tair ucchiSTa.bhaavaH (syaat tulyaas te bhuumi.gaiH saha
+// iti //
+
+B1.5.11.1/ sapiNDeSv aa daza.aham aazaucam iti janana.maraNayor (adhikRtya
+(vadanty Rtvig.diikSita.brahmacaari.varjam //
+B1.5.11.2/ sapiNDataa tv aa saptamaat sapiNDeSu //
+B1.5.11.3/ aa sapta.maasaad aa danta.jananaad vaa^udaka.upasparzanam //
+B1.5.11.4ab/ piNDa.udaka.kriyaa prete na^atrivarSe (vidhiiyate /
+B1.5.11.4cd/ aa danta.jananaad vaa^api dahanaM ca na (kaarayet //
+B1.5.11.5/ aprattaasu ca kanyaasu //
+B1.5.11.6/ prattaasv eke ha (kurvate //
+B1.5.11.7/ loka.saMgrahaNa.arthaM hi tad amantraaH striyo mataaH //
+B1.5.11.8ab/ striiNaam akRta.vivaahaanaaM try.ahaat^(zudhyanti baandhavaaH /
+B1.5.11.8cd/ yathaa^uktena^eva kalpena (zudhyanti ca sanaabhaya iti //
+B1.5.11.9/ api ca prapitaamahaH pitaamahaH pitaa svayaM sodaryaa bhraataraH
+savarNaayaaH putraH pautraH prapautras tat.putra.varjaM teSaaM ca
+putra.pautram avibhakta.daayam sapiNDaan (aacakSate //
+B1.5.11.10/ vibhakta.daayaan api sakulyaan (aacakSate //
+B1.5.11.11/ asatsv anyeSu tad.gaamii hy artho (bhavati //
+B1.5.11.12/ sapiNDa.abhaave sakulyaH //
+B1.5.11.13/ tad.abhaave pitaa^aacaaryo^antevaasy Rtvig vaa (haret //
+B1.5.11.14/ tad.abhaave raajaa tat.svaM [K: satsvaM] traividya.vRddhebhyaH
+(saMprayacchet //
+B1.5.11.15/ na tv eva kadaa cit svayaM raajaa braahmaNa.svam (aadadiita //
+B1.5.11.16-1/ atha^apy (udaaharanti /
+B1.5.11.16-2ab/ brahma.svaM putra.pautra.ghnaM viSam ekaakinaM (haret /
+B1.5.11.16-2cd/ na viSaM viSam ity (aahur brahma.svaM viSam (ucyate //
+B1.5.11.16-3/ tasmaad raajaa braahmaNa.svaM na^(aadadiita / paramaM hy etad
+viSaM yad braahmaNa.svam iti //
+B1.5.11.17/ janana.maraNayoH (saMnipaate samaano daza.raatraH //
+B1.5.11.18/ atha yadi daza.raatraaH (saMnipateyur aadyaM daza.raatram
+aazaucam aa navamaad divasaat //
+B1.5.11.19/ janane taavan maataa.pitror daza.aham aazaucam //
+B1.5.11.20/ maatur ity eke tat.pariharaNaat //
+B1.5.11.21/ pitur ity apare zukra.praadhaanyaat //
+B1.5.11.22/ ayonijaa hy api putraaH (zruuyante //
+B1.5.11.23/ maataa.pitror eva tu saMsarga.saamaanyaat //
+B1.5.11.24/ maraNe tu yathaa.baalaM (puraskRtya yajJopaviitaany apasavyaani
+(kRtvaa tiirtham (avatiirya sakRt sakRt trir (nimajjya^(unmajjya^(uttiirya^(
+aacamya tat.pratyayam udakam (aasicya^ata eva^uttiirya^(aacamya gRha.dvaary
+aGgaaram udkam iti (saMspRzya^a.kSaara.lavaNa.aazino daza.ahaM kaTam
+(aasiiran //
+B1.5.11.25/ ekaadazyaaM dvaadazyaaM vaa zraaddha.karma //
+B1.5.11.26/ zeSa.kriyaayaaM lokas^anuroddhavyaH //
+B1.5.11.27/ atra^apy asapiNDeSu yathaa.aasannaM tri.raatram aho.raatram
+eka.aham iti (kurviita //
+B1.5.11.28/ aacaarya.upaadhyaaya.tat.putreSu tri.raatram //
+B1.5.11.29/ RtvijaaM ca //
+B1.5.11.30/ ziSya.satiirthya.sabrahmacaariSu tri.raatram aho.raatram
+eka.aham iti (kurviita //
+B1.5.11.31/ garbha.sraave garbha.maasa.saMmitaa raatrayaH striiNaam //
+B1.5.11.32/ para.zava.upasparzane^an.abhisaMdhi.puurvaM sa.celas^apaH
+(spRSTvaa sadyaH zuddho (bhavati //
+B1.5.11.33/ abhisaMdhi.puurvaM tri.raatram //
+B1.5.11.34/ RtumatyaaM ca //
+B1.5.11.35/ yas tato jaayate sas^abhizasta iti vyaakhyaataany asyai
+vrataani [K: brataani] //
+B1.5.11.36ab/ veda.vikrayiNaM yuupaM patitaM citim eva ca /
+B1.5.11.36cd/ (spRSTvaa (samaacaret snaanaM ZvaanaM caNDaalam eva ca //
+B1.5.11.37ab/ braahmaNasya vraNa.dvaare puuya.zoNita.saMbhave /
+B1.5.11.37cd/ kRmir (utpadyate tatra praayazcittaM kathaM (bhavet //
+B1.5.11.38ab/ go.muutraM gomayaM kSiiraM dadhi sarpiH kuza.udakam /
+B1.5.11.38cd/ try.ahaM (snaatvaa ca (piitvaa ca kRmi.daSTaH zucir (bhavet //
+B1.5.11.39/ zunaa^upahataH sa.celas^(avagaaheta //
+B1.5.11.40/ (prakSaalya vaa taM dezam agninaa saMspRzya punaH prakSaalya
+paadau ca^(aacamya prayato (bhavati //
+B1.5.11.41-1/ atha^apy (udaaharanti /
+B1.5.11.41-2ab/ zunaa daSTas tu yo vipro nadiiM gatvaa samudra.gaam /
+B1.5.11.41-2cd/ praaNa.aayaama.zataM kRtvaa ghRtaM (praazya (vizudhyati //
+B1.5.11.41-3ab/ suvarNa.rajataabhyaaM vaa gavaaM zRGga.udakena vaa /
+B1.5.11.41-3cd/ navaiz ca kalazaiH snaatvaa sadya eva zucir bhavet // iti //
+
+B1.5.12.1/ abhakSyaaH pazavo graamyaaH //
+B1.5B1.5.12.2/ kravyaadaaH zakunayaz ca //
+B1.5.12.3/ tathaa kukkuTa.suukaram //
+B1.5.12.4/ anyatra^aja.avibhyaH //
+B1.5.12.5/ bhakSyaaH zvaavid.godhaa.zaza.zalyaka.kacchapa.khaGgaaH
+khaGga.varjaaH paJca paJcanakhaaH //
+B1.5.12.6/ tathaa^Rzya.hariNa.pRSata.mahiSa.varaaha.kuluGgaaH
+kuluGga.varjaaH paJca dvikhuriNaH //
+B1.5.12.7/ pakSiNas.tittiri.kapota.kapiJjala.vaardhraaNasa.mayuura.vaaraNaa
+vaaraNa.varjaaH paJca viSkiraaH //
+B1.5.12.8/ matsyaaH sahasradaMSTraz cilicimo
+varmi.bRhacchiro.mazakari.rohita.raajiivaaH //
+B1.5.12.9/ anirdazaaha.saMdhinii.kSiiram apeyam //
+B1.5.12.10/ vivatsa.anyavatsayoz ca //
+B1.5.12.11/ aavikam auSTrikam aikazapham apeyam //
+B1.5.12.12/ apeya.payaH.paane kRcchro^anyatra gavyaat //
+B1.5.12.13/ gavye tu tri.raatram upavaasaH /
+B1.5.12.14/ paryuSitaM
+zaaka.yuuSa.maaMsa.sarpiH.zRtadhaanaa.guDa.dadhi.madhu.saktu.varjam //
+B1.5.12.15/ zuktaani tathaa.jaato guDaH //
+B1.5.12.16/ zraavaNyaaM paurNamaasyaam aaSaaDhyaaM vaa^(upaakRtya taiSyaaM
+maaghyaaM vaa^(utsRjeyuH / (utsRjeyuH //
+
+B1.6.13.1/ zucim adhvaraM devaa (juSante //
+B1.6.13.2/ zuci.kaamaa hi devaaH zucayaz ca //
+B1.6.13.3-1/ tad ezaa^(abhivadati / [om.]
+B1.6.13.3-2ab/ zucii vo havyaa marutaH zuciinaaM zuciM (hinomy adhvaraM
+zucibhyaH /
+B1.6.13.3-2cd/ Rtena satyam Rtasaapa (aayan^zuci.janmaanaH zucayaH
+paavakaaH // iti // (RV 7.56.12)
+B1.6.13.4-1/ ahataM vaasasaaM zuci /
+B1.6.13.4-2/ tasmaad yat kiM ca^ijyaa.saMyuktaM (syaat sarvaM tad ahatair
+vaasobhiH (kuryaat //
+B1.6.13.5/ prakSaalita.upavaataany akliSTaani vaasaaMsi patnii.yajamaanaav
+Rtvijaz ca (paridadhiiran //
+B1.6.13.6/ evaM prakramaad uurdhvam //
+B1.6.13.7/ diirgha.someSu sattreSu ca^evam //
+B1.6.13.8/ yathaa.samaamnaataM ca //
+B1.6.13.9/ yathaa^etad abhicaraNiiyeSv iSTi.pazu.someSu lohita.uSNiiSaa
+lohita.vaasasaz ca^RtvijaH (pracareyuz citra.vaasasaz citra.aasaGgaa
+vRSaakapaav iti ca //
+B1.6.13.10/ agnyaadhaane kSaumaaNi vaasaaMsi teSaam alaabhe kaarpaasikaany
+aurNaani vaa (bhavanti //
+B1.6.13.11/ muutra.puriiSa.lohita.retaH.prabhRty.upahataanaaM mRdaa^adbhir
+iti prakSaalanam //
+B1.6.13.12/ vaasovat taarpya.valkalaanaam [K: vRkalaanaam] //
+B1.6.13.13/ valkalavat kRSNa.ajinaanaam //
+B1.6.13.14/ na parihitam adhiruuDham aprakSaalitaM praavaraNam //
+B1.6.13.15/ na^apalpuulitaM manuSya.saMyuktaM devatraa (yuJjyaat //
+B1.6.13.16/ ghanaayaa bhuumer upaghaata upalepanam //
+B1.6.13.17/ suSiraayaaH karSaNam //
+B1.6.13.18/ klinnaayaa medhyam (aahRtya pracchaadanam //
+B1.6.13.19/ caturbhiH zudhyate bhuumir gobhir aakramaNaat khananaad
+dahanaad abhivarSaNaat //
+B1.6.13.20/ paJcamaac ca^upalepanaat SaSThaat kaalaat //
+B1.6.13.21/ asaMskRtaayaaM bhuumau nyastaanaaM tRNaanaaM prakSaalanam //
+B1.6.13.22/ parokSa.upahataanaam abhyukSaNam //
+B1.6.13.23/ evaM kSudra.samidhaam //
+B1.6.13.24/ mahataaM kaaSThaanaam upaghaate prakSaalya^avazoSaNam //
+B1.6.13.25/ bahuunaaM tu prokSaNam //
+B1.6.13.26/ daarumayaaNaaM paatraaNaam ucchiSTa.samanvaarabdhaanaam
+avalekhanam //
+B1.6.13.27/ ucchiSTa.lepa.upahataanaam avatakSaNam ///
+B1.6.13.28/ muutra.puriiSa.lohita.retaH.prabhRty.upahataanaam utsargaH //
+B1.6.13.29/ tad etad anyatra nirdezaat //
+B1.6.13.30/ yathaa^etad agnihotre gharmocchiSTe ca dadhigharme ca
+kuNDapaayinaam ayane ca^utsargiNaam ayane ca daakSaayaNa.yajJe
+ca^iDaadadhe(ceDaadadhe) [K: caiDaadadhe] ca catuzcakre ca brahmaudaneSu ca
+teSu sarveSu darbhair adbhiH prakSaalanam //
+B1.6.13.31/ sarveSv eva soma.bhakSeSv adbhir eva maarjaaliiye prakSaalanam //
+B1.6.13.32/ muutra.puriiSa.lohita.retaH.prabhRty.upahataanaam utsargaH //
+
+B1.6.14.1/ mRnmayaanaaM paatraaNaam ucchiSTa.samanvaarabdhaanaam avakuulanam //
+B1.6.14.2/ ucchiSTa.lepa.upahataanaaM punar.dahanam //
+B1.6.14.3/ muutra.puriiSa.lohita.retaH.prabhRty.upahataanaam utsargaH //
+B1.6.14.4/ taijasaanaaM paatraaNaaM puurvavat parimRSTaanaaM prakSaalanam //
+B1.6.14.5/ parimaarjana.dravyaaNi gozakRn.mRd.bhasma^iti //
+B1.6.14.6/ muutra.puriiSa.lohita.retaH.prabhRty.upahataanaaM punar.karaNam //
+B1.6.14.7/ gomuutre vaa sapta.raatraM parizaayanaM mahaa.nadyaaM vaa [K:
+vaivam] //
+B1.6.14.8/ evam azmamayaanaam //
+B1.6.14.9/ alaabu.bilva.vinaaDaanaaM govaalaiH parimaarjanam //
+B1.6.14.10/ naDa.veNu.zara.kuza.vyuutaanaaM gomayena^adbhir iti prakSaalanam //
+B1.6.14.11/ vriihiiNaam upaghaate prakSaalya.avazoSaNam //
+B1.6.14.12/ bahuunaaM tu prokSaNam //
+B1.6.14.13/ taNDulaanaam utsargaH //
+B1.6.14.14/ evaM siddha.haviSaam //
+B1.6.14.15/ mahataaM zva.vaayasa.prabhRty.upahataanaaM taM dezaM
+puruSa.annam uddhRtya / pavamaanaH suvarjana iti /
+etena^anuvaakena^abhyukSaNam //
+B1.6.14.16/ madhu.udake payo.vikaare ca paatraat paatra.antara.aanayane
+zaucam //
+B1.6.14.17/ evaM taila.sarpiSii ucchiSTa.samanvaarabdhe
+udake^(avadhaaya^(upayojayet //
+B1.6.14.18/ amedhya.abhyaadhaane (samaaropya^agniM (mathitvaa pavamaaneSTiH //
+B1.6.14.19/ zauca.deza.mantra.aavRd.artha.dravya.saMskaara.kaala.bhedeSu
+puurva.puurva.praadhaanyam / puurva.puurva.praadhaanyam //
+
+B1.7.15.1/ uttarata upacaaro vihaaraH //
+B1.7.15.2/ tathaa^apavargaH //
+B1.7.15.3/ vipariitaM pitryeSu //
+B1.7.15.4/ paada.upahataM (prakSaalayet //
+B1.7.15.5/ aGgam upaspRzya sicaM vaa^apa (upaspRzet //
+B1.7.15.6/ evaM
+chedana.bhedana.khanana.nirasana.pitrya.raakSasa.nairRta.raudra.abhicaraNiiy
+eSu //
+B1.7.15.7/ na mantravataa yajJa.aGgena^aatmaanam (abhipariharet //
+B1.7.15.8/ abhyantaraaNi yajJa.aGgaani //
+B1.7.15.9/ baahyaa RtvijaH //
+B1.7.15.10/ patnii.yajamaanaav Rtvigbhyo^antaratamau //
+B1.7.15.11/ yajJa.angebhya aajyam aajyaad^haviiMSi havirbhyaH pazuH pazoH
+somaH somaad agnayaH //
+B1.7.15.12/ yathaa.karma^Rtvijo na (vihaaraad abhiparyaavarteran //
+B1.7.15.13/ praaG.mukhaz ced dakSiNam aMsam (abhiparyaavarteta //
+B1.7.15.14/ pratyaG.mukhaH savyam //
+B1.7.15.15/ antareNa caatvaala.utkarau yajJasya tiirtham //
+B1.7.15.16/ a.caatvaala aahavaniiya.utkarau //
+B1.7.15.17/ tataH kartaaro yajamaanaH patnii ca (prapadyeran //
+B1.7.15.18/ visaMsthite //
+B1.7.15.19/ saMsthite ca saMcaro^an.utkara.dezaat [K: 'nuutkaradezaat] //
+B1.7.15.20/ na^aprokSitam aprapannaM klinnaM kaaSThaM samidhaM
+vaa^(abhyaadadhyaat //
+B1.7.15.21/ agreNa^aahavaniiyaM brahma.yajamaanau (prapadyete //
+B1.7.15.22/ jaghanena^aahavaniiyam ity eke //
+B1.7.15.23/ dakSiNena^aahavaniiyaM brahma.aayatanaM tad.apareNa yajamaanasya //
+B1.7.15.24/ uttaraaM zroNim uttareNa hotuH //
+B1.7.15.25/ utkara aagniidhrasya //
+B1.7.15.26/ jaghanena gaarhapatyaM patnyaaH //
+B1.7.15.27/ teSu kaale.kaala [K: kaale kaala] eva darbhaan (saMstRNaati //
+B1.7.15.28/ ekaikasya ca^uda.kamaNDalur upaattaH (syaad aacamana.arthaH //
+B1.7.15.29/ vrata.upeto diikSitaH (syaat //
+B1.7.15.30/ na para.paapaM (vaden na (krudhyen na (roden muutra.puriiSe
+na^(avekSeta //
+B1.7.15.31/ amedhyaM (dRSTvaa (japati / abaddhaM mano daridraM cakSuH
+suuryo jyotiSaaM zreSTho diikSe maa maa haasiir iti //
+B1.7.15.32/ atha yady enam (abhivarSati / undatiir balaM dhattaujo dhatta
+balaM dhatta maa me diikSaaM maa tapo (nirvadhiSTa^iti // [K om.]
+
+B1.8.16.1/ catvaaro varNaa braahmaNa.kSatriya.viT.zuudraaH //
+B1.8.16.2/ teSaaM varNa.anupuurvyeNa catasro bhaaryaa braahmaNasya //
+B1.8.16.3/ tisro raajanyasya //
+B1.8.16.4/ dve vaizyasya //
+B1.8.16.5/ ekaa zuudrasya //
+B1.8.16.6/ taasu putraaH savarNa.anantaraasu savarNaaH //
+B1.8.16.7/ ekaantara.dvyantaraasv ambaSTha.Ugra.niSaadaaH //
+B1.8.16.8/ pratilomaasv aayogava.maagadha.vaiNa.kSattR[K:
+kSattu].pulkasa.kukkuTa.vaidehaka.caNDaalaH //
+B1.8.16.9/ ambaSThaat prathamaayaaM zvapaakaH //
+B1.8.16.10/ ugraad dvitiiyaayaaM vaiNaH //
+B1.8.16.11/ niSaadaat tRtiiyaayaaM pulkasaH //
+B1.8.16.12/ viparyaye kukkuTaH //
+B1.8.16.13/ niSaadena niSaadyaam aa paJcamaaj jaato^(apahanti zuudrataam //
+B1.8.16.14/ tam (upanayet SaSThaM (yaajayet //
+B1.8.16.15/ saptamo^avikRta.biijaH sama.biijaH sama ity eSaaM saMjJaaH
+krameNa (nipatanti // [K together with 1.8.16.14: tam (upanayet SaSThaM
+(yaajayet saptamo 'vikRto (bhavati]
+B1.8.16.16-1ab/ triSu varNeSu saadRzyaad avrato (janayet tu yaan / [K om.]
+B1.8.16.16-1cd/ taan saavitrii.paribhraSTaan vraatyaan (aahur maniiSiNaH /
+[K om.]
+B1.8.16.16-2/ vraatyaan (aahur maniiSiNa iti // [K om.]
+
+B1.9.17.1/
+rathakaara.ambaSTha.suuta.ugra.maagadha.aayogava.vaiNa.kSattR.pulkasa.kukkuT
+a.vaidehaka.caNDaala.zvapaaka.prabhRtayaH // [K om.]
+B1.9.17.2/ tatra savarNaasu savarNaaH //
+B1.9.17.3/ braahmaNaat kSatriyaayaaM braahmaNo vaizyaayaam ambaSThaH
+zuudraayaaM niSaadaH //
+B1.9.17.4/ paarazava ity eke //
+B1.9.17.5/ kSatriyaad vaizyaayaaM kSatriyaH zuudraayaam ugraH //
+B1.9.17.6/ vaizyaat^zuudraayaaM rathakaaraH //
+B1.9.17.7/ zuudraad vaizyaayaaM maagadhaH kSatriyaayaaM kSattaa
+braahmaNyaaM caNDaalaH //
+B1.9.17.8/ vaizyaat kSatriyaayaam aayogavo braahmaNyaaM vaidehakaH /
+kSatriyaad braahmaNyaaM suutaH //
+B1.9.17.9/ tatra[K: atra]^ambaSTha.ugrayoH saMyoge (bhavati^anulomaH //
+B1.9.17.10/ kSattR.vaidehakayoH pratilomaH //
+B1.9.17.11/ ugraaj jaataH kSattryaaM zvapaakaH //
+B1.9.17.12/ vaidehakaad ambaSThaayaaM vaiNaH //
+B1.9.17.13/ niSadaat^zuudraayaaM pulkasaH //
+B1.9.17.14/ zuudraan niSaadyaaM kukkuTaH //
+B1.9.17.15/ varNa.saMkaraad utpannaan vraatyaan (aahur maniiSiNaH /
+vraatyaan (aahur maniiSiNa iti //
+
+B1.10.18.1/ SaDbhaagabhRto raajaa (rakSet prajaaH //
+B1.10.18.2/ brahma vai svaM mahimaanaM braahmaNeSv (adadhaad
+adhyayana.adhyaapana.yajana.yaajana.daana.pratigraha.saMyuktaM vedaanaaM
+guptyai //
+B1.10.18.3/ kSatre balam
+adhyayana.yajana.daana.zastra.koza.bhuuta.rakSaNa.saMyuktaM kSatrasya
+vRddhyai //
+B1.10.18.4/ viTsv
+adhyayana.yajana.daana.kRSi.vaaNijya.pazupaalana.saMyuktaM karmaNaaM
+vRddhyai //
+B1.10.18.5/ zuudreSu puurveSaaM paricaryaam //
+B1.10.18.6/ patto hy (aSRjyanta^iti //
+B1.10.18.7/ sarvatodhuraM purohitaM (vRNuyaat //
+B1.10.18.8/ tasya zaasane (varteta //
+B1.10.18.9/ saMgraame na (nivarteta //
+B1.10.18.10/ na karNibhir na digdhaiH (praharet //
+B1.10.18.11/
+bhiita.matta.unmatta.pramatta.visaMnaaha.strii.baala.vRddha.braahmaNair na
+(yudhyeta //
+B1.10.18.12/ anyatra^aatataayinaH //
+B1.10.18.13-1/ atha^apy (udaaharanti /
+B1.10.18.13-2ab/ adhyaapakaM kule jaataM yo (hanyaad aatataayinam /
+B1.10.18.13-2cd/ na tena bhruuNahaa (bhavati manyus tan manyum (Rcchati //
+iti //
+B1.10.18.14/ saamudra.zulko varaM ruupam (uddhRtya daza.paNaM zatam //
+B1.10.18.15/ anyeSaam api saara.anuruupyeNa^(anupahatya dharmyaM (prakalpayet //
+B1.10.18.16/ abraahmaNasya pranaSTasvaamikaM rikthaM saMvatsaraM
+(paripaalya raajaa (haret //
+B1.10.18.17/ avadhyo vai braahmaNaH sarva.aparaadheSu //
+B1.10.18.18/ braahmaNasya
+brahmahatyaa.gurutalpagamana.suvarNasteya.suraapaaneSu kusindha.bhaga.sRgaal
+a.suraadhvajaaMs taptena^ayasaa lalaaTe^(aGkayitvaa viSayaan nirdhamanam //
+B1.10.18.19/ kSatriyaadiinaaM braahmaNa.vadhe vadhaH sarvasvaharaNam ca //
+B1.10.18.20/ teSaam eva tulya.apakRSTa.vadhe yathaa.balam anuruupaan
+daNDaan (prakalpayet //
+
+B1.10.19.1/ kSatriya.vadhe go.sahasram RSabha.adhikaM raajJa (utsRjed
+vaira.niryaatana.artham [K: vairaniryaatanaam] //
+B1.10.19.2/ zataM vaizye daza zuudra RSabhaz ca^atra^adhikaH //
+B1.10.19.3/ zuudra.vadhena strii.vadho go.vadhaz ca
+vyaakhyaato^anyatra^aatreyyaa vadhaad dhenv.anaDuhoz ca //
+B1.10.19.4/ vadhe dhenv.anaDuhor ante caandraayaNaM (caret //
+B1.10.19.5/ aatreyyaa vadhaH kSatriya.vadhena vyaakhyaataH //
+B1.10.19.6/
+haMsa.bhaasa.barhiNa.cakravaaka.pracalaaka.kaaka.uluuka.maNDuuka[K:
+kaNTaka].DiDDika[K: DiDDika.maNDuuka].Derikaa.zva.babhru.nakula.aadiinaaM
+vadhe zuudravat //
+B1.10.19.7/ loka.saMgrahaNa.arthaM yathaa dRSTaM zrutaM vaa saakSii
+saakSyaM (bruuyaat //
+B1.10.19.8-1ab/ paado^adharmasya kartaaraM paado (gacchati saakSiNam /
+B1.10.19.8-1cd/ paadaH sabhaasadaH sarvaan paado raajaanam (Rcchati //
+B1.10.19.8-2ab/ raajaa (bhavaty anenaaz ca (mucyante ca sabhaasadaH /
+B1.10.19.8-2cd/ eno (gacchati kartaaraM yatra nindyo ha (nindyate //
+B1.10.19.9/ saakSiNaM ca^evam uddiSTaM yatnaat (pRcched vicakSaNaH //
+B1.10.19.10ab/ yaaM raatrim (ajaniSThaas tvaM yaaM ca raatriM (mariSyasi /
+B1.10.19.10cd/ etayor antaraa yat te sukRtaM sukRtaM (bhavet /
+B1.10.19.10e(/ tat sarvaM raajagaami (syaad anRtaM bruvatas tava //
+B1.10.19.11ab/ triin eva ca pitqn (hanti triin eva ca pitaamahaan /
+B1.10.19.11cd/ sapta jaataan ajaataaMz ca saakSii saakSyaM mRSaa vadan //
+B1.10.19.12-1ab/ hiraNya.arthe anRte (hanti triin eva ca pitaamahaan /
+B1.10.19.12-1cd/ paJca pazv.anRte (hanti daza (hanti gava.anRte //
+B1.10.19.12-2ab/ zatam azva.anRte (hanti sahasraM puruSa.anRte /
+B1.10.19.12-2cd/ sarvaM bhuumy.anRte (hanti saakSii saakSyaM mRSaa vadan //
+B1.10.19.13/ catvaaro varNaaH putriNaH saakSiNaH (syur anyatra
+zrotriya.raajanya.pravrajita.maanuSyahiinebhyaH //
+B1.10.19.14/ smRtau pradhaanataH pratipattiH //
+B1.10.19.15/ ato^anyathaa kartapatyam //
+B1.10.19.16/ dvaadaza.raatraM taptaM payaH (pibet kuuzmaaNDair vaa
+(juhuyaad iti / kuuzmaaNDair vaa (juhuyaad iti //
+
+B1.11.20.1/ aSTau vivaahaaH //
+B1.11.20.2/ zruta.ziile (vijJaaya brahmacaariNe^arthine (diiyate sa braahmaH //
+B1.11.20.3/ (aacchaadya^(alaMkRtya / eSaa saha dharmaz[K: dharmaM]
+(caryataam iti / praajaaptyaH //
+B1.11.20.4/ puurvaaM laajaahutiM (hutvaa gobhyaaM saha^aarSaH // [K:
+puurvaaM laajaahutiM (hutvaa go.mithunaM kanyaavate (dattvaa grahaNam
+aarSaH ]
+B1.11.20.5/ dakSiNaasu (niiyamaanaasv antarvedy Rtvije sa daivaH //
+B1.11.20.6/ dhanena^upatoSyaa^aasuraH // [K: sakaamena sakaamaayaa mithas
+saMyogo gaandharvaH]
+B1.11.20.7/ sakaamena sakaamaayaa mithaH saMyogo gaandharvaH // [K:
+dhanenopatoSyaasuraH]
+B1.11.20.8/ prasahya haraNaad raakSasaH //
+B1.11.20.9/ suptaaM mattaaM pramattaaM vaa^(upagacched iti paizaacaH //
+B1.11.20.10/ teSaaM catvaaraH puurve braahmaNasya teSv api puurvaH puurvaH
+zreyaan //
+B1.11.20.11/ uttareSaam uttara uttaraH [K: uttarottaraH] paapiiyaan //
+B1.11.20.12/ atra^api SaSTha.saptamau kSatradharma.anugatau
+tat.pratyayatvaat kSatrasya //
+B1.11.20.13/ paJcama.aSTamau vaizya.zuudraaNaam //
+B1.11.20.14/ ayantrita.kalatraa hi vaizya.zuudraa (bhavanti //
+B1.11.20.15/ karSaNa.zuzruuSaa.adhikRtatvaat //
+B1.11.20.16/ gaandharvam apy eke (prazaMsanti sarveSaaM sneha.anugatatvaat //
+
+B1.11.21.1/ yathaa yukto vivaahas tathaa yuktaa prajaa (bhavati^iti
+vijJaayate //
+B1.11.21.2-1/ atha^apy (udaaharanti / [K adds: saadhavas tripuruSam aarSaad
+daza daivaad daza praajaapatyaad daza puurvaan daza^aparaan aatmaanaM ca
+braahmiiputra iti (vijJaayate // veda.sviikaraNa.zaktir apy evaMvidhaanaam
+eva putraaNaam (bhavati^iti //]
+B1.11.21.2-2ab/ kriitaa dravyeNa yaa naarii saa na patnii (vidhiiyate /
+B1.11.21.2-2cd/ saa na daive na saa pitrye daasiiM taaM kaazyapo^(abraviit //
+B1.11.21.3-1ab/ zulkena ye (prayacchanti svasutaaM lobha.mohitaaH /
+B1.11.21.3-1cd/ aatma.vikrayiNaH paapaa mahaa.kilbiSa.kaarakaaH //
+B1.11.21.3-2ab/ (patanti narake ghore (ghnanti ca^aa^saptamaM kulam /
+B1.11.21.3-2cd/ gamana.aagamanaM caiva sarvaM zulke (vidhiiyate //
+B1.11.21.4/
+paurNamasy.aSTakaa.amaavaasyaa.agnyutpaata.bhuumikampa.zmazaana.dezapati.zro
+triya.ekatiirtha.prayaaNeSv ahoraatram anadhyaayaH //
+
+B1.11.21.5/ vaate puuti.gandhe niihaare ca
+nRtta.giita.vaaditra.rudita.saama.zabdeSu taavantaM kaalam //
+B1.11.21.6/ stanayitnu.varSa.vidyut.saMnipaate tryaham anadhyaayo^anyatra
+varSaa.kaalaat //
+B1.11.21.7/ varSaa.kaale^api varSa.varjam ahoraatrayoz ca tat.kaalam //
+B1.11.21.8/ pitrya.pratigraha.bhojanayoz ca tad.divasa.zeSam //
+B1.11.21.9/ bhojaneSv aa jaraNam //
+B1.11.21.10/ paaNi.mukho hi braahmaNaH //
+B1.11.21.11-1/ atha^apy (udaaharanti /
+B1.11.21.11-2ab/ bhuktaM pratigRhiitaM ca nirvizeSam iti zrutiH //
+B1.11.21.12/ pitary[K: pitury] uparate tri.raatram //
+B1.11.21.13/ dvayam u ha vai suzravaso^anuucaanasya reto
+braahmaNasya^uurdhvaM naabher adhastaad anyat / sa yad uurdhvaM naabhes
+tena ha^etat (prajaayate yad braahmaNaan (upanayati yad (adhyaapayati yad
+(yaajayati yat saadhu (karoti / sarvaa^asya^eSaa prajaa (bhavati / atha yad
+avaaciiNaM naabhes tena ha^asya^aurasii prajaa (bhavati / tasmaat^zrotriyam
+anuucaanam aprajo^asi^iti na (vadanti //
+B1.11.21.14/ tasmaad dvi.naamaa dvi.mukho vipro dvi.retaa dvi.janmaa ca^iti //
+B1.11.21.15/ zuudra.apapaatra.zravaNa.saMdarzanayoz ca taavantaM kaalam //
+B1.11.21.16/ naktaM zivaa.viraave na^(adhiiyiita svapna.antam //
+B1.11.21.17/ ahoraatrayoz ca saMdhyayoH parvasu ca na^(adhiiyiita //
+B1.11.21.18/ na maaMsam (azniiyaan na striyam (upeyaat //
+B1.11.21.19/ parvasu hi rakSaH.pizaacaa vyabhicaaravanto (bhavanti^iti
+vijJaayate //
+B1.11.21.20/ anyeSu ca^adbhuta.utpaateSv ahoraatram anadhyaayo^anyatra
+maanasaat //
+B1.11.21.21/ maanase^api janana.maraNayor anadhyaayaH //
+B1.11.21.22-1/ atha^apy (udaaharanti /
+B1.11.21.22-2ab/ (hanti^aSTamii hy upaadhyaayaM (hanti ziSyaM caturdazii /
+B1.11.21.22-2cd/ (hanti paJcadazii vidyaaM tasmaat parvaNi (varjayet /
+B1.11.21.22-3/ tasmaat parvaNi (varjayed iti //
+
+
+B2.1.1.1/ atha^ataH praayazcittaani //
+B2.1.1.2/ bhruuNahaa dvaadaza samaaH //
+B2.1.1.3/ kapaalii khaTvaa.aGgii gardabha.carma.vaasaa araNya.niketanaH
+zmazaane dhvajaM zava.ziraH (kRtvaa kuTiiM (kaarayet / taam (aavaset /
+sapta.aagaaraaNi bhaikSaM caran svakarma^aacakSaaNas tena praaNaan
+(dhaarayet / alabdhvaa^upavaasaH //
+B2.1.1.4/ azvamedhena gosavena^agniSTutaa vaa (yajeta //
+B2.1.1.5/ azvamedha.avabhRthe vaa^aatmaanaM (paavayet //
+B2.1.1.6-1/ atha^apy (udaaharanti /
+B2.1.1.6-2ab/ amatyaa braahmaNaM (hatvaa duSTo (bhavati dharmataH /
+B2.1.1.6-2cd/ RSayo niSkRtiM tasya (vadanty amati.puurvake /
+B2.1.1.6-2e(/ mati.puurvaM ghnatas tasya niSkRtir na^(upalabhyate //
+B2.1.1.7ab/ (apaguurya (caret kRcchram atikRcchraM nipaatane /
+B2.1.1.7cd/ kRcchraM caandraayaNaM caiva lohitasya pravartane /
+B2.1.1.7e(/ tasmaan naiva^(apagureta na ca (kurviita zoNitam // iti //
+B2.1.1.8/ nava samaa raajanyasya //
+B2.1.1.9/ tisro vaizyasya //
+B2.1.1.10/ saMvatsaraM zuudrasya //
+B2.1.1.11/ striyaaz ca //
+B2.1.1.12/ braahmaNavad aatreyyaaH //
+B2.1.1.13/ gurutalpagas tapte loha.zayane (zayiita //
+B2.1.1.14/ suurmiM vaa jvalantiiM (zliSyet //
+B2.1.1.15/ liGgaM vaa savRSaNaM (parivaasya^aJjalaav (aadhaaya
+dakSiNaa.pratiicyor dizor antareNa (gacched aa nipatanaat //
+B2.1.1.16/ stenaH prakiirya kezaan saidhrakam musalam (aadaaya skandhena
+raajaanaM (gacched anena maaM jahi^iti / tena^enaM (hanyaat //
+B2.1.1.17-1/ atha^apy (udaaharanti /
+B2.1.1.17-2ab/ skandhena^aadaaya musalaM steno raajaanam (anviyaat /
+B2.1.1.17-2cd/ anena (zaadhi maaM raajan kSatra.dharmam anusmaran //
+B2.1.1.17-3ab/ zaasane vaa visarge vaa steno (mucyeta kilbiSaat /
+B2.1.1.17-3cd/ azaasanaat tu tad raajaa stenaad aapnoti kilbiSam // iti //
+B2.1.1.18/ suraaM (piitvaa^uSNayaa kaayaM (dahet //
+B2.1.1.19/ amatyaa paane kRcchra.abda.paadaM (caret punar.upanayanaM ca //
+B2.1.1.20/ vapana.vrata.niyama.lopaz ca puurva.anuSThitatvaat //
+B2.1.1.21-1/ atha^apy (udaaharanti /
+B2.1.1.21-2ab/ amatyaa vaaruNiiM (piitvaa (praazya muutra.puriiSayoH /
+B2.1.1.21-2cd/ braahmaNaH kSatriyo vaizyaH punaH.saMskaaram (arhati //
+B2.1.1.22ab/ suraa.dhaane tu yo bhaaNDe apaH paryuSitaaH (pibet /
+B2.1.1.22cd/ zaGkhapuSpii.vipakvena SaDahaM kSiireNa (vartayet //
+B2.1.1.23/ guru.prayuktaz cen (mriyeta gurus triin kRcchraaMz (caret //
+B2.1.1.24/ etad eva^asaMskRte //
+B2.1.1.25/ brahmacaariNaH zava.karmaNaa vrata.aavRttir anyatra
+maataa.pitror aacaaryaac ca //
+B2.1.1.26/ sa ced (vyaadhiiyiita kaamaM guror ucchiSTaM bhaiSajya.arthe
+sarvaM (praazniiyaat //
+B2.1.1.27/ yena^(icchet tena (cikitset //
+B2.1.1.28/ sa yadaa gadii (syaat tad (utthaaya^aadityam (upatiSTheta[K:
+upatiSThate] / haMsaH zuciSad iti / etayaa //
+B2.1.1.29/ divaa retaH (siktvaa trir apo hRdayaM.gamaaH (pibed retasyaabhiH //
+B2.1.1.30/ yo brahmacaarii striyam (upeyaat so^avakiirNii //
+B2.1.1.31/ sa gardabhaM pazum (aalabheta //
+B2.1.1.32/ nairRtaH pazuH puroDaazaz ca rakSo.devato[K: .daivato]
+yama.devato[K: .daivato] vaa //
+B2.1.1.33/ ziznaat praazitram apsv avadaanaiz (caranti^iti (vijJaayate //
+B2.1.1.34/ api vaa^amaavaasyaayaaM nizy agnim (upasamaadhaaya
+daarvihomikiiM[K: daaviMhomikiiM] pariceSTaaM (kRtvaa dve aajya.aahutii
+(juhoti / kaama^avakiirNo^(asmy avakiirNo^(asmi kaama kaamaaya svaahaa /
+kaama^abhidrugdho^(asmy abhidrugdho^(asmi kaama kaamaaya svaahaa^iti //
+B2.1.1.35/ (hutvaa prayata.aJjaliH kavaatiryaGG agnim (abhimantrayeta[K:
+upatiSTheta] / saM maa (siJcantu marutaH sam indraH saM bRhaspatiH / saM
+maa^ayam agniH siJcatv aayuSaa ca balena ca^aayuSmantaM (karota maa^iti //
+B2.1.1.36/ atha^asya [K: atha yasya] jJaatayaH pariSady uda.paatraM
+(ninayeyur asaav aham itthaM.bhuuta iti / (caritvaa^apaH payo ghRtaM madhu
+lavaNam ity aarabdhavantaM braahmaNaa (bruuyuz caritaM tvayaa^iti / om
+iti^itaraH (pratyaaha / carita.nirvezaM savaniiyaM (kuryuH //
+B2.1.1.37/ sagotraaM ced amatyaa^(upagacchen[K: upayacchen] maatRvad enaaM
+(bibhRyaat //
+B2.1.1.38/ prajaataa cet kRcchra.abda.paadaM[K: .SaadaM] (caritvaa / yan ma
+aatmano mindaa^(abhuut / punar agniz cakSur (adaad iti / etaabhyaaM
+(juhuyaat //
+B2.1.1.39ab/ parivittaH parivettaa yaa ca^enaM (parivindati /
+B2.1.1.39cd/ sarve te narakaM (yaanti daatR.yaajaka.paJcamaaH //
+B2.1.1.40ab/ parivittaH parivettaa daataa yaz ca^api yaajakaH /
+B2.1.1.40cd/ kRcchra.dvaadaza.raatreNa strii tri.raatreNa (zudhyati // iti //
+
+B2.1.2.1/ atha pataniiyaani //
+B2.1.2.2/ samudra.saMyaanam //
+B2.1.2.3/ brahmasva.nyaasa.apaharaNam //
+B2.1.2.4/ bhuumy.anRtam //
+B2.1.2.5/ sarva.paNyair vyavaharaNam //
+B2.1.2.6/ zuudra.sevanam //
+B2.1.2.7/ zuudraa.abhijananam //
+B2.1.2.8/ tad.apatyatvaM ca //
+B2.1.2.9/ eteSaam [K: eSaam] anyatamaM [K: anyatamat] (kRtvaa //
+B2.1.2.10ab/ caturtha.kaalaa mita.bhojinaH (syur apo^(abhyaveyuH [K omits
+apo 'bhyaveyuH] savana.anukalpam /
+B2.1.2.10cd/ sthaana.aasanaabhyaaM (viharanta ete tribhir varSais tad
+(apaghnanti [K: apahanti] paapam //
+B2.1.2.11ab/ yad eka.raatreNa (karoti paapaM kRSNaM varNaM braahmaNaH
+sevamaanaH /
+B2.1.2.11cd/ caturtha.kaala udaka.abhyavaayii tribhir varSais tad (apahanti
+paapam // iti //
+B2.1.2.12/ atha^upapaatakaani //
+B2.1.2.13/ agamyaa.gamanaM gurvii.sakhiiM guru.sakhiim apapaatraaM patitaaM
+ca (gatvaa bheSaja.karaNaM graama.yaajanaM raGga.upajiivanaM
+naaTya.aacaaryataa go.mahiSii.rakSaNaM yac ca^anyad apy evaM.yuktaM
+kanyaa.duuSaNam iti //
+B2.1.2.14/ teSaaM tu nirvezaH patitavRttir dvau saMvatsarau //
+B2.1.2.15/ atha^azucikaraaNi //
+B2.1.2.16/ dyuutam abhicaaro^anaahitaagner uJcha.vRttitaa samaavRttasya
+bhaikSacaryaa tasya ca^eva guru.kule vaasa uurdhvaM caturbhyo maasebhyas
+tasya ca^adhyaapanaM nakSatra.nirdezaz ca^iti //
+B2.1.2.17/ teSaaM tu nirvezo dvaadaza maasaan dvaadaza ardha.maasaan
+dvaadaza dvaadaza.ahaan dvaadaza SaD.ahaan dvaadaza try.ahaan dvaadazaahaM
+SaD.ahaM try.aham ahoraatram eka.aham iti yathaa karma.abhyaasaH //
+B2.1.2.18/ atha patitaaH (samavasaaya dharmaaMz (careyur itaretara.yaajakaa
+itaretara.adhyaapakaa mitho vivahamaanaaH / putraan (saMniSpaadya (bruuyur
+(vipravrajata^asmat ta evam aaryaan (saMpratipatsyatha^iti //
+B2.1.2.19/ atha^api na sendriyaH patati //
+B2.1.2.20/ tad etena veditavyam / aGga.hiino^api [K: api hi] sa.aGgaM
+(janayet [K: janayatiiti] //
+B2.1.2.21/ mithyaa^etad iti haariitaH //
+B2.1.2.22/ dadhi.dhaanii.sadharmaaH striyaH (syuH / yo hi dadhi.dhaanyaam
+aprayataM paya (aatacya (manthati na tat^ziSTaa dharmakRtyeSu^(upayojayanti
+//
+B2.1.2.23/ evam azuci zukraM yan (nirvartate na tena saha saMprayogo (vidyate //
+B2.1.2.24/ azuci.zukra.utpannaanaaM teSaam icchataaM praayazcittiH //
+B2.1.2.25/ pataniiyaanaaM tRtiiyo^aMzaH striiNaam aMzas tRtiiyaH //
+B2.1.2.26-1/ atha^apy (udaaharanti / [K om.]
+B2.1.2.26-2ab/ bhojana.abhyaJjanaad daanaad yad anyat (kurute tilaiH /
+B2.1.2.26-2cd/ zva.viSThaayaaM kRmir [K: krimir] (bhuutvaa pitRbhiH saha
+(majjati // iti //
+B2.1.2.27/ pitqn vaa eSa (vikriiNiite yas tilaan (vikriiNiite / praaNaan
+vaa eSa (vikriiNiite yas taNDulaan (vikriiNiite / sukRta.aMzaan vaa eSa
+(vikriiNiite yaH paNamaano duhitaraM (dadaati //
+B2.1.2.28/ tRNa.kaaSTham [K: tRNaM kaaSTham] avikRtaM vikreyam //
+B2.1.2.29-1/ atha^apy (udaaharanti [K: udaaranti] /
+B2.1.2.29-2ab/ pazavaz ca^ekato.dantaa azmaa ca lavaNa.uddhRtaH /
+B2.1.2.29-2cd/ etad braahmaNa te paNyaM tantuz ca^arajaniikRtaH // iti //
+B2.1.2.30/ paataka.varjaM vaa babhruM piGgalaaM gaaM romazaaM
+sarpiSaa^(avasicya kRSNais tilair (avakiirya^anuucaanaaya (dadyaat //
+B2.1.2.31/ kuuzmaaNDair vaa dvaadazaaham //
+B2.1.2.32/ yad arvaaciinam eno bhruuNa.hatyaayaas tasmaan (mucyata iti //
+B2.1.2.33/ paataka.abhizaMsane kRcchraH //
+B2.1.2.34/ tad.abdo[K: tadazabdo]^abhizaMsituH //
+B2.1.2.35/ saMvatsareNa patati patitena samaacaran / yaajana.adhyaapanaad
+yaunaan na tu yaana.aasana.azanaad iti //
+B2.1.2.36/ amedhya.praazane praayazcittir [K: praayazcittaM] naiSpuriiSyam
+/ tat saptaraatreNa^(avaapyate //
+B2.1.2.37/ apaH payo ghRtaM paraaka iti prati.tryaham uSNaani sa
+tapta.kRcchraH //
+B2.1.2.38/ tryahaM praatas tathaa saayam [K adds: tryaham anyad] ayaacitaM
+[K adds: tryahaM paraM tu naazniiyaat] paraaka iti kRcchraH //
+B2.1.2.39/ praataH saayam ayaacitaM paraaka iti trayaz catuuraatraaH sa eSa
+strii.baala.vRddhaanaaM kRcchraH //
+B2.1.2.40/ yaavat sakRd (aadadiita taavad (azniiyaat puurvavat so^atikRcchraH //
+B2.1.2.41/ ab.bhakSas tRtiiyaH sa kRcchraatikRcchraH //
+B2.1.2.42/ kRcchre triSavaNam udaka.upasparzanam //
+B2.1.2.43/ adhaH.zayanam //
+B2.1.2.44/ eka.vastrataa keza.zmazru.loma.nakha.vaapanam //
+B2.1.2.45/ etad eva striyaaH keza.vapana.varjam / keza.vapana.varjam //
+
+B2.2.3.1ab/ nitya.udakii nitya.yajJopaviitii nitya.svaadhyaayii
+vRSala.anna.varjii /
+B2.2.3.1cd/ Rtau ca gacchan vidhivac ca juhvan na braahmaNaz (cyavate
+brahmalokaat //
+B2.2.3.2/ manuH putrebhyo daayaM (vyabhajad iti zrutiH //
+B2.2.3.3/ samazaH sarveSaam avizeSaat //
+B2.2.3.4/ varaM vaa ruupam (uddharej jyeSThaH //
+B2.2.3.5/ tasmaaj jyeSThaM putraM dhanena (niravasaayayanti^iti zrutiH //
+B2.2.3.6/ dazaanaaM vaa^ekam (uddharej jyeSThaH //
+B2.2.3.7/ samam itare (vibhajeran //
+B2.2.3.8/ pitur anumatyaa daaya.vibhaagaH sati pitari //
+B2.2.3.9/ caturNaaM varNaanaaM go.azva.aja.avayo jyeSTha.aMzaH //
+B2.2.3.10/ naanaa.varNa.strii.putra.samavaaye daayaM daza.aMzaan (kRtvaa
+caturas triin dvaav ekam iti yathaa.kramaM (vibhajeran //
+B2.2.3.11/ aurase tu^utpanne savarNaas tRtiiya.aMza.haraaH //
+B2.2.3.12/ savarNaa.putra.anantaraa.putrayor anantaraa.putraz ced guNavaan
+sa jyeSTha.aMzaM (haret //
+B2.2.3.13/ guNavaan hi zeSaaNaaM bhartaa (bhavati //
+B2.2.3.14-1/ savarNaayaaM saMskRtaayaaM svayam.utpaaditam aurasaM putraM
+(vidyaat /
+B2.2.3.14-2/ atha^apy (udaaharanti / [K om.]
+B2.2.3.14-3ab/ aGgaad aGgaat (saMbhavasi hRdayaad adhi (jaayase / [K om.]
+B2.2.3.14-3cd/ aatmaa vai putra.naama^asi sa (jiiva zaradaH zatam // iti //
+[K om.]
+B2.2.3.15/ (abhyupagamya duhitari jaataM putrikaa.putram anyaM dauhitram //
+B2.2.3.16-1/ atha^apy (udaaharanti /
+B2.2.3.16-2ab/ (aadizet prathame piNDe maataraM putrikaa.sutaH /
+B2.2.3.16-2cd/ dvitiiye pitaraM tasyaas tRtiiye ca pitaamaham // iti //
+B2.2.3.17/ mRtasya prasuuto yaH kliiba.vyaadhitayor vaa^anyena^anumate [K:
+'numatena] sve kSetre sa kSetrajaH //
+B2.2.3.18/ sa eSa dvi.pitaa dvi.gotraz ca dvayor api svadhaa.riktha.bhaag
+(bhavati //
+B2.2.3.19-1/ atha^apy (udaaharanti /
+B2.2.3.19-2ab/ dvi.pituH piNDa.daanaM (syaat piNDe.piNDe ca naamanii /
+B2.2.3.19-2cd/ trayaz ca piNDaaH SaNNaaM (syur evaM kurvan na (muhyati // iti //
+B2.2.3.20/ maataa.pitRbhyaaM datto^anyatareNa vaa yo^apatya.arthe
+(parigRhyate sa dattaH //
+B2.2.3.21/ sadRzaM yaM sakaamaM svayaM (kuryaat sa kRtrimaH //
+B2.2.3.22/ gRhe guuDha.utpanno^ante jJaato guuDhajaH [K: guuDhoH] //
+B2.2.3.23/ maataa.pitRbhyaam utsRSTo^anyatareNa vaa yo^apatya.arthe
+(parigRhyate so^apaviddhaH //
+B2.2.3.24/ asaMskRtaam anatisRSTaaM yaam (upagacchet [K: upayacchet]
+tasyaaM yo jaataH sa kaaniinaH //
+B2.2.3.25/ yaa garbhiNii (saMskriyate vijJaataa vaa^avijJaataa vaa tasyaaM
+yo jaataH sa sahoDhaH //
+B2.2.3.26/ maataa.pitror hastaat kriito^anyatareNa vaa yo^apatya.arthe
+(parigRhyate sa kriitaH //
+B2.2.3.27/ kliibaM (tyaktvaa patitaM vaa yaa^anyaM patiM (vindet tasyaaM
+punarbhvaaM yo jaataH sa paunarbhavaH //
+B2.2.3.28/ maataa.pitR.vihiino yaH svayam aatmaanaM (dadyaat sa svayaM.dattaH //
+B2.2.3.29/ dvijaati.pravaraat^zuudraayaaM jaato niSaadaH //
+B2.2.3.30/ kaamaat paarazava iti putraaH //
+B2.2.3.31-1/ atha^apy (udaaharanti /
+B2.2.3.31-2ab/ aurasaM putrikaa.putraM kSetrajaM datta.kRtrimau /
+B2.2.3.31-2cd/ guuDhajaM ca^apaviddhaM ca riktha.bhaajaH (pracakSate //
+B2.2.3.32ab/ kaaniinaM ca sahoDhaM ca kriitaM paunarbhavaM tathaa /
+B2.2.3.32cd/ svayaM.dattaM niSaadaM ca gotra.bhaajaH (pracakSate //
+B2.2.3.33/ teSaaM prathama eva^ity (aaha^aupajaGghaniH //
+B2.2.3.34-1ab/ idaaniim aham (iirSyaami striiNaaM janaka no puraa /
+B2.2.3.34-1cd/ yato yamasya sadane janayituH putram abruvan //
+B2.2.3.34-2ab/ retodhaaH putraM nayati paretya yama.saadane /
+B2.2.3.34-2cd/ tasmaat sva.bhaaryaaM [K: tasmaad bhaaryaaM] (rakSantu [K:
+rakSanti] bibhyataH [K: bibhyantaH] para.retasaH //
+B2.2.3.35ab/ apramattaa rakSata [K: rakSatha] tantum etaM maa vaH kSetre
+parabiijaani (vaapsuH [K: vapsuH] /
+B2.2.3.35cd/ janayituH putro (bhavati saaMparaaye [K: saamSaraaye] moghaM
+vettaa (kurute tantum etam // iti //
+B2.2.3.36/ teSaam apraapta.vyavahaaraaNaam aMzaan sa.upacayaan suniguptaan
+(nidadhyur aa vyavahaara.praapaNaat //
+B2.2.3.37/ atiita.vyavahaaraan graasa.aacchaadanair (bibhRyuH //
+B2.2.3.38/ andha.jaDa.kliiba.vyasani.vyaadhita.aadiiMz ca //
+B2.2.3.39/ akarmiNaH //
+B2.2.3.40/ patita.taj.jaata.varjam //
+B2.2.3.41/ na patitaiH saMvyavahaaro (vidyate //
+B2.2.3.42/ patitaam api tu maataraM (bibhRyaad anabhibhaaSamaaNaH //
+B2.2.3.43/ maatur alaMkaaraM duhitaraH saaMpradaayikaM (labherann anyad vaa //
+B2.2.3.44/ na striyaaH [K: strii] svaatantryaM (vidyate [K: vidante] //
+B2.2.3.45-1/ atha^apy (udaaharanti /
+B2.2.3.45-2ab/ pitaa (rakSati kaumaare bhartaa (rakSati yauvane /
+B2.2.3.45-2cd/ putras tu sthavirii.bhaave [K: sthaavire bhaave] na strii
+svaatantryam (arhati // iti //
+B2.2.3.46/ nirindriyaa hy adaayaaz ca striyo mataa iti zrutiH //
+B2.2.3.47/ bhartR.hite yatamaanaaH svargaM lokaM (jayeran //
+B2.2.3.48/ vyatikrame kRcchraH //
+B2.2.3.49/ zuudre caandraayaNaM (caret //
+B2.2.3.50/ vaizya.aadiSu pratilomaM kRcchra.atikRcchra.aadiiMz (caret //
+B2.2.3.51/ puMsaaM braahmaNa.aadiinaaM saMvatsaraM brahmacaryam //
+B2.2.3.52/ zuudraM kaTa.agninaa [K: kaTaarinanaa] (dahet //
+B2.2.3.53/ atha^apy (udaaharanti //
+
+B2.2.4.1ab/ abraahmaNasya zaariiro daNDaH saMgrahaNe (bhavet //
+B2.2.4.2ab/ sarveSaam eva varNaanaaM daaraa rakSyatamaa dhanaat //
+B2.2.4.3ab/ na tu caaraNa.daareSu na raGga.avatare [K: raGgaavataare] vadhaH /
+B2.2.4.3cd/ (saMsarjayanti taa hy etaan niguptaaMz ca^(aalayanty api //
+B2.2.4.4ab/ striyaH pavitram atulaM na^etaa (duSyanti karhicit /
+B2.2.4.4cd/ maasi.maasi rajo hy aasaaM duritaany (apakarSati //
+B2.2.4.5ab/ somaH zaucaM (dadau [K: dadat] taasaaM gandharvaH zikSitaaM giram /
+B2.2.4.5cd/ agniz ca sarvabhakSatvaM [K: sarvabhakSyatvaM] tasmaan
+niSkalmaSaaH striyaH //
+B2.2.4.6ab/ aprajaaM dazame varSe strii.prajaaM dvaadaze (tyajet /
+B2.2.4.6cd/ mRta.prajaaM paJcadaze sadyas tv apriya.vaadiniim //
+B2.2.4.7/ saMvatsaraM preta.patnii madhu.maaMsa.madya.lavaNaani (varjayed
+adhaH (zayiita //
+B2.2.4.8/ SaN.maasaan iti maudgalyaH //
+B2.2.4.9/ ata uurdhvaM gurubhir anumataa devaraaj (janayet putram aputraa //
+B2.2.4.10-1/ atha^apy (udaaharanti /
+B2.2.4.10-2ab/ vazaa ca^utpanna.putraa ca niirajaskaa gata.prajaa /
+B2.2.4.10-2cd/ na^akaamaa saMniyojyaa (syaat phalaM yasyaaM na (vidyate //
+iti //
+B2.2.4.11/ maatula.pitR.svasaa bhaginii bhaagineyii snuSaa maatulaanii
+sakhi.vadhuur ity agamyaaH //
+B2.2.4.12/ agamyaanaaM gamane kRcchra.atikRcchrau caandraayaNam iti
+praayazcittiH //
+B2.2.4.13/ etena caNDaalii.vyavaayo vyaakhyaataH //
+B2.2.4.14-1/ atha^apy (udaaharanti /
+B2.2.4.14-2ab/ caNDaaliiM braahmaNo (gatvaa (bhuktvaa ca (pratigRhya ca /
+B2.2.4.14-2cd/ ajJaanaat patito vipro jJaanaat tu samataaM (vrajet //
+B2.2.4.15ab/ pitur guror narendrasya bhaaryaaM (gatvaa pramaadataH /
+B2.2.4.15cd/ gurutalpii (bhavet tena puurva.uktas tasya niSkrayaH [K:
+nizcayaH] // iti //
+B2.2.4.16/ adhyaapana.yaajana.pratigrahair azaktaH kSatra.dharmeNa (jiivet
+pratyanantaratvaat //
+B2.2.4.17/ na^iti gautamaH / atyugro hi kSatra.dharmo braahmaNasya //
+B2.2.4.18-1/ atha^apy (udaaharanti /
+B2.2.4.18-2ab/ gava.arthe braahmaNa.arthe vaa varNaanaaM vaa^api saMkare /
+B2.2.4.18-2cd/ (gRhNiiyaataaM vipra.vizau zastraM dharma.vyapekSayaa //
+B2.2.4.19/ vaizya.vRttir anuSTheyaa pratyanantaratvaat //
+B2.2.4.20/ praak praatar.aazaat karSii (syaat //
+B2.2.4.21/ asyuuta.naasikaabhyaaM samuSkaabhyaam atudann aarayaa
+muhur.muhur abhyucchandayan // [B2.2.4.20-21 = B3.2.3]
+B2.2.4.22/ bhaaryaa.aadir agniH / tasmin karma.karaNaM praag agnyaadheyaat //
+B2.2.4.23/ agnyaadheya.prabhRty atha^imaany ajasraaNi (bhavanti yathaa^etad
+agnyaadheyam agnihotraM darzapuurNamaasaav aagrayaNam
+udagayana.dakSiNaayanayoH pazuz caaturmaasyaany Rtumukhe SaDDhotaa vasante
+jyotiStoma ity evaM kSema.praapaNam //
+B2.2.4.24/ atha^apy (udaaharanti /
+B2.2.4.24ab/ na divaa.svapna.ziilena na ca sarva.anna.bhojinaa /
+B2.2.4.24cd/ kaamaM zakyaM nabho gantum aaruuDha.patitena vaa //
+B2.2.4.25/ dainyaM zaaThyaM jaihmyaM ca (varjayet //
+B2.2.4.26-1/ atha^apy atra^uzanasaz ca vRSaparvaNaz ca duhitroH saMvaade
+gaathaam (udaaharanti /
+B2.2.4.26-2ab/ stuvato duhitaa tvaM vai yaacataH pratigRhNataH /
+B2.2.4.26-2cd/ atha^ahaM stuuyamaanasya dadato^apratigRhNataH /
+B2.2.4.26-3/ dadato^apratigRhNata iti //
+
+B2.3.5.1/ tapasyam apovagaahanam [apas.avagaahanam] [K: tapasyam avagaahanam] //
+B2.3.5.2/ devataas (tarpayitvaa pitR.tarpaNam //
+B2.3.5.3/ anutiirtham apa (utsiJcati [K: utsiJced] / uurjaM vahantiir iti //
+B2.3.5.4-1/ atha^apy (udaaharanti /
+B2.3.5.4-2ab/ sravantiiSv aniruddhaasu trayo varNaa dvijaatayaH /
+B2.3.5.4-2cd/ praatar.utthaaya [K: praatarutthaayaaya] (kurviiran
+deva.RSi.pitR.tarpaNam //
+B2.3.5.5/ niruddhaasu na (kurviirann aMza.bhaak tatra setu.kRt //
+B2.3.5.6/ tasmaat para.kRtaan setuun kuupaaMz ca (parivarjayed iti //
+B2.3.5.7-1/ atha^apy (udaaharanti /
+B2.3.5.7-2ab/ (uddhRtya vaa^api triin piNDaan (kuryaad aapatsu na^u sadaa /
+B2.3.5.7-2cd/ niruddhaasu tu mRt.piNDaan kuupaat triin ab.ghaTaaMs tathaa
+// iti //
+B2.3.5.8/ bahu.pratigraahyasya^apratigraahyasya vaa (pratigRhya [K: bahu
+pratigraahyasya pratigRhyaapratigraahyasya vaa]^ayaajyaM vaa
+(yaajayitva^anaazya.annasya vaa^annam (azitvaa taratsamandiiyaM (japed iti
+//
+B2.3.5.9-1/ atha^apy (udaaharanti /
+B2.3.5.9-2ab/ guru.saMkariNaz ca^eva ziSya.saMkariNaz ca ye /
+B2.3.5.9-2cd/ aahaara.mantra.saMkiirNaa diirghaM tama (upaasate // iti //
+B2.3.5.10/ atha snaataka.vrataani //
+B2.3.5.11/ saayaM praatar yad azaniiyaM (syaat tena^annena vaizvadevaM
+balim (upahRtya braahmaNa.kSatriya.viT.zuudraan abhyaagataan yathaa.zakti
+(puujayet //
+B2.3.5.12/ yadi bahuunaaM na (zaknuyaad ekasmai guNavate (dadyaat //
+B2.3.5.13/ yo vaa prathamam upagataH [K: upaagataH] (syaat //
+B2.3.5.14/ zuudraz ced aagatas taM karmaNi (niyuJjyaat //
+B2.3.5.15/ zrotriyaaya vaa^agraM (dadyaat //
+B2.3.5.16/ ye nityaa bhaaktikaaH [K: nityaabhaktikaas] (syus teSaam
+anuparodhena saMvibhaago vihitaH //
+B2.3.5.17/ na tv eva kadaacid (adattvaa [K: adatvaa] (bhuJjiita //
+B2.3.5.18-1/ atha^apy atra^anna.giitau zlokaav (udaaharanti /
+B2.3.5.18-2ab/ yo maam (adattvaa [K: adatvaa] pitR.devataabhyo
+bhRtya.atithiinaaM ca suhRj.janasya /
+B2.3.5.18-2cd/ saMpannam aznan viSam (atti mohaat tam (admy ahaM tasya ca
+mRtyur (asmi //
+B2.3.5.18-3ab/ huta.agnihotraH kRta.vaizvadevaH (puujya^atithiin bhRtya.jana.avaziSTam /
+B2.3.5.18-3cd/ tuSTaH zuciH zrad.dadhad (atti yo maaM tasya^amRtaM (syaaM
+sa ca maaM (bhunakti [K: bhunaktiiti] //
+B2.3.5.19/ subraahmaNa.zrotriya.vedapaaragebhyo
+gurv.artha.niveza.auSadha.artha.vRtti.kSiiNa.yakSyamaaNa.adhyayana.adhva.saM
+yoga.vaizvajiteSu dravya.saMvibhaago yathaa.zakti kaaryo bahirvedi
+bhikSamaaNeSu //
+B2.3.5.20/ kRta.annam itareSu //
+B2.3.5.21/ suprakSaalita.paada.paaNir aacaantaH zucau saMvRte deze^annam
+upahRtam (upasaMgRhya kaama.krodha.droha.lobha.mohaan (apahatya sarvaabhir
+aGguliibhiH zabdam akurvan (praazniiyaat //
+
+B2.3.6.1/ na piNDa.zeSaM paatryaam (utsRjet //
+B2.3.6.2/ maaMsa.matsya.tila.saMsRSTa.praazane^apa (upaspRzya^agnim
+(abhimRzet //
+B2.3.6.3/ astamite ca snaanam //
+B2.3.6.4/ paalaazam aasanaM paaduke danta.dhaavanam iti (varjayet //
+B2.3.6.5/ na^utsaGge^annaM (bhakSayet //
+B2.3.6.6/ aasandyaaM na (bhuJjiita //
+B2.3.6.7/ vaiNavaM daNDaM (dhaarayed rukma.kuNDale ca //
+B2.3.6.8/ padaa paadasya prakSaalanam adhiSThaanaM ca (varjayet //
+B2.3.6.9/ na bahir.maalaaM (dhaarayet //
+B2.3.6.10/ suuryam udaya.astamaye na (niriikSeta //
+B2.3.6.11/ na^indra.dhanur iti parasmai (prabruuyaat //
+B2.3.6.12/ yadi (bruuyaan maNi.dhanur ity eva (bruuyaat //
+B2.3.6.13/ pura.dvaari^indrakiila.parighaav antareNa na^(atiiyaat //
+B2.3.6.14/ pleGkhayor [K: preGkhayor] antareNa na (gacchet //
+B2.3.6.15/ vatsa.tantiiM ca na^upari (gacchet //
+B2.3.6.16/ bhasma.asthi.roma.tuSa.kapaala.apasnaanaani na^(adhitiSThet //
+B2.3.6.17/ gaaM dhayantiiM na parasmai (prabruuyaat //
+B2.3.6.18/ na^adhenum adhenur iti (bruuyaat //
+B2.3.6.19/ yadi (bruuyaad dhenuM bhavyaa^ity [K: dhenubhavyety] eva (bruuyaat //
+B2.3.6.20/ zuktaa ruukSaaH paruSaa vaaco na (bruuyaat //
+B2.3.6.21/ na^eko^adhvaanaM (vrajet //
+B2.3.6.22/ na patitair na striyaa na zuudreNa //
+B2.3.6.23/ na pratisaayaM (vrajet //
+B2.3.6.24/ na nagnaH (snaayaat //
+B2.3.6.25/ na naktaM (snaayaat //
+B2.3.6.26/ na nadiiM baahukas (taret //
+B2.3.6.27/ na kuupam (avekSeta //
+B2.3.6.28/ na gartam (avekSeta //
+B2.3.6.29/ na tatra^(upavized yata enam anya (utthaapayet //
+B2.3.6.30ab/ panthaa deyo braahmaNaaya gave raajJe hy acakSuSe /
+B2.3.6.30cd/ vRddhaaya bhaara.taptaaya garbhiNyai durbalaaya ca //
+B2.3.6.31/ prabhuuta.edha.udaka[K:
+prabhuutadhodaka].yava.sasamit.kuza.maalya.upaniSkramaNam
+aaDhya.jana.aakulam analasa.samRddham aarya.jana.bhuuyiSTham
+a.dasyu.pravezyaM graamam (aavasituM (yateta dhaarmikaH //
+B2.3.6.32ab/ udapaana.udake graame braahmaNo vRSalii.patiH /
+B2.3.6.32cd/ (uSitvaa dvaadaza samaaH zuudra.saadharmyam (Rcchati //
+B2.3.6.33ab/ pura.reNu.kuNThita.zariiras tat.paripurNa[K:
+tatparipuurNa].netra.vadanaz ca /
+B2.3.6.33cd/ nagare vasan suniyata.aatmaa siddhim (avaapsyati^iti na tad
+(asti //
+B2.3.6.34ab/ ratha.azva.gaja.dhaanyaanaaM gavaaM ca^eva rajaH zubham /
+B2.3.6.34cd/ aprazastaM samuuhanyaaH zva.aja.avi.khara.vaasasaam //
+B2.3.6.35/ puujyaan (puujayet //
+B2.3.6.36ab/ RSi.vidvan.nRpa.vara.maatula.zvazura.RtvijaH /
+B2.3.6.36cd/ ete^arghyaaH zaastra.vihitaaH smRtaaH kaala.vibhaagazaH //
+B2.3.6.37ab/ RSi.vidvan.nRpaaH praaptaaH kriyaa.aarambhe vara.Rtvijau /
+B2.3.6.37cd/ maatula.zvazurau puujyau saMvatsara.gata.aagatau // iti //
+B2.3.6.38ab/ agny.agaare gavaaM madhye braahmaNaanaaM ca saMnidhau /
+B2.3.6.38cd/ svaadhyaaye bhojane ca^eva dakSiNaM baahum (uddharet //
+B2.3.6.39ab/ uttaraM vaasaH kartavyaM paJcasv eteSu karmasu /
+B2.3.6.39cd/ svaadhyaaya.utsarga.daaneSu bhojana.aacaamayos [K:
+bhojanaacamanayos] tathaa //
+B2.3.6.40ab/ havanaM bhojanaM daanam upahaaraH pratigrahaH /
+B2.3.6.40cd/ bahir.jaanu na kaaryaaNi tadvad aacamanaM smRtam //
+B2.3.6.41ab/ anne zritaani bhuutaani annaM praaNam iti zrutiH /
+B2.3.6.41cd/ tasmaad annaM pradaatavyam annaM hi paramaM haviH //
+B2.3.6.42-1ab/ hutena (zaamyate paapaM hutam annena (zaamyati /
+B2.3.6.42-1cd/ annaM dakSiNayaa zaantim (upayaati^iti na zrutiH [K: naz
+zrutir iti] /
+B2.3.6.42-2/ upayaati^iti naH zrutir iti // [K om.]
+
+B2.4.7.1/ atha^ataH saMdhyaa.upaasana.vidhiM (vyaakhyaasyaamaH //
+B2.4.7.2/ tiirthaM (gatvaa^aprayato^abhiSiktaH prayato vaa^anabhiSiktaH
+prakSaalita.paada.paaNir apa (aacamya surabhimatyaa^abliGgaabhir
+vaaruNiibhir hiraNyavarNaabhiH paavamaaniibhir vyaahRtibhir anyaiz ca
+pavitrair aatmaanaM (prokSya prayato (bhavati //
+B2.4.7.3-1/ atha^apy (udaaharanti /
+B2.4.7.3-2ab/ apovagaahanaM (apas.avagaahanaM) snaanaM vihitaM saarvavarNikam /
+B2.4.7.3-2cd/ mantravat.prokSaNaM ca^api dvijaatiinaaM (viziSyate // iti //
+B2.4.7.4/ sarva.karmaNaaM ca^eva^aarambheSu praak saMdhyaa.upaasana.kaalaac
+ca^etena^eva pavitra.samuuhena^aatmaanaM (prokSya prayato (bhavati //
+B2.4.7.5/ atha^apy (udaaharanti / darbheSv aasiino darbhaan dhaarayamaaNaH
+sa.udakena paaNinaa pratyaG.mukhaH saavitriiM sahasrakRtva (aavartayet //
+B2.4.7.6/ praaNa.aayaama.zo vaa zatakRtvaH //
+B2.4.7.7/ ubhayataH.praNavaaM sa.sapta.vyaahRtikaaM manasaa vaa dazakRtvaH //
+B2.4.7.8/ tribhiz ca praaNa.aayaamais taanto brahmahRdayena //
+B2.4.7.9/ vaaruNiibhyaaM raatrim (upatiSThate / imaM me varuNa / tat tvaa
+(yaami^iti / dvaabhyaam //
+B2.4.7.10/ evam eva praataH praaG.mukhas tiSThan //
+B2.4.7.11/ maitriibhyaam ahar (upatiSThate/ mitrasya carSaNiidhRtaH / mitro
+janaan yaatayati^iti / dvaabhyaam //
+B2.4.7.12/ supuurvaam api puurvaam (upakramya^udita aaditye (samaapnuyaat //
+B2.4.7.13/ anastamita (upakramya supazcaad api pazcimaam //
+B2.4.7.14/ saMdhyayoz ca saMpattaav aho.raatrayoz ca saMtatyai [K: santatiH] //
+B2.4.7.15-1/ api ca^atra prajaapati.giitau zlokau (bhavataH /
+B2.4.7.15-2ab/ anaagataaM tu ye puurvaam anatiitaaM tu pazcimaam /
+B2.4.7.15-2cd/ saMdhyaaM na^(upaasate vipraaH kathaM te braahmaNaaH smRtaaH //
+B2.4.7.15-3ab/ saayaM praataH sadaa saMdhyaaM ye vipraa na^u (upaasate /
+B2.4.7.15-3cd/ kaamaM taan dhaarmiko raajaa zuudra.karmasu (yojayed // iti //
+B2.4.7.16/ tatra saayam.atikrame raatry.upavaasaH
+praatar.atikrame^ahar.upavaasaH //
+B2.4.7.17/ sthaana.aasana.phalam (avaapnoti //
+B2.4.7.18-1/ atha^apy (udaaharanti /
+B2.4.7.18-2ab/ yad upastha.kRtaM paapaM padbhyaaM vaa yat kRtaM (bhavet /
+B2.4.7.18-2cd/ baahubhyaaM manasaa vaa^api vaacaa vaa yat kRtaM (bhavet /
+B2.4.7.18-2ef/ saayaM saMdhyaam (upasthaaya tena tasmaat (pramucyate //
+B2.4.7.19/ raatryaa ca^api (saMdhiiyate na ca^enaM varuNo (gRhNaati //
+B2.4.7.20/ evam eva praatar (upasthaaya raatri.kRtaat paapaat (pramucyate //
+B2.4.7.21/ ahnaa ca^api (saMdhiiyate mitraz ca^enaM (gopaayaty aadityaz
+ca^enaM svargaM lokam (unnayati //
+B2.4.7.22/ sa evam eva^ahar.ahar aho.raatrayoH saMdhiSu^upatiSThamaano
+brahma.puuto brahma.bhuuto braahmaNaH zaastram anuvartamaano brahma.lokam
+(abhijayati^iti (vijJaayate / brahmalokam (abhijayati^iti (vijJaayate //
+
+B2.5.8.1/ atha hastau (prakSaalya kamaNDaluM mRt.piNDaM ca (saMgRhya [K:
+gRhya] tiirthaM (gatvaa triH paadau (prakSaalayate trir aatmaanaM //
+B2.5.8.2/ atha ha^eke (bruvate / zmazaanam aapo deva.gRhaM goSThaM yatra ca
+braahmaNaa (aprakSaalya paadau tan na praveSTavyam iti //
+B2.5.8.3-1/ atha^apo^(abhiprapadyate /
+B2.5.8.3-2ab/ hiraNya.zRGgaM varuNaM (prapadye tiirthaM me (dehi yaacitaH /
+B2.5.8.3-2cd/ yan mayaa bhuktam asaadhuunaaM paapebhyaz ca pratigrahaH //
+B2.5.8.3-3ab/ yan me manasaa vaacaa karmaNaa vaa duSkRtaM kRtam /
+B2.5.8.3-3cd/ tan na [K: ma] indro varuNo bRhaspatiH savitaa ca (punantu
+punaH.punaH // iti //
+B2.5.8.4/ atha^aJjalinaa^apa (upahanti [K: athaaJjalinaa upahanti] /
+sumitraa na aapa oSadhayaH (santv iti //
+B2.5.8.5/ taaM dizaM (nirukSati yasyaam asya dizi dveSyo (bhavati /
+durmitraas tasmai bhuuyaasur yo^asmaan (dveSTi yaM ca vayaM (dviSma iti //
+B2.5.8.6/ atha^apa (upaspRzya triH pradakSiNam udakam (aavartayati / yad
+apaaM [K: yad arpaaM] kruraM [K: kruuraM] yad amedhyaM yad azaantaM tad
+(apagacchataad [H: apa gacchataad] iti //
+B2.5.8.7/ apsu (nimajjya^(unmajjya //
+B2.5.8.8/ na^apsu sataH prayamaNaM (vidyate na vaasaH.palpuulanaM
+na^upasparzanam //
+B2.5.8.9/ yady uparuddhaaH syur etena^(upatiSThate / namo^agnaye^apsumate
+nama indraaya namo varuNaaya namo vaaruNyai namo^adbhya iti //
+B2.5.8.10-1/ (uttiirya^(aacamya^aacaantaH punar (aacaamet /
+B2.5.8.10-2/ aapaH (punantu pRthiviiM [K: pRthivii] pRthivii puutaa
+(punaatu maam / (punantu brahmaNaspatir brahma puutaa (punaatu maam //
+B2.5.8.10-3/ yad ucchiSTam abhojyaM yad vaa duzcaritaM mama / sarvaM
+(punantu maam aapo^asataaM ca pratigrahaM svaahaa^iti //
+B2.5.8.11/ pavitre (kRtvaa^adbhir (maarjayati / aapo hi SThaa mayobhuva iti
+tisRbhiH / hiraNya.varNaaH zucayaH paavakaa iti catasRbhiH / pavamaanaH
+suvarjana [K: suvarcana] iti / etena^anuvaakena
+(maarjayitvaa^antar.jala.gato^aghamarSaNena triin praaNa.aayaamaan
+(dhaarayitvaa^(uttiirya vaasaH (piiDayitvaa prakSaalita.upavaataany
+akliSTaani vaasaaMsi (paridhaaya^apa (aacamya darbheSv aasiino darbhaan
+dhaarayamaaNaH praaG.mukhaH saavitriiM sahasrakRtva
+(aavartayet^zatakRtvo^aparimitakRtvo vaa daza.avaram //
+B2.5.8.12/ atha^aadityam (upatiSThate / ud vayaM tamasas pari / ud u tyam /
+citram / tac cakSur devahitam / ya udagaad iti //
+B2.5.8.13/ atha^apy (udaaharanti / praNavo vyaahRtayaH saavitrii ca^ity ete
+paJca brahma.yajJaa ahar.ahar braahmaNaM kilbiSaat (paavayanti //
+B2.5.8.14/ puutaH paJcabhir brahma.yajJair atha^uttaraM devataas (tarpayati //
+
+B2.5.9.1/ om [K omits om] agniH prajaapatiH somo rudro^aditir bRhaspatiH
+sarpaa ity etaani praag.dvaaraaNi daivataani sa.nakSatraaNi sa.grahaaNi
+sa.aho.raatraaNi sa.muhuurtaani (tarpayaami / oM vasuuMz ca (tarpayaami //
+B2.5.9.2/ oM [K omits oM] pitaro^aryamaa bhagaH savitaa tvaSTaa vaayur
+indraagnii ity etaani dakSiNa.dvaaraaNi daivataani sa.nakSatraaNi
+sa.grahaaNi sa.aho.raatraaNi sa.muhuurtaani (tarpayaami / oM rudraaMz ca
+(tarpayaami //
+B2.5.9.3/ oM [K omits oM] mitra indro mahaapitara aapo vizve devaa brahmaa
+viSNur ity etaani pratyag.dvaaraaNi daivataani sa.nakSatraaNi sa.grahaaNi
+sa.aho.raatraaNi sa.muhuurtaani (tarpayaami / om aadityaaMz ca (tarpayaami
+//
+B2.5.9.4/ oM [K omits oM] vasavo varuNo^aja ekapaad ahirbudhnyaH
+puuSaa^azvinau yama ity etaany udag.dvaaraaNi daivataani sa.nakSatraaNi
+sa.grahaaNi sa.aho.raatraaNi sa.muhuurtaani (tarpayaami / oM vizvaan
+devaaMs (tarpayaami / oM saadhyaaMz ca (tarpayaami [K: saadhyaaMs
+tarpayaami] //
+B2.5.9.5/ oM [K omits oM] brahmaaNaM (tarpayaami / oM [K omits oM]
+prajaapatiM (tarpayaami / oM [K omits oM] catur.mukhaM (tarpayaami / oM [K
+omits oM] parameSThinaM (tarpayaami / oM [K omits oM] hiraNyagarbhaM
+(tarpayaami / oM [K omits oM] svayaMbhuvaM (tarpayaami / oM [K omits oM]
+brahma.paarSadaaMs (tarpayaami / oM [K omits oM] brahma.paarSadiiz ca
+(tarpayaami / om [K omits om] agniM (tarpayaami / oM [K omits oM] vaayuM
+(tarpayaami / oM [K omits oM] varuNaM (tarpayaami / oM [K omits oM] suuryaM
+(tarpayaami / oM [K omits oM] candramasaM (tarpayaami / oM [K omits oM]
+nakSatraaNi (tarpayaami / [K: jyotiiMSi tarpayaami /] oM [K omits oM]
+sadyojaataM (tarpayaami / oM bhuuH puruSaM (tarpayaami / oM bhuvaH puruSaM
+(tarpayaami / oM suvaH puruSaM (tarpayaami / oM bhuur bhuvaH suvaH puruSaM
+(tarpayaami / oM bhuus (tarpayaami / oM bhuvas (tarpayaami / oM suvas
+(tarpayaami / oM mahas (tarpayaami / oM janas (tarpayaami / oM tapas
+(tarpayaami / oM satyaM (tarpayaami //
+B2.5.9.6-1/ oM bhavaM devaM (tarpayaami / oM zarvaM devam (tarpayaami / om
+iizaanaM devaM (tarpayaami / oM pazupatiM devaM (tarpayaami / oM rudraM
+devaM (tarpayaami / om ugraM devaM (tarpayaami / oM bhiimaM devaM
+(tarpayaami / oM mahaantaM devaM (tarpayaami /
+B2.5.9.6-2/ oM bhavasya devasya patniiM (tarpayaami / oM zarvasya devasya
+patniiM (tarpayaami / om iizaanasya devasya patniiM (tarpayaami / oM
+pazupater devasya patniiM (tarpayaami / oM rudrasya devasya patniiM
+(tarpayaami / om ugrasya devasya patniiM (tarpayaami / oM bhiimasya devasya
+patniiM (tarpayaami / oM mahato devasya patniiM (tarpayaami /
+B2.5.9.6-3/ oM bhavasya devasya sutaM (tarpayaami / oM zarvasya devasya
+sutaM (tarpayaami / om iizaanasya devasya sutaM (tarpayaami / oM pazupater
+devasya sutaM (tarpayaami / oM rudrasya devasya sutaM (tarpayaami / om
+ugrasya devasya sutaM (tarpayaami / oM bhiimasya devasya sutaM (tarpayaami
+/ oM mahato devasya sutaM (tarpayaami / oM rudraaMs (tarpayaami / oM [K
+omits oM] rudra.paarSadaaMs (tarpayaami / oM [K omits oM] rudra.paarSadiiz
+ca (tarpayaami //
+B2.5.9.7/ oM vighnaM (tarpayaami / oM vinaayakaM [K omits oM] (tarpayaami /
+oM [K omits oM] viiraM (tarpayaami / oM [K omits oM] sthuulaM [K: zuuraM]
+(tarpayaami / oM [K omits oM] varadaM (tarpayaami / oM [K omits oM]
+hastimukhaM (tarpayaami / oM [K omits oM] vakratuNDaM (tarpayaami / om [K
+omits om] ekadantaM (tarpayaami / oM [K omits oM] lambodaraM (tarpayaami /
+[K: gaNapatiM tarpayaami /] oM [K omits oM] vighna.paarSadaaMs (tarpayaami
+/ oM [K omits oM] vighna.paarSadiiz ca (tarpayaami //
+B2.5.9.8/ oM sanatkumaaraM (tarpayaami / oM [K omits oM] skandaM
+(tarpayaami / om [K omits om] indraM (tarpayaami / oM [K omits oM] SaSThiiM
+(tarpayaami / oM [K omits oM] SaNmukhaM (tarpayaami / oM [K omits oM]
+jayantaM [K: vizaakhaM] (tarpayaami / oM [K omits oM] vizaakhaM [K:
+jayantaM] (tarpayaami / oM [K omits oM] mahaasenaM (tarpayaami / oM
+subrahmaNyaM (tarpayaami [K omits: oM subrahmaNyaM tarpayaami] / oM [K
+omits oM] skanda.paarSadaaMs (tarpayaami / oM [K omits oM]
+skanda.paarSadiiz ca (tarpayaami //
+B2.5.9.9/ om aadityaM (tarpayaami / oM [K omits oM] somaM (tarpayaami / om
+[K omits om] aGgaarakaM (tarpayaami / oM [K omits oM] budhaM (tarpayaami /
+oM [K omits oM] bRhaspatiM (tarpayaami / oM [K omits oM] zukraM (tarpayaami
+/ oM [K omits oM] zanaizcaraM (tarpayaami / oM [K omits oM] raahuM
+(tarpayaami / oM [K omits oM] ketuM (tarpayaami //
+B2.5.9.10/ oM kezavaM (tarpayaami / oM [K omits oM] naaraayaNaM (tarpayaami
+/ oM [K omits oM] maadhavaM (tarpayaami / oM [K omits oM] govindaM
+(tarpayaami / oM [K omits oM] viSNuM (tarpayaami / oM [K omits oM]
+madhusuudanaM (tarpayaami / oM [K omits oM] trivikramaM (tarpayaami / oM [K
+omits oM] vaamanaM (tarpayaami / oM [K omits oM] zriidharaM (tarpayaami /
+oM [K omits oM] hRSiikezaM (tarpayaami / oM [K omits oM] padmanaabhaM
+(tarpayaami / oM [K omits oM] daamodaraM (tarpayaami / oM [K omits oM]
+zriyaM deviiM (tarpayaami / oM [K omits oM] sarasvatiiM deviiM (tarpayaami
+/ oM [K omits oM] puSTiM [K: puSTiM deviiM] (tarpayaami / oM [K omits oM]
+tuSTiM [K: tuSTiM deviiM] (tarpayaami / oM [K omits oM] garutmantaM [K:
+vainateyaM] (tarpayaami / oM [K omits oM] viSNu.paarSadaaMs (tarpayaami /
+oM [K omits oM] viSNu.paarSadiiz ca (tarpayaami //
+B2.5.9.11/ oM yamaM (tarpayaami / oM [K omits oM] yamaraajaM (tarpayaami /
+oM [K omits oM] dharmaM (tarpayaami / oM [K omits oM] dharmaraajaM
+(tarpayaami / oM [K omits oM] kaalaM (tarpayaami / oM [K omits oM] niilaM
+(tarpayaami / oM [K omits oM] mRtyuM (tarpayaami / oM [K omits oM]
+vaivasvataM [K: antakaM] (tarpayaami / oM [K omits oM] citraM (tarpayaami /
+oM [K omits oM] citraguptaM (tarpayaami / om [K omits om] audumbaraM
+(tarpayaami / [K: vaivasvataM tarpayaami /] oM [K omits oM]
+vaivasvata.paarSadaaMs (tarpayaami / oM [K omits oM] vaivasvata.paarSadiiz
+ca (tarpayaami //
+B2.5.9.12/ oM [K omits oM] bhuumi.devaaMs [K: bharadvaajaM] (tarpayaami /
+oM [K omits oM] kaazyapam [k: gautamaM] (tarpayaami / om [K omits om]
+antarikSaM [K: atriM] (tarpayaami / [K: aaGgirasaM tarpayaami /] oM [K
+omits oM] vidyaaM (tarpayaami / [K: durgaaM tarpayaami / jyeSThaaM
+tarpayaami /] oM [K omits oM] dhanvantariM (tarpayaami / oM [K omits oM]
+dhanvantari.paarSadaaMs (tarpayaami / oM [K omits oM]
+dhanvantari.paarSadiiz ca (tarpayaami^iti [K: tarpayaami] //
+B2.5.9.13/ atha niviitii //
+B2.5.9.14-1/ om RSiiMs (tarpayaami / oM [K omits oM] maharSiiMs [K:
+paramarSiiMs] (tarpayaami  / oM [K omits oM] paramarSiiMs [K: maharSiiMs]
+(tarpayaami / oM [K omits oM] brahmarSiiMs (tarpayaami / oM [K omits oM]
+devarSiiMs (tarpayaami / oM [K omits oM] raajarSiiMs (tarpayaami / oM [K
+omits oM] zrutarSiiMs (tarpayaami / oM [K omits oM] janarRSiiMs (tarpayaami
+/ oM [K omits oM] taparRSiiMs [K: taparSiiMs] (tarpayaami / oM [K omits oM]
+satyarSiiMs (tarpayaami / oM [K omits oM] saptarSiiMs (tarpayaami / oM [K
+omits oM] kaaNDarSiiMs (tarpayaami / oM [K omits oM] RSikaaMs (tarpayaami /
+om [K omits om] RSi.patniis (tarpayaami / om [K omits om] RSi.putraaMs
+(tarpayaami / om [K omits om] RSi.pautraaMs (tarpayaami /
+B2.5.9.14-2/ oM [K omits oM] kaaNvaM baudhaayanaM (tarpayaami / om [K omits
+om] aapastambaM suutrakaaraM (tarpayaami / oM [K omits oM] satyaaSaaDhaM
+hiraNyakezinaM (tarpayaami / oM [K omits oM] vaajasaneyinaM yaajJavalkyam
+(tarpayaami / om [K omits om] aazvalaayanaM zaunakaM (tarpayaami / oM [K
+omits oM] vyaasaM (tarpayaami / oM [K omits oM] vasiSThaM (tarpayaami /
+B2.5.9.14-3/ oM [K omits oM] praNavaM (tarpayaami / oM [K omits oM]
+vyaahRtiis (tarpayaami / oM [K omits oM] saavitriiM (tarpayaami / oM [K
+omits oM] gaayatriiM (tarpayaami / oM [K omits oM] chandaaMsi (tarpayaami /
+om [K omits om] RgvedaM (tarpayaami / oM [K omits oM] yajurvedaM
+(tarpayaami / oM [K omits oM] (saamavedaM tarpayaami / om [K omits om]
+atharvavedaM (tarpayaami / om [K omits om] atharvaaGgirasas [K:
+atharvaaGgirasaM] (tarpayaami / om [K omits om] itihaasa.puraaNaani
+(tarpayaami / oM [K omits oM] sarva.vedaaMs (tarpayaami / oM [K omits oM]
+sarva.deva.janaaMs (tarpayaami / oM [K omits oM] sarva.bhuutaani
+(tarpayaami^iti [K: tarpayaami] //
+
+B2.5.10.1/ atha praaciinaaviiti / oM pitqn svadhaa namas (tarpayaami / oM
+[K omits oM] pitaamahaan svadhaa namas (tarpayaami / oM [K omits oM]
+prapitaamahaan svadhaa namas (tarpayaami / oM [K omits oM] maatqH svadhaa
+namas (tarpayaami / oM [K omits oM] pitaamahiiH svadhaa namas (tarpayaami /
+oM [K omits oM] prapitaamahiiH svadhaa namas (tarpayaami / oM [K omits oM]
+maataamahaan svadhaa namas (tarpayaami / oM [K omits oM] maatuH pitaamahaan
+svadhaa namas (tarpayaami / oM [K omits oM] maatuH prapitaamahaan svadhaa
+namas (tarpayaami / oM [K omits oM] maataamahiiH svadhaa namas (tarpayaami
+/ oM [K omits oM] maatuH pitaamahiiH svadhaa namas (tarpayaami / oM [K
+omits oM] maatuH prapitaamahiiH svadhaa namas (tarpayaami //
+B2.5.10.2/ om aacaaryaan svadhaa namas (tarpayaami / om [K omits om]
+aacaarya.patniiH svadhaa namas (tarpayaami / oM [K omits oM] guruun svadhaa
+namas (tarpayaami / oM [K omits oM] guru.patniiH svadhaa namas (tarpayaami
+/ oM [K omits oM] sakhiin svadhaa namas (tarpayaami / oM [K omits oM]
+sakhi.patniiH svadhaa namas (tarpayaami / oM [K omits oM] jJaatiin svadhaa
+namas (tarpayaami / oM [K omits oM] jJaati.patniiH svadhaa namas
+(tarpayaami / om [K omits om] amaatyaan svadhaa namas (tarpayaami / om [K
+omits om] amaatya.patniiH svadhaa namas (tarpayaami / oM [K omits oM]
+sarvaan svadhaa namas (tarpayaami / oM [K omits oM] sarvaaH svadhaa namas
+(tarpayaami^iti //
+B2.5.10.3/ anutiirtham apa (utsiJcati //
+B2.5.10.4/ uurjaM vahantiir amRtaM ghRtaM payaH kiilaalaM parisrutam /
+svadhaa stha (tarpayata me pitqn / (tRpyata (tRpyata (tRpyata^iti //
+B2.5.10.5/ na^eka.vastro na^aardra.vaasaa daivaani [K: devaani] karmaaNy
+(anusaMcaret //
+B2.5.10.6/ pitR.saMyuktaani ca^ity ekeSaam / pitR.saMyuktaani ca^ity ekeSaam //
+
+B2.6.11.1/ atha^ime paJca mahaa.yajJaaH / taany eva mahaa.sattraaNi /
+deva.yajJaH pitR.yajJo bhuuta.yajJo manuSya.yajJo brahma.yajJa iti //
+B2.6.11.2/ ahar.ahaH svaahaa.(kuryaad aa kaaSThaat / tathaa^etaM
+deva.yajJaM (samaapnoti //
+B2.6.11.3/ ahar.ahaH svadhaa.(kuryaad aa^uda.paatraat / tathaa^etaM
+pitR.yajJaM (samaapnoti //
+B2.6.11.4/ ahar.ahar namas.(kuryaad aa puSpebhyaH / tathaa^etam
+bhuuta.yajJaM (samaapnoti //
+B2.6.11.5/ ahar.ahar braahmaNebhyo^annaM (dadyaad aa muula.phala.zaakebhyaH
+/ tathaa^etaM manuSya.yajJaM (samaapnoti //
+B2.6.11.6/ ahar.ahaH svaadhyaayaM (kuryaad aa praNavaat / tathaa^etaM
+brahma.yajJaM (samaapnoti //
+B2.6.11.7/ svaadhyaayo vai brahma.yajJaH / tasya ha vaa etasya
+brahma.yajJasya vaag eva juhuur mana upabhRc cakSur dhruvaa medhaa sruvaH
+satyam avabhRthaH svargo loka udayanam / yaavantaM ha vaa imaaM vittasya
+puurNaaM (dadat svargaM lokaM (jayati taavantaM lokaM (jayati [K omits:
+taavantaM lokaM jayati] bhuuyaaMsaM ca^akSayyaM ca^apa punarmRtyuM (jayati
+ya evaM vidvaan svaadhyaayam (adhiite / tasmaat svaadhyaayo^adhyetavya iti
+hi braahmaNam //
+B2.6.11.8/ atha^apy (udaaharanti / sv.abhyaktaH su.hitaH sukhe zayane
+zayaano yaM yaM kratum (adhiite tena tena^asya^iSTaM (bhavati^iti //
+B2.6.11.9/ tasya ha vaa etasya dharmasya caturdhaa bhedam eka (aahuH /
+adRSTatvaat / ye catvaara iti / karma.vaadaH //
+B2.6.11.10/ aiSTika.paazuka.saumika.daarvihomaaNaam [K .daarviihomaaNaam] //
+B2.6.11.11-1/ tad eSaa^(abhivadati /
+B2.6.11.11-2ab/ ye catvaaraH pathayo deva.yaanaa antaraa dyaavaa.pRthivii (viyanti /
+B2.6.11.11-2cd/ teSaaM yo ajyaanim ajiitim (aavahaat tasmai no devaaH pari
+(datta^iha sarve // iti //
+B2.6.11.12/ brahmacaarii gRhastho vaanaprasthaH parivraajaka iti //
+B2.6.11.13/ brahmacaarii guru.zuzruuSii^aa maraNaat //
+B2.6.11.14/ vaanaprastho vaikhaanasa.zaastra.samudaacaaraH //
+B2.6.11.15/ vaikhaanaso vane muula.phala.aazii tapaH.ziilaH savaneSu^udakam
+upaspRzan^zraamaNakena^agnim aadhaaya^agraamya.bhojii
+deva.pitR.bhuuta.manuSya.RSi.puujakaH sarva.atithiH pratiSiddha.varjaM
+baiSkam apy (upayuJjiita / na phaala.kRSTam (adhitiSThed graamaM ca na
+(pravizet / jaTilaz ciira.ajina.vaasaa na^atisaaMvatsaraM (bhuJjiita //
+B2.6.11.16/ parivraajakaH (parityajya bandhuun aparigrahaH (pravrajed [K:
+parivrajed] yathaa.vidhi //
+B2.6.11.17/ araNyaM (gatvaa //
+B2.6.11.18/ zikhaa.muNDaH //
+B2.6.11.19/ kaupiina.aacchaadanaH [K: kaupiinaacchaadanaaH] //
+B2.6.11.20/ varSaasv ekasthaH //
+B2.6.11.21/ kaaSaaya.vaasaaH //
+B2.6.11.22/ sanna.musale vyaGgaare nivRtta.zaraava.saMpaate (bhikSeta //
+B2.6.11.23/ vaaG.manaH.karma.daNDair bhuutaanaam adrohii //
+B2.6.11.24/ pavitraM (bibhrat[K: bibhRyaat]^zauca.artham //
+B2.6.11.25/ uddhRta.paripuutaabhir adbhir ap.kaaryaM kurvaaNaH [K: adbhiH
+kaaryaM kuryaat] //
+B2.6.11.26/ (apavidhya vaidikaani karmaaNy ubhayataH paricchinnaa madhyamaM
+padaM (saMzliSyaamaha iti vadantaH //
+B2.6.11.27/ aikaazramyaM tv aacaaryaa aprajanatvaad [K: aprajananatvaad]
+itareSaam //
+B2.6.11.28/ tatra^(udaaharanti / praahlaadir ha vai kapilo naama^asura
+(aasa / sa etaan bhedaaMz (cakaara devaiH [K: devais saha] spardhamaanaH /
+taan maniiSii na^(aadriyeta //
+B2.6.11.29/ adRSTatvaat / ye catvaara iti / karma.vaada
+aiSTika.paazuka.saumika.daarvihomaaNaam [K .daarviihomaaNaam] //
+B2.6.11.30-1/ tad eSaa^(abhyanuucyate /
+B2.6.11.30-2ab/ eSa nityo mahimaa braahmaNasya na karmaNaa (vardhate na^u
+kaniiyaan /
+B2.6.11.30-2cd/ tasya^eva^aatmaa padavit taM (viditvaa na karmaNaa (lipyate
+paapakena // iti // (cf. B2.10.17.7)
+B2.6.11.31-1/ sa (bruuyaat /
+B2.6.11.31-2ab/ yena suuryas (tapati tejasaa^iddhaH pitaa putreNa pitRmaan
+yoni.yonau /
+B2.6.11.31-2cd/ na^avedavin (manute taM bRhantaM sarva.anubhuum [K:
+sarvaanubhum] aatmaanaM saMparaaye [K: saamparaaye] // iti //
+B2.6.11.32ab/ ime ye na^arvaaG na paraz (caranti na braahmaNaaso na
+sutekaraasaH /
+B2.6.11.32cd/ ta ete vaacam (abhipadya paapayaa siriis tantraM (tanvate
+aprajajJaye // iti //
+B2.6.11.33/ prajaabhir agne amRtatvam (azyaam / jaayamaano vai braahmaNas
+tribhir RNavaa jaayate brahmacaryeNa^RSibhyo yajJena devebhyaH prajayaa
+pitRbhya iti / evam RNa.saMyoga.vaadinyo^asaMkhyeyaa [K: RNasaMyogaadiiny
+asaMkhyeyaani] (bhavanti // (cf. B2.9.16.7)
+B2.6.11.34-1ab/ trayiiM vidyaaM brahmacaryaM prajaatiM zraddhaaM tapo
+yajJam anupradaanam /
+B2.6.11.34-1cd/ ya etaani (kurvate tair it saha (smo rajo (bhuutvaa
+(dhvaMsate^anyat prazaMsan // iti /
+B2.6.11.34-2/ (dhvaMsate^anyat [K omits: dhvaMsate 'nyat] prazaMsann iti //
+
+B2.7.12.1/ atha zaaliina.yaayaavaraaNaam aatma.yaajinaaM praaNa.aahutiir
+(vyaakhyaasyaamaH //
+B2.7.12.2/ sarva.avazyaka.avasaane saMmRSTa.upalipte deze praaG.mukha
+(upavizya tad bhuutam aahriyamaaNam / bhuur bhuvaH suvar om iti /
+(upasthaaya vaacaM (yacchet //
+B2.7.12.3/ nyastam annaM mahaa.vyaahRtibhiH pradakSiNam udakaM (pariSicya
+savyena paaNinaa^avimuJcan / amRta.upastaraNam (asi^iti / purastaad apaH
+(piitvaa paJca.annena praaNa.aahutiir (juhoti / praaNe niviSTo^amRtaM
+(juhomi / zivo maa (viza^apradaahaaya / praaNaaya svaahaa / apaane
+niviSTo^amRtaM (juhomi / zivo maa (viza^apradaahaaya / apaanaaya svaahaa /
+vyaane niviSTo^amRtaM (juhomi / zivo maa (viza^apradaahaaya / vyaanaaya
+svaahaa / udaane niviSTo^amRtaM (juhomi / zivo maa (viza^apradaahaaya /
+udaanaaya svaahaa / samaane niviSTo^amRtaM (juhomi / zivo maa
+(viza^apradaahaaya / samaanaaya svaahaa^iti // [K omits: apaane niviSTo ...
+samaanaaya svaahaa]
+B2.7.12.4/ paJca.annena praaNa.aahutiir (hutvaa tuuSNiiM bhuuyo (vratayet
+prajaapatiM manasaa dhyaayan / na^antaraa vaacaM (visRjet //
+B2.7.12.5/ yady [K: yad] antaraa vaacaM (visRjet / bhuur bhuvaH suvar om
+iti / (japitvaa punar eva (bhuJjiita//
+B2.7.12.6/ tvak.keza.nakha.kiiTa.aakhu.puriiSaaNi (dRSTvaa taM dezaM piNDam
+(uddhRtya^adbhir (abhyukSya bhasma^(avakiirya punar adbhiH (prokSya vaacaa
+ca prazastam (upayuJjiita //
+B2.7.12.7-1/ atha^apy (udaaharanti /
+B2.7.12.7-2ab/ aasiinaH praaG.mukho^(azniiyaad vaag.yato^annam akutsayan /
+B2.7.12.7-2cd/ askandayaMs tan.manaaz ca (bhuktvaa ca^agnim (upaspRzed // iti //
+B2.7.12.8/ sarva.bhakSya.apuupa.kanda.muula.phala.maaMsaani [K
+.maaMsaadiini] dantair na^avadyet //
+B2.7.12.9/ na^ati.suhitaH //
+B2.7.12.10/ amRta.apidhaanam (asi^iti / upariSTaad apaH (piitvaa^aacaanto
+hRdaya.dezam (abhimRzati / praaNaanaaM granthir (asi rudro maa
+(viza^antakaH / tena^annena^(aapyaayasva^iti //
+B2.7.12.11-1/ punar (aacamya dakSiNe paada.aGguSThe paaNii (nisraavayati /
+B2.7.12.11-2ab/ aGguSTha.maatraH puruSo^aGguSThaM ca samaazritaH /
+B2.7.12.11-3cd/ iizaH sarvasya jagataH prabhuH (priiNaati vizva.bhuk // iti //
+B2.7.12.12/ huta.anumantraNam uurdhva.hastaH (samaacaret / zraddhaayaaM
+praaNe nivizya^amRtaM hutam / praaNam annena^(aapyaayasva / zraddhaayaam
+apaane nivizya^amRtaM hutam / praaNam annena^(aapyaayasva / zraddhaayaaM
+vyaane nivizya^amRtaM hutam / praaNam annena^(aapyaayasva / zraddhaayaam
+udaane nivizya^amRtaM hutam / praaNam annena^(aapyaayasva / zraddhaayaaM
+samaane nivizya^amRtaM hutam / praaNam annena^(aapyaayasva^iti / paJcabhiH
+// [K omits: zraddhaayaam apaane ... zraddhaayaaM samaane ...
+annenaapyaayasva]
+B2.7.12.13/ brahmaNi ma aatmaa^amRtatvaaya^iti [K: aatmaamRtatvaayety
+aatmaanam] //
+B2.7.12.14/ akSareNa ca^aatmaanaM (yojayet //
+B2.7.12.15/ sarva.kratu.yaajinaam aatma.yaajii (viziSyate //
+B2.7.12.16/ atha^apy (udaaharanti //
+
+B2.7.13.1ab/ yathaa hi tuulam aiSiikam agnau protaM (pradiipyate /
+B2.7.13.1cd/ tadvat sarvaaNi paapaani (dahyante hy aatma.yaajinaH //
+B2.7.13.2/ kevala.agho (bhavati kevala.aadii / mogham annaM (vindate
+apracetaa [K omits apracetaa] iti //
+B2.7.13.3/ sa evam eva^ahar.ahaH saayaM praatar (juhuyaat //
+B2.7.13.4/ adbhir vaa saayam //
+B2.7.13.5-1/ atha^apy (udaaharanti /
+B2.7.13.5-2ab/ agre (bhojayed atithiin antarvatniir anantaram /
+B2.7.13.5-2cd/ baala.vRddhaaMs tathaa diinaan vyaadhitaaMz ca vizeSataH //
+B2.7.13.5-3ab/ (adattvaa tu ya etebhyaH puurvaM (bhuGkte yathaa.vidhi /
+B2.7.13.5-3cd/ bhujyamaano na (jaanaati na sa (bhuGkte sa (bhujyate //
+B2.7.13.6ab/ pitR.daivata.bhRtyaanaaM maataa.pitror guros tathaa /
+B2.7.13.6cd/ vaag.yato vighasam (azniiyaad evaM dharmo vidhiiyate // iti //
+B2.7.13.7-1/ atha^apy (udaaharanti /
+B2.7.13.7-2ab/ aSTau graasaa muner bhakSyaaH SoDaza^araNya.vaasinaH /
+B2.7.13.7-2cd/ dvaatriMzat tu [K: dvaatriMzataM] gRhasthasya amitaM [K:
+gRhasthasyaaparimitaM] brahmacaariNaH //
+B2.7.13.8ab/ aahita.agnir anaDvaaMz ca brahmacaarii ca te trayaH /
+B2.7.13.8cd/ aznanta eva sidhyanti na^eSaaM siddhir anaznataam // iti //
+B2.7.13.9ab/ gRhastho brahmacaarii vaa yo^anaznaMs tu tapaz (caret /
+B2.7.13.9cd/ praaNa.agnihotra.lopena avakiirNii (bhavet tu saH //
+B2.7.13.10/ anyatra praayazcittaat / praayazcitte tad eva vidhaanam //
+B2.7.13.11-1/ atha^apy (udaaharanti /
+B2.7.13.11-2ab/ antaraa praatar.aazaM ca saayam.aazaM tathaa^eva ca /
+B2.7.13.11-2cd/ sadaa.upavaasii (bhavati yo na (bhuGkte kadaacana [K:
+kadaacaneti] //
+B2.7.13.12ab/ praaNa.agnihotra.mantraaMs tu niruddhe bhojane (japet /
+B2.7.13.12cd/ tretaa.agnihotra.mantraaMs tu dravya.alaabhe yathaa (japet //
+iti //
+B2.7.13.13/ evam aacaran [K: evam evaacaran] brahma.bhuuyaaya (kalpate /
+brahma.bhuuyaaya (kalpata iti //
+
+B2.8.14.1/ pitryam aayuSyaM svargyaM yazasyaM puSTi.karma ca //
+B2.8.14.2/ trimadhus triNaaciketas trisuparNaH paJca.agniH
+SaDaGga.vit^ziirSako jyeSThasaamakaH snaataka iti paGkti.paavanaaH //
+B2.8.14.3/ tad.abhaave rahasya.vit //
+B2.8.14.4/ Rco yajuuMSi saamaani^iti zraaddhasya mahimaa / tasmaad
+evaM.vidaM sapiNDam apy (aazayet //
+B2.8.14.5ab/ raakSoghnaani ca saamaani svadhaavanti yajuuMSi ca /
+B2.8.14.5cd/ madhv.Rco^atha pavitraaNi (zraavayed aazayan^zanaiH //
+B2.8.14.6/ caraNa.vato^anuucaanaan yoni.gotra.mantra.asaMbaddhaan[K
+.asambandhaan]^zuciin mantravatas try.avaraan ayujaH puurvedyuH praatar eva
+vaa (nimantrya sa.darbha.upakLpteSv aasaneSu praaG.mukhaan (upavezayaty
+udaG.mukhaan vaa //
+B2.8.14.7/ atha^enaaMs tila.mizraa apaH (pratigraahya gandhair maalyaiz
+ca^(alaMkRtya / agnau (kariSyaami^iti / anujJaato^gnim (upasamaadhaaya
+(saMparistiirya^aa^agnimukhaat (kRtvaa^annasya^eva [K: kRtvaajyasyaiva]
+tisra aahutiir (juhoti / somaaya pitR.piitaaya svadhaa namaH svaahaa /
+yamaaya^aGgirasvate pitRmate svadhaa namaH svaahaa / agnaye
+kavya.vaahanaaya sviSTakRte svadhaa namaH svaahaa^iti //
+B2.8.14.8/ tat.zeSeNa^annam (abhighaarya^annasya^etaa eva tisro [K: tisra
+aahutiir] (juhuyaat //
+B2.8.14.9/ vayasaaM piNDaM (dadyaat //
+B2.8.14.10/ vayasaaM hi pitaraH pratimayaa (caranti^iti (vijJaayate //
+B2.8.14.11/ atha^itarat sa.aGguSThena paaNinaa^(abhimRzati //
+B2.8.14.12-1/ pRthivii.samantasya [K: pRthiviisamaM tasya] te^agnir
+(upadraSTaa^Rcas te mahimaa dattasya^apramaadaaya pRthivii te paatraM dyaur
+apidhaanaM brahmaNas tvaa mukhe (juhomi braahmaNaanaaM tvaa vidyaavataaM
+praaNa.apaanayor (juhomy akSitam (asi maa pitqNaaM (kSeSThaa amutra^amuSmiM
+loka iti /
+B2.8.14.12-2/ antarikSa.samantasya [K: antarikSassamaM tasya] te vaayur
+(upazrotaa yajuuMSi te mahimaa dattasya^apramaadaaya pRthivii te paatraM
+dyaur apidhaanaM brahmaNas tvaa mukhe (juhomi braahmaNaanaaM tvaa
+vidyaavataaM praaNa.apaanayor (juhomy akSitam (asi maa pitaamahaanaaM
+(kSeSThaa amutra^amuSmiM loka iti /
+B2.8.14.12-3/ dyu.samantasya [K: dyausamaM tasya] ta aadityo^anukhyaataa
+saamaani te mahimaa dattasya apramaadaaya pRthivii te paatraM dyaur
+apidhaanaM brahmaNas tvaa mukhe (juhomi braahmaNaanaaM tvaa vidyaavataaM
+praaNa.apaanayor (juhomy akSitam (asi maa prapitaamahaanaaM (kSeSThaa
+amutra^amuSmiM loka iti //
+
+B2.8.15.1/ atha vai (bhavati //
+B2.8.15.2ab/ agnau karaNa.zeSeNa tad annam (abhighaarayet /
+B2.8.15.2cd/ nir.aGguSThaM tu yad dattaM na tat (priiNaati vai pitqn //
+B2.8.15.3ab/ ubhayoH zaakhayor muktaM pitRbhyo^annaM niveditam /
+B2.8.15.3cd/ tad antaram (upaasante asuraa [K: upaasante 'suraa vai]
+duSTa.cetasaH //
+B2.8.15.4ab/ yaatudhaanaaH pizaacaaz ca (pratilumpanti tat^haviH /
+B2.8.15.4cd/ tila.daane hy adaayaaz ca tathaa krodha.vaze^asuraaH //
+B2.8.15.5ab/ kaaSaaya.vaasaa yaan (kurute japa.homa.pratigrahaan /
+B2.8.15.5cd/ na tad devaM.gamaM [K: devagamaM] bhavati havya.kavyeSu
+yat^haviH //
+B2.8.15.6ab/ yac ca dattam anaGguSThaM yac ca^eva (pratigRhyate /
+B2.8.15.6cd/ aacaamati ca yas tiSThan na sa tena (samRdhyate // iti //
+B2.8.15.7/ aady.antayor apaaM pradaanaM sarvatra //
+B2.8.15.8/ jaya.prabhRti yathaa.vidhaanam //
+B2.8.15.9/ zeSam uktam aSTakaa.home //
+B2.8.15.10ab/ dvau daive [K: deve] pitR.kaarye triin ekaikam ubhayatra vaa /
+B2.8.15.10cd/ (bhojayet susamRddho^api na (prasajyeta [K: prasajjeta] vistare //
+B2.8.15.11ab/ satkriyaaM deza.kaalau ca zaucaM braahmaNa.saMpadam /
+B2.8.15.11cd/ paJca^etaan vistaro (hanti tasmaat taM (parivarjayet //
+B2.8.15.12ab/ urastaH pitaras tasya vaamataz ca pitaamahaaH /
+B2.8.15.12cd/ dakSiNataH prapitaamahaaH pRSThataH piNDa.tarkakaaH // iti //
+
+B2.9.16.1/ prajaa.kaamasya^upadezaH //
+B2.9.16.2/ prajanana.nimittaa samaakhyaa^ity azvinaav (uucatuH //
+B2.9.16.3ab/ aayuSaa tapasaa yuktaH svaadhyaaya.ijyaa.paraayaNaH /
+B2.9.16.3cd/ prajaam (utpaadayed yuktaH sve.sve varNe [K: vaMze]
+jita.indriyaH //
+B2.9.16.4ab/ braahmaNasya^RNa.saMyogas tribhir (bhavati janmataH /
+B2.9.16.4cd/ taani mucya^aatmavaan (bhavati vimukto dharma.saMzayaat //
+B2.9.16.5ab/ svaadhyaayena RSiin (puujya somena ca puraMdaram /
+B2.9.16.5cd/ prajayaa ca pitqn puurvaan anRNo divi (modate //
+B2.9.16.6ab/ putreNa lokaaJ (jayati pautreNa^anantyam [K: pautreNaamRtam]
+(aznute /
+B2.9.16.6cd/ atha putrasya pautreNa naakam eva^(adhirohati // iti //
+B2.9.16.7/ (vijJaayate ca / jaayamaano vai braahmaNas tribhir RNavaa
+(jaayate brahmacaryeNa^RSibhyo yajJena devebhyaH prajayaa pitRbhya iti /
+evam RNa.saMyogaM vedo (darzayati // (cf. B2.6.11.33)
+B2.9.16.8/ sat.putram (utpaadya^aatmaanaM (taarayati //
+B2.9.16.9/ sapta^avaraan sapta puurvaan SaD anyaan aatma.saptamaan /
+ sat.putram adhigacchaanas (taarayaty enaso bhayaat //
+B2.9.16.10/ tasmaat prajaa.saMtaanam (utpaadya phalam (avaapnoti [K: phalaM praapnoti] //
+B2.9.16.11/ tasmaad yatnavaan prajaam (utpaadayet //
+B2.9.16.12/ auSadha.mantra.saMyogena //
+B2.9.16.13/ tasya^upadezaH zruti.saamaanyena^(upadizyate //
+B2.9.16.14/ sarva.varNebhyaH phalavattvaad [K: phalattvaad] iti /
+phalavattvaad [K: phalattvaad] iti //
+
+B2.10.17.1/ atha^ataH saMnyaasa.vidhiM (vyaakhyaasyaamaH //
+B2.10.17.2/ so^ata eva brahmacaryavaan (pravrajati^ity ekeSaam //
+B2.10.17.3/ atha zaaliina.yaayaavaraaNaam anapatyaanaam //
+B2.10.17.4/ vidhuro vaa prajaaH svadharme (pratiSThaapya vaa //
+B2.10.17.5/ saptatyaa uurdhvaM saMnyaasam (upadizanti //
+B2.10.17.6/ vaanaprasthasya vaa karma.viraame //
+B2.10.17.7ab/ eSa nityo mahimaa braahmaNasya na karmaNaa (vardhate no
+kaniiyaan /
+B2.10.17.7cd/ tasya^eva^aatmaa padavit taM (viditvaa na karmaNaa (lipyate
+paapakena // iti // (cf. B2.6.11.30)
+B2.10.17.8/ apunarbhavaM (nayati^iti nityaH //
+B2.10.17.9/ mahad enaM (gamayati^iti mahimaa //
+B2.10.17.10/ keza.zmazru.loma.nakhaani (vaapayitvaa^(upakalpayate //
+B2.10.17.11/ yaSTayaH zikyaM jala.pavitraM kamaNDaluM paatram iti //
+B2.10.17.12/ etat (samaadaaya graama.ante graama.siimaante^agny.agaare
+vaa^aajyaM payo dadhi^iti trivRt (praazya^upavaset //
+B2.10.17.13/ apo vaa //
+B2.10.17.14/ oM bhuuH saavitriiM (pravizaami tat savitur vareNyam / oM
+bhuvaH saavitriiM (pravizaami bhargo devasya dhiimahi / oM suvaH saavitriiM
+(pravizaami dhiyo yo naH (pracodayaad iti / paccho(pad.zas)^ardharcazas
+tataH samastayaa ca vyastayaa ca //
+B2.10.17.15/ aatmaanam aatmana [K omits: aatmaanam aatmana] aazramaad
+aazramam (upaniiya brahma.puuto (bhavati^iti (vijJaayate //
+B2.10.17.16-1/ atha^apy (udaaharanti /
+B2.10.17.16-2ab/ aazramaad aazramaM (gatvaa huta.homo jita.indriyaH /
+B2.10.17.16-2cd/ bhikSaa.bali.parizraantaH pazcaad (bhavati bhikSukaH // iti //
+B2.10.17.17/ sa eSa bhikSur aanantyaaya //
+B2.10.17.18/ puraa^aadityasya^astamayaad gaarhapatyam
+(upasamaadhaaya^anvaahaaryapacanam (aahRtya jvalantam aahavaniiyam
+(uddhRtya gaarhapatya aajyaM (vilaapya^(utpuuya sruci catur.gRhiitaM
+(gRhiitvaa samidvaty aahavaniiye puurNa.aahutiM (juhoti / oM svaahaa^iti //
+B2.10.17.19/ etad brahma.anvaadhaanam iti (vijJaayate //
+B2.10.17.20/ atha saayaM hute^agnihotra uttareNa gaarhapatyaM tRNaani
+(saMstiirya teSu dvaMdvaM nyaJci paatraaNi (saadayitvaa
+dakSiNena^aahavaniiyaM brahma.aayatane darbhaan (saMstiirya teSu
+kRSNa.ajinaM ca^(antardhaaya^etaaM raatriM (jaagarti //
+B2.10.17.21/ ya evaM vidvaan brahma.raatrim (upoSya braahmaNo^agniin [K:
+upoSyaagniin] (samaaropya (pramiiyate sarvaM paapmaanaM (tarati (tarati
+brahma.hatyaam //
+B2.10.17.22/ atha braahme muhuurta (utthaaya kaala eva praatar.agnihotraM
+(juhoti //
+B2.10.17.23/ atha pRSThyaaM (stiirtvaa^apaH (praNiiya vaizvaanaraM
+dvaadaza.kapaalaM (nirvapati / saa prasiddha.iSTiH (saMtiSThate //
+B2.10.17.24/ aahavaniiye^agnihotra.paatraaNi (prakSipaty amRnmayaany
+anazmamayaani [K: prakSiped amRNmayaany anaayasaani] //
+B2.10.17.25/ gaarhapatye^araNii / (bhavataM naH samanasaav iti //
+B2.10.17.26/ aatmany [K: athaatmany] agniin (samaaropayate / yaa te agne
+yajJiyaa tanuur iti tris trir ekaikaM (samaajighrati //
+B2.10.17.27/ atha^antarvedi tiSThan / oM bhuur bhuvaH suvaH saMnyastaM
+mayaa saMnyastaM mayaa saMnyastaM mayaa^iti / trir upaaMzu^(uktvaa trir
+uccaiH //
+B2.10.17.28/ triSatyaa hi devaa iti (vijJaayate //
+B2.10.17.29/ abhayaM sarva.bhuutebhyo matta iti ca^apaaM puurNam aJjaliM
+(ninayati //
+B2.10.17.30-1/ atha^apy (udaaharanti /
+B2.10.17.30-2ab/ abhayaM sarva.bhuutebhyo (dattvaa yaz (carate muniH /
+B2.10.17.30-2cd/ na tasya sarva.bhuutebhyo bhayaM ca^api^iha [K: caapi ha]
+(jaayate // iti //
+B2.10.17.31/ sa vaacaMyamo (bhavati //
+B2.10.17.32/ sakhaa maa [K: me] (gopaaya^iti daNDam (aadatte //
+B2.10.17.33/ yad asya paare rajasa iti zikyaM (gRhNaati //
+B2.10.17.34/ yena devaaH pavitreNa^iti jala.pavitraM (gRhNaati //
+B2.10.17.35/ yena devaa jyotiSaa^uurdhvaa (udaayann iti kamaNDaluM (gRhNaati //
+B2.10.17.36/ sapta.vyaahRtibhiH paatraM (gRhNaati //
+B2.10.17.37/ yaSTayaH zikyaM jala.pavitraM kamaNDaluM paatram ity etat
+(samaadaaya yatra^aapas tatra [K: tad] (gatvaa (snaatva^apa (aacamya
+surabhimatyaa^abliGgaabhir vaaruNiibhir hiraNyavarNaabhiH paavamaaniibhir
+iti (maarjayitvaa^antar.jala.gato^aghamarSaNena SoDaza praaNa.aayaamaan
+(dhaarayitvaa^(uttiirya vaasaH (piiDayitvaa^anyat prayataM vaasaH
+(paridhaaya^apa (aacamya / oM bhuur bhuvaH suvar iti / jala.pavitram
+(aadaaya (tarpayati / oM bhuus (tarpayaami / oM bhuvas (tarpayaami / oM
+suvas (tarpayaami / oM mahas (tarpayaami / oM janas (tarpayaami / oM tapas
+(tarpayaami / oM satyaM (tarpayaami^iti //
+B2.10.17.38/ devavat [K omits devavat] pitRbhyo^aJjalim (aadaaya [K:
+upaadaaya] / oM bhuuH svadhaa / oM bhuvaH svadhaa / oM suvaH svadhaa / oM
+bhuur bhuvaH suvar mahar nama iti //
+B2.10.17.39/ atha / ud u tyam / citram iti / dvaabhyaam aadityam (upatiSThate //
+B2.10.17.40/ om iti brahma brahma vaa eSa jyotir ya eSa (tapaty eSa vedo
+[K: om ... eSa jyotiH ya eSa jyotiH ya eSa tarpatyaiSa vedaa] ya eSa
+(tapati [K: ya eva tarpayati] vedyam eva^etad ya eSa (tapati [K: tarpayati]
+/ evam eva^eSa aatmaanaM (tarpayati / aatmane namas.(karoti / aatmaa
+brahma^aatmaa jyotiH //
+B2.10.17.41/ saavitriiM sahasrakRtva (aavartayet^zatakRtvo^aparimitakRtvo vaa //
+B2.10.17.42/ oM bhuur bhuvaH suvar iti jala.pavitram [K: pavitram]
+(aadaaya^apo (gRhNaati //
+B2.10.17.43/ na^ata [K: na caata] uurdhvam anuddhRtaabhir adbhir
+aparisrutaabhir aparipuutaabhir vaa^(aacaamet //
+B2.10.17.44/ na ca^ata uurdhvaM zuklaM vaaso (dhaarayet //
+
+B2.10.18.1/ eka.daNDii tri.daNDii vaa //
+B2.10.18.2/ atha^imaani vrataani (bhavanti / ahiMsaa satyam astainyaM
+maithunasya ca varjanam / tyaaga ity eva //
+B2.10.18.3/ paJca^eva^upavrataani (bhavanti / akrodho
+guru.zuzruuSaa^apramaadaH zaucam aahaara.zuddhiz ca^iti //
+B2.10.18.4/ atha bhaikSa.caryaa / braahmaNaanaaM zaaliina.yaayaavaraaNaam
+apavRtte vaizvadeve bhikSaaM (lipseta //
+B2.10.18.5/ bhavat.puurvaaM (pracodayet [K: pracodayaat] //
+B2.10.18.6/ godoha.maatram [K: godohanamaatram] (aakaaGkSet //
+B2.10.18.7/ atha bhaikSa.caryaad (upaavRtya [K: upaavRttaH] zucau deze
+(nyasya hasta.paadaan (prakSaalya^aadityasya^agraM [K: agre] (nivedayet /
+ud u tyam / citram iti / brahmaNe (nivedayate / brahma jajJaanam iti //
+B2.10.18.8/ (vijJaayate / aadhaana.prabhRti yajamaana eva^agnayo (bhavanti
+/ tasya praaNo gaarhapatyo^apaano^anvaahaaryapacano vyaana aahavaniiya
+udaana.samaanau sabhya.aavasathyau / paJca vaa ete^agnaya aatma.sthaaH /
+aatmany eva (juhoti //
+B2.10.18.9/ sa eSa aatma.yajJa aatma.niSTha aatma.pratiSTha aatmaanaM
+kSemaM nayati^iti (vijJaayate //
+B2.10.18.10/ bhuutebhyo dayaa.puurvaM (saMvibhajya zeSam adbhiH
+(saMspRzya^auSadhavat (praazniiyaat //
+B2.10.18.11/ (praazya^apa (aacamya jyotiSmatyaa^aadityam (upatiSThate / ud
+vayaM tamasas pari^iti / vaaG ma aasan nasoH praaNa iti (japitvaa // [K:
+praazyaapa aacamya vaaG ma aasan nasoH praaNa iti japitvaa
+jyotiSmatyaadityam upatiSThate ud vayaM tamasas pariiti ]
+B2.10.18.12ab/ ayaacitam asaMkLptam upapannaM yadRcchayaa /
+B2.10.18.12cd/ aahaara.maatraM (bhuJjiita kevalaM praaNa.yaatrikam // iti //
+B2.10.18.13-1/ atha^apy (udaaharanti /
+B2.10.18.13-2ab/ aSTau graasaa muner bhakSyaaH SoDaza^araNya.vaasinaH /
+B2.10.18.13-2cd/ dvaatriMzat tu [K: dvaatriMzataM] gRhasthasya amitaM
+brahmacaariNaH //
+B2.10.18.14ab/ bhaikSaM vaa sarva.varNebhya eka.annaM vaa dvijaatiSu /
+B2.10.18.14cd/ api vaa sarva.varNebhyo na ca^eka.annaM dvijaatiSu // iti //
+B2.10.18.15-1/ atha yatra^upaniSadam aacaaryaa (bruvate tatra^(udaaharanti /
+B2.10.18.15-2/
+sthaana.mauna.viira.aasana.savana.upasparzana.caturtha.SaSTha.aSTama.kaala.v
+rata.yuktasya kaNa.piNyaaka.yaavaka.dadhi.payo.vratatvaM ca^iti //
+B2.10.18.16/ tatra maune yuktas traividya.vRddhair aacaaryair munibhir
+anyair vaa^aazramibhir bahu.zrutair dantair [K omits dantair] dantaan
+saMdhaaya^antarmukha eva yaavad.artha.saMbhaaSii [K: yaavadarthaM
+sambhaaSiita] na striibhir [K omits: na striibhir] na yatra lopo
+(bhavati^iti (vijJaayate //
+B2.10.18.17/ sthaana.mauna.viira.aasanaanaam anyatamena saMprayogaH / na
+trayaM (saMnipaatayet //
+B2.10.18.18/ yatra gataz ca yaavan.maatram (anuvratayed aapatsu na yatra
+lopo (bhavati^iti (vijJaayate //
+B2.10.18.19/ sthaana.mauna.viira.aasana.savana.upasparzana.caturtha.SaSTha.a
+STama.kaala.vrata.yuktasya / aSTau taany avrataghnaani [K: avratadhvani]
+aapo muulaM ghRtaM payaH / havir braahmaNa.kaamyaa ca guror vacanam
+auSadham iti //
+B2.10.18.20/ saayaM.praatar.agnihotra.mantraaJ (japet //
+B2.10.18.21/ vaaruNiibhiH [K: vaaruNobhis] saayaM saMdhyaam (upasthaaya [K:
+upatiSThate] maitriibhiH praataH //
+B2.10.18.22ab/ anagnir aniketaH (syaad azarmaa^aazaraNo muniH /
+B2.10.18.22cd/ bhaikSa.arthii graamam (anvicchet svaadhyaaye vaacam
+(utsRjed // iti //
+B2.10.18.23/ (vijJaayate ca / parimitaa vaa RcaH parimitaani saamaani
+parimitaani yajuuMSi / atha^etasya^eva^anto na^(asti yad brahma / tat
+pratigRNata (aacakSiita / sa pratigara iti //
+B2.10.18.24/ evam eva^eSa aa zariira.vimokSaNaad vRkSa.muuliko
+veda.saMnyaasii //
+B2.10.18.25/ vedo vRkSaH / tasya muulaM praNavaH / praNava.aatmako vedaH //
+B2.10.18.26/ praNavaM dhyaayan sapraNavo [K: praNavo brahma praNavaM
+dhyaayet praNavo] brahma.bhuuyaaya (kalpata iti ha^(uvaaca prajaapatiH //
+B2.10.18.27/ sapta.vyaahRtibhir brahma.bhaajanaM (prakSaalayed iti /
+(prakSaalayed iti //
+
+
+B3.1.1/ atha zaaliina.yaayaavara.cakracara.dharma.kaaGkSiNaaM navabhir
+vRttibhir vartamaanaanaam //
+B3.1.2/ teSaaM tad.vartanaad vRttir ity (ucyate //
+B3.1.3/ zaalaa.aazrayatvaat^zaaliinatvam //
+B3.1.4/ vRttyaa varayaa (yaati^iti yaayaavaratvam //
+B3.1.5/ anukrameNa caraNaac [K: anukramacaraNaac] cakracaratvam //
+B3.1.6/ taa (anuvyaakhyaasyaamaH //
+B3.1.7/ SaNNivartanii kauddaalii [K: koddaalii] dhruvaa saMprakSaalanii
+samuuhaa phaalanii [K: paalinii] ziloJchaa [K: siloJchaa] kaapotaa
+siddhecchaa^iti nava^etaaH //
+B3.1.8/ taasaam eva vaanyaa^api dazamii vRttir [K: vRddhir] (bhavati //
+B3.1.9/ aa navavRtteH //
+B3.1.10/ keza.zmazru.loma.nakhaani (vaapayitvaa^(upakalpayate //
+B3.1.11/ kRSNa.ajinaM kamaNDaluM yaSTiM viivadhaM kutapahaaram [K:
+kuthahaarim] iti //
+B3.1.12/ traidhaataviiyena^iSTvaa (prasthaasyati vaizvaanaryaa vaa //
+B3.1.13/ atha [K omits atha] praatar udita aaditye yathaa.suutram agniin
+(prajvaalya gaarhapatya aajyaM (vilaapya^(utpuuya sruk.sruvaM (niSTapya
+(saMmRjya sruci catur.gRhiitaM gRhiitvaa^aahavaniiye vaastoSpatiiyaM
+(juhoti //
+B3.1.14/ vaastoSpate prati (jaaniihy asmaan iti puronuvaakyaam (anuucya /
+vaastoSpate zagmayaa saMsadaa ta iti yaajyayaa (juhoti //
+B3.1.15/ sarva eva^aahita.agnir ity eke //
+B3.1.16/ yaayaavara ity eke //
+B3.1.17/ (nirgatya graama.ante graama.siimaante vaa^(avatiSThate / tatra
+kuTiiM maThaM vaa (karoti kRtaM vaa (pravizati //
+B3.1.18/ kRSNa.ajina.aadiinaam upakLptaanaaM yasminn [K: yasmin yasminn]
+arthe yena yena yat.prayojanaM tena tena tat (kuryaat //
+B3.1.19/ prasiddham agniinaaM paricaraNam / prasiddhaM
+darzapuurNamaasaabhyaaM yajanam / prasiddhaH paJcaanaaM mahataaM yajJaanaam
+anuprayogaH / utpannaanaam oSadhiinaaM nirvaapaNaM dRSTaM (bhavati //
+B3.1.20/ vizvebhyo devebhyo juSTaM (nirvapaami^iti vaa tuuSNiiM vaa taaH
+(saMskRtya (saadhayati //
+B3.1.21/ tasya^adhyaapana.yaajana.pratigrahaa (nivartante^anye ca
+yajJa.kratava iti //
+B3.1.22/ haviSyaM ca vrata.upaayaniiyaM dRSTaM (bhavati //
+B3.1.23/ tad yathaa [K omits: tad yathaa] sarpir.mizraM dadhi.mizram
+akSaara.lavaNam apizitam aparyuSitam //
+B3.1.24/ brahmacaryam Rtau vaa (gacchati //
+B3.1.25/ parvaNi.parvaNi keza.zmazru.loma.nakha.vaapanaM zauca.vidhiz ca //
+B3.1.26-1/ atha^apy (udaaharanti /
+B3.1.26-2ab/ (zruuyate dvividhaM zaucaM yat^ziSTaiH paryupaasitam /
+B3.1.26-2cd/ baahyaM nirlepa.nirgandham antaH.zaucam ahiMsakam [K: ahiMsanam] //
+B3.1.27ab/ adbhiH (zudhyanti gaatraaNi buddhir jJaanena (zudhyati [K:
+zuddhyatiiti] /
+B3.1.27cd/ ahiMsayaa ca bhuuta.aatmaa manaH satyena (zudhyati // iti //
+
+B3.2.1/ yathaa^u etat SaNNivartanii^iti //
+B3.2.2/ SaD eva nivartanaani nirupahataani (karoti / svaamine bhaagam
+(utsRjaty anujJaataM vaa (gRhNaati //
+B3.2.3/ praak praatar.aazaat karSii (syaad asyuuta.naasikaabhyaaM
+samuSkaabhyaam atudann aarayaa muhur.muhur abhyucchandayan // [=
+B2.2.4.20-21]
+B3.2.4/ etena vidhinaa SaNnivartanaani [K: SaNNivartanaani] (karoti^iti
+SaNNivartanii //
+B3.2.5/ kauddaalii^iti / jala.abhyaaze kuddaalena vaa phaalena vaa tiikSNa.kaaSThena vaa (khanati biijaany (aavapati kanda.muula.phala.zaaka.oSadhiir (niSpaadayati //
+B3.2.6/ kuddaalena (karoti^iti kauddaalii //
+B3.2.7/ dhruvayaa vartamaanaH zuklena vaasasaa ziro (veSTayati / bhuutyai
+tvaa ziro (veSTayaami^iti / brahma.varcasam (asi brahma.varcasaaya tvaa^iti
+kRSNa.ajinam (aadatte^abliGgaabhiH pavitram / balam (asi balaaya [H:
+valaaya] tvaa^iti kamaNDalum / dhaanyam (asi puSTyai tvaa^iti viivadham /
+sakhaa maa gopaaya^iti daNDam //
+B3.2.8-1/ atha^(upaniSkramya vyaahRtiir (japitvaa dizaam anumantraNaM (japati /
+B3.2.8-2ab/ pRthivii ca^antarikSaM ca dyaur nakSatraaNi yaa dizaH /
+B3.2.8-2cd/ agnir vaayuz ca suuryaz ca (paantu maaM pathi devataaH // iti //
+B3.2.9/ maanastokiiyaM (japitvaa graamaM (pravizya gRha.dvaare.gRha.dvaara
+aatmaanaM viivadhena saha darzanaat saMdarzanii^ity (aacakSate //
+B3.2.10/ vRtter vRtter avaarttaayaaM tayaa^eva tasya dhruvaM vartanaad
+dhruvaa^iti parikiirtitaa //
+B3.2.11/ saMprakSaalanii^iti / utpannaanaam oSadhiinaaM prakSepaNam /
+nikSepaNaM na^asti nicayo vaa / bhaajanaani (saMprakSaalya (nyubjati^iti
+saMprakSaalanii //
+B3.2.12/ samuuhaa^iti / avaarita.sthaaneSu pathiSu vaa kSetreSu
+vaa^apratihata.avakaazeSu vaa yatra yatra^oSadhayo (vidyante tatra tatra
+samuuhanyaa (samuhya taabhir (vartayati^iti samuuhaa //
+B3.2.13/ phaalanii^ity [K: paalaniity] ahiMsikaa^ity eva^idam uktaM
+(bhavati / tuSa.vihiinaaMs taNDulaan (icchati sajjanebhyo biijaani vaa /
+phaalayati^iti phaalanii [K: paalayatiiti paalanii] //
+B3.2.14/ ziloJchaa^iti [K: siloJcheti] / avaarita.sthaaneSu pathiSu vaa
+kSetreSu vaa^apratihata.avakaazeSu vaa yatra yatra^oSadhayo (vidyante tatra
+tatra^ekaikaM kaNizam (uJchayitvaa kaale.kaale zilair (vartayati^iti
+ziloJchaa [K: siloJchaa] //
+B3.2.15/ kaapotaa^iti / avaarita.sthaaneSu pathiSu vaa [K omits vaa]
+kSetreSu vaa^apratihata.avakaazeSu vaa yatra yatra^oSadhayo (vidyante tatra
+tatra^aGguliibhyaam ekaikaam oSadhim (uJchayitvaa saMdaMzanaat [K:
+sandarzanaat] kapotavad iti kaapotaa //
+B3.2.16/ siddhecchaa^iti / vRttibhiH zraanto vRddhatvaad dhaatu.kSayaad vaa
+sajjanebhyaH siddham annam (icchati^iti siddhecchaa //
+B3.2.17/ tasya^aatmani samaaropaNaM [K: tasyaatmasamaaropaNaM] (vidyate
+saMnyaasivad upacaaraH pavitra.kaaSaaya.vaaso.varjam //
+B3.2.18/ vaanyaa^api vRkSa.lataa.vally.oSadhiinaaM ca tRNa.oSadhiinaaM ca
+zyaamaaka.jartila.aadiinaam / vanyaabhir [K: vaanyaabhir] (vartayati^iti
+vaanyaa //
+B3.2.19-1/ atha^apy (udaaharanti /
+B3.2.19-2ab/ mRgaiH saha parispandaH saMvaasas tebhir[!] eva ca /
+B3.2.19-2cd/ tair eva sadRzii vRttiH pratyakSaM svarga.lakSaNam //
+B3.2.19-3/ pratyakSaM svarga.lakSaNam iti // [B3.2.19 = B3.3.22]
+
+B3.3.1/ atha vaanaprastha.dvaividhyam [K: vaanaprasthasya dvaividhyam] //
+B3.3.2/ pacamaanakaa apacamaanakaaz ca^iti //
+B3.3.3/ tatra pacamaanakaaH paJcavidhaaH sarva.aaraNyakaa vaituSikaaH
+kanda.muula.bhakSaaH phala.bhakSaaH zaaka.bhakSaaz ca^iti //
+B3.3.4/ tatra sarva.aaraNyakaa naama dvividhaa dvividham aaraNyam
+aazrayanta indra.avasiktaa retovasiktaaz [retas.avasiktaaz] ca^iti //
+B3.3.5/ tatra^indra.avasiktaa naama vallii.gulma.lataa.vRkSaaNaam
+(aanayitvaa (zrapayitvaa saayaM.praatar.agnihotraM (hutvaa
+yaty.atithi.vratibhyaz ca (dattvaa^atha^itarat^zeSa.bhakSaaH //
+B3.3.6/ retovasiktaa [retas.avasiktaa] naama maaMsaM
+vyaaghra.vRka.zyena.aadibhir anyatamena vaa hatam (aanayitvaa (zrapayitvaa
+saayaM.praatar.agnihotraM (hutvaa yaty.atithi.vratibhyaz ca
+(dattvaa^atha^itarat^zeSa.bhakSaaH //
+B3.3.7/ vaituSikaas tuSa.dhaanya.varjaM taNDulaan (aanayitvaa (zrapayitvaa
+saayaM.praatar.agnihotraM (hutvaa yaty.atithi.vratibhyaz ca
+(dattvaa^atha^itarat^zeSa.bhakSaaH //
+B3.3.8/ kanda.muula.phala.zaaka.bhakSaaNaam apy evam eva //
+B3.3.9/ paJca^eva^apacamaanakaa unmajjakaaH pravRttaazino mukhenaadaayinas
+toyaahaaraa vaayubhakSaaz ca^iti //
+B3.3.10/ tatra^unmajjakaa naama loha.azma.karaNa.varjam //
+B3.3.11/ hastena^(aadaaya pravRttaazinaH //
+B3.3.12/ mukhenaadaayino mukhena^(aadadate //
+B3.3.13/ toya.aahaaraaH kevalaM toyaahaaraaH //
+B3.3.14/ vaayubhakSaa niraahaaraaz ca //
+B3.3.15/ iti [K omits iti] vaikhaanasaanaaM vihitaa daza diikSaaH //
+B3.3.16/ yaH sva.zaastram [K: zaastram] (abhyupetya daNDaM ca maunaM ca^apramaadaM ca //
+B3.3.17/ vaikhaanasaaH (zudhyanti niraahaaraaz ca^iti //
+B3.3.18/ zaastra.parigrahaH sarveSaaM brahma.vaikhaanasaanaam //
+B3.3.19ab/ na (druhyed daMza.mazakaan himavaaMs taapaso (bhavet /
+B3.3.19cd/ vana.pratiSThaH saMtuSTaz ciira.carma.jala.priyaH //
+B3.3.20ab/ atithiin (puujayet puurvaM kaale tv aazramam aagataan /
+B3.3.20cd/ deva.vipra.agnihotre ca yuktas tapasi taapasaH //
+B3.3.21-1ab/ kRcchraaM vRttim asaMhaaryaaM saamaanyaaM mRga.pakSibhiH /
+B3.3.21-1cd/ tad ahar jana.saMbhaaraaM kaSaaya.kaTuka.aazrayaam //
+B3.3.21-2ab/ (parigRhya zubhaaM vRttim etaaM durjana.varjitaam /
+B3.3.21-2cd/ vana.vaasam (upaazritya braahmaNo na^(avasiidati //
+B3.3.22-1ab/ mRgaiH saha parispandaH saMvaasas tebhir[!] eva ca /
+B3.3.22-1cd/ tair eva sadRzii vRttiH pratyakSaM svarga.lakSaNam //
+B3.3.22-2/ pratyakSaM svarga.lakSaNam iti // [B3.3.22 = B3.2.19]
+
+B3.4.1/ atha yadi brahmacaary avratyam iva (caret^maaMsaM vaa^(azniiyaat
+striyaM vaa^(upeyaat sarvaasv eva^aartiSu //
+B3.4.2/ antar.aagaare^agnim (upasamaadhaaya (saMparistiirya^aa^agnimukhaat
+(kRtvaa[cf. B2.8.14.7]^atha^aajya.aahutiir (upajuhoti / kaamena kRtaM
+kaamaH (karoti kaamaaya^eva^idaM sarvaM yo maa (kaarayati tasmai svaahaa /
+manasaa kRtaM manaH (karoti manasa eva^idaM sarvaM yo maa (kaarayati tasmai
+svaahaa / rajasaa kRtaM rajaH (karoti rajasa eva^idaM sarvaM yo maa
+(kaarayati tasmai svaahaa / tamasaa kRtaM tamaH (karoti tamasa eva^idaM
+sarvaM yo maa (kaarayati tasmai svaahaa / paapmanaa kRtaM paapmaa (karoti
+paapmana eva^idaM sarvaM yo maa (kaarayati tasmai svaahaa / manyunaa kRtaM
+manyuH (karoti manyava eva^idaM sarvaM yo maa (kaarayati tasmai svaahaa^iti
+//
+B3.4.3/ jaya.prabhRti siddham aa dhenu.vara.pradaanaat //
+B3.4.4/ apareNa^agniM kRSNa.ajinena praaciina.griiveNa^uttara.lomnaa
+praavRtya vasati //
+B3.4.5/ vyuSTaayaaM [K: atha vyuSTaayaaM] jaghana.ardhaad aatmaanam
+(apakRSya tiirthaM (gatvaa prasiddhaM
+(snaatvaa^antar.jala.gato^aghamarSaNena SoDaza praaNa.aayaamaan
+(dhaarayitvaa prasiddham aa^aaditya.upasthaanaat (kRtvaa^aacaaryasya gRhaan
+(eti //
+B3.4.6/ yathaa^azvamedha.avabhRtha evam [k: yathaazvamedhaavabhRtham]
+eva^etad (vijaaniiyaad iti //
+
+B3.5.1/ atha^ataH pavitra.atipavitrasya^aghamarSaNasya kalpaM
+(vyaakhyaasyaamaH //
+B3.5.2/ tiirthaM (gatvaa snaataH zuci.vaasaa udaka.ante sthaNDilam
+(uddhRtya sakRt.klinnena vaasasaa sakRt.puurNena
+paaNinaa^aaditya.abhimukho^aghamarSaNaM svaadhyaayam (adhiiyiita //
+B3.5.3/ praataH zataM madhya.ahne zatam apara.ahNe zatam aparimitaM vaa //
+B3.5.4/ uditeSu nakSatreSu prasRti.yaavakaM [K: prasRtayaavakaM]
+(praazniiyaat //
+B3.5.5/ jJaana.kRtebhyo^ajJaana.kRtebhyaz ca^upapaatakebhyaH sapta.raatraat
+(pramucyate dvaadaza.raatraad bhruuNa.hananaM guru.talpa.gamanaM
+suvarNa.stainyaM suraa.paanam iti ca (varjayitvaa //
+B3.5.6/ ekaviMzati.raatraat taany api (tarati taany api (jayati //
+B3.5.7/ sarvaM (tarati sarvaM (jayati sarva.kratu.phalam (avaapnoti sarveSu
+tiirtheSu snaato (bhavati sarveSu vedeSu ciirNa.vrato (bhavati sarvair
+devair jJaato (bhavaty aa cakSuSaH paGktiM (punaati karmaaNi ca^asya
+(sidhyanti^iti baudhaayanaH //
+
+B3.6.1/ atha karmabhir aatma.kRtair gurum iva^aatmaanaM
+(manyeta^aatma.arthe prasRti.yaavakaM [K: prasRtayaavakaM] (zrapayed
+uditeSu nakSatreSu //
+B3.6.2/ na tato^agnau (juhuyaat //
+B3.6.3/ na ca^atra bali.karma //
+B3.6.4/ azRtaM zrapyamaaNaM zRtaM ca^(abhimantrayeta //
+B3.6.5-1ab/ yavo^asi dhaanya.raajo^asi vaaruNo madhu.saMyutaH /
+B3.6.5-1cd/ nirNodaH sarva.paapaanaaM pavitram RSibhiH smRtam //
+B3.6.5-2ab/ ghRtaM yavaa madhu yavaa aapo vaa [K: yavaa] amRtaM yavaaH /
+B3.6.5-2cd/ sarvaM (puniita [K: punatha] me paapaM yan mayaa duSkRtaM kRtam //
+B3.6.5-3ab/ vaacaa kRtaM karma kRtaM manasaa durvicintitam /
+B3.6.5-3cd/ alakSmiiM kaala.karNiiM [K: kaalaraatriiM] ca sarvaM (puniita
+[K: punatha] me yavaaH //
+B3.6.5-4ab/ zva.suukara.avadhuutaM ca [K: yat] kaaka.ucchiSTa.hataM [K:
+kaakocchiSTopahataM] ca yat /
+B3.6.5-4cd/ maataa.pitror azuzruuSaaM sarvaM (puniita [K: punatha] me yavaaH //
+B3.6.5-5ab/ mahaa.paataka.saMyuktaM daaruNaM raaja.kilbiSam /
+B3.6.5-5cd/ baala.vRddham [K: baalavRttam] adharmaM ca sarvaM (puniita [K:
+punatha] me yavaaH //
+B3.6.5-6ab/ suvarNa.stainyam avratyam ayaajyasya ca yaajanam /
+B3.6.5-6cd/ braahmaNaanaaM pariivaadaM sarvaM (puniita [K: punatha] me yavaaH //
+B3.6.5-7ab/ gaNa.annaM gaNikaa.annaM ca zuudra.annaM zraaddha.suutakam /
+B3.6.5-7cd/ corasya^annaM nava.zraaddhaM sarvaM (puniita [K: punatha] me
+yavaaH // iti //
+B3.6.6/ zrapyamaaNe rakSaaM (kuryaat / namo rudraaya bhuuta.adhipataye /
+dyauH zaantaa / (kRNuSva paajaH prasitiM na pRthviim ity etena^anuvaakena
+[K omits: ity etenaanuvaakena] / ye devaaH puraHsado^agni.netraaH +
+rakSo.haNa iti paJcabhiH paryaayaiH / maa nas toke / brahmaa devaanaam iti
+dvaabhyaam //
+B3.6.7/ zRtaM ca laghv (azniiyaat prayataH paatre (niSicya //
+B3.6.8/ ye devaa mano.jaataa mano.yujaH sudakSaa dakSa.pitaaras te naH
+(paantu te no^(avantu tebhyo namas tebhyaH svaahaa^iti / aatmani (juhuyaat
+//
+B3.6.9/ tri.raatraM medha.arthii //
+B3.6.10/ SaD.raatraM (piitvaa paapa.kRt^zuddho (bhavati //
+B3.6.11/ sapta.raatraM (piitvaa bhruuNa.hananaM guru.talpa.gamanaM
+suvarNa.stainyaM suraa.paanam iti ca (punaati //
+B3.6.12/ ekaadaza.raatraM (piitvaa puurva.puruSa.kRtam api paapaM (nirNudati //
+B3.6.13/ api vaa go.niSkraantaanaaM yavaanaam ekaviMzati.raatraM (piitvaa
+gaNaan (pazyati gaNa.adhipatiM (pazyati vidyaaM (pazyati vidyaa.adhipatiM
+(pazyati^ity aaha bhagavaan baudhaayanaH //
+
+B3.7.1/ kuuzmaaNDair [K: atha kuuSmaaNDair] (juhuyaad yo^apuuta iva (manyeta //
+B3.7.2/ yathaa steno yathaa bhruuNa.haa^evam eSa (bhavati yo^ayonau retaH
+(siJcati //
+B3.7.3/ yad arvaaciinam eno bhruuNa.hatyaayaas tasmaan (mucyata iti //
+B3.7.4/ ayonau retaH (siktvaa^anyatra svapnaad arepaa vaa pavitra.kaamaH
+[K: pavitrakaamo vaa] //
+B3.7.5/ amaavaasyaayaaM paurNamaasyaaM vaa keza.zmazru.loma.nakhaani
+(vaapayitvaa brahmacaari.kalpena vratam (upaiti //
+B3.7.6/ saMvatsaraM maasaM caturviMzaty.ahaM [K: caturviMzatyaho] dvaadaza
+raatriiH SaT tisro vaa //
+B3.7.7/ na maaMsam (azniiyaan na striyam (upeyaan na^(uparyaasiita
+(jugupseta^anRtaat //
+B3.7.8/ payo.bhakSa iti prathamaH kalpaH / yaavakaM vaa^upayuJjaanaH
+kRcchra.dvaadaza.raatraM (cared (bhikSed vaa //
+B3.7.9/ tad.vidheSu yavaaguuM raajanyo vaizya aamikSaam //
+B3.7.10/ puurvaahNe paakayajJika.dharmeNa^agnim (upasamaadhaaya
+(saMparistiirya^aa^agnimukhaat (kRtvaa^atha^aajya.aahutiir (upajuhoti [K
+omits: athaajyaahutiir upajuhoti] / yad devaa deva.heDanam [K: devahelanam]
+/ yad adiivyann RNam ahaM (babhuuva / aayuS Te vizvato (dadhad iti / etais
+tribhir [K: etais tridity] anuvaakaiH //
+B3.7.11/ praty.Rcam aajyasya (juhuyaat [K: hutvaa] //
+B3.7.12/ siMhe vyaaghra uta yaa pRdaakaav iti catasraH sruva.aahutiiH /
+agne^abhyaavartin / agne aGgiraH / punar uurjaa / saha rayyaa^iti
+catasro^abhyaavartiniir (hutvaa samit.paaNir yajamaana.loke^(avasthaaya /
+vaizvaanaraaya prati (vedayaama iti dvaadazarcena suuktena^(upatiSThate [K:
+suuktenopasthaaya] //
+B3.7.13/ yan mayaa [K: me] manasaa vaacaa kRtam enaH kadaacana / sarvasmaat
+tasmaan [K: sarvasmaan] maa^iiDito [K: meWito] (mogdhi tvaM hi (vettha
+yathaa.tathaM svaahaa^iti / samidham (aadhaaya varaM (dadaati //
+B3.7.14/ jaya.prabhRti siddham aa dhenu.vara.pradaanaat //
+B3.7.15/ eka eva^agnau paricaarii [K: paricaryaayaam] //
+B3.7.16/ atha^agnyaadheye [K: agnyaadheye] / yad devaa deva.heDanam [K:
+devodevamahelanam] / yad adiivyann RNam ahaM (babhuuva / aayuS Te vizvato
+(dadhad iti / puurNa.aahutiiH [K: puurNaahutim] //
+B3.7.17/ (hutvaa^agnihotram aarapsyamaano dazahotraa / (hutvaa
+darzapuurNamaasaav aarapsyamaanaz caturhotraa / (hutvaa caaturmaasyaany
+aarapsyamaanaH paJcahotraa / (hutvaa pazubandhe SaDDhotraa / (hutvaa [K
+omits hutvaa] some saptahotraa //
+B3.7.18/ (vijJaayate ca [K: omits ca] / karma.aadiSv etair (juhuyaat /
+puuto deva.lokaan (samaznuta iti hi braahmaNam / iti hi braahmaNam //
+
+B3.8.1/ atha^ataz caandraayaNasya kalpaM [K: caandraayaNakalpaM]
+(vyaakhyaasyaamaH //
+B3.8.2/ zukla.caturdaziim (upavaset //
+B3.8.3/ keza.zmazru.loma.nakhaani (vaapayitvaa^api vaa zmazruuNy eva^ahataM
+vaaso vasaanaH satyaM bruvann aavasatham (abhyupeyaat //
+B3.8.4/ tasminn asya sakRt.praNiito^agnir araNyor nirmanthyo vaa //
+B3.8.5/ brahmacaarii suhRt praiSaaya^upakalpii (syaat //
+B3.8.6/ haviSyaM ca vrata.upaayaniiyam [K: vratopaayanam] //
+B3.8.7/ agnim (upasamaadhaaya (saMparistiirya^aa^agnimukhaat (kRtvaa
+pakvaaj (juhoti //
+B3.8.8/ agnaye yaa tithiH syaan nakSatraaya sa.daivataaya / atra^(aaha gor
+(amanvata^iti caandramasiiM paJcamiiM dyaavaa.pRthiviibhyaaM SaSThiim
+aho.raatraabhyaaM saptamiiM raudriim aSTamiiM sauriiM navamiiM vaaruNiiM
+dazamiim aindriim ekaadaziiM vaizvadeviiM dvaadaziim iti //
+B3.8.9/ atha^aparaaH (samaamananti digbhyaz ca sa.daivataabhya uror
+antarikSaaya sa.daivataaya //
+B3.8.10/ navo.navo (bhavati jaayamaana iti sauviSTakRtiiM
+(hutvaa^atha^etad^havir.ucchiSTaM kaMse vaa camase vaa (vyuddhRtya
+haviSyair vyaJjanair (upasicya paJcadaza piNDaan prakRti.sthaan (praaznaati
+//
+B3.8.11/ praaNaaya tvaa^iti prathamam / apaanaaya tvaa^iti dvitiiyam /
+vyaanaaya tvaa^iti tRtiiyam / udaanaaya tvaa^iti caturtham / samaanaaya
+tvaa^iti paJcamam / yadaa catvaaro dvaabhyaaM puurvam / yadaa trayo
+dvaabhyaaM dvaabhyaaM puurvau / yadaa dvau dvaabhyaaM puurvaM tribhir
+uttaram / ekaM sarvaiH //
+B3.8.12/ nigraabhyaa stha^iti / apaH (piitvaa^atha^aajya.aahutiir
+(upajuhoti / praaNa.apaana.vyaana.udaana.samaanaa me (zudhyantaaM jyotir
+ahaM virajaa vipaapmaa (bhuuyaasaM svaahaa / vaaG.manaH / ziraH.paaNi /
+tvak.carma.maaMsa [K: tvakcarma] / zabda.sparza.ruupa [K: zabdasparza] /
+pRthivy.ap.tejo [K: pRthivii] /
+annamaya.praaNamaya.manomaya.vijJaanamaya.aanandamayaa me (zudhyantaaM
+jyotir ahaM virajaa vipaapmaa (bhuuyaasaM svaahaa^iti [K:
+annamayapraaNamaya ity etais] saptabhir anuvaakaiH //
+B3.8.13/ jaya.prabhRti siddham aa dhenu.vara.pradaanaat //
+B3.8.14/ sauriibhir aadityam (upatiSThate caandramasiibhiz candramasam //
+B3.8.15/ agne tvaM su (jaagRhi^iti saMvizaJ (japati //
+B3.8.16/ tvam agne vrata.paa (asi^iti prabuddhaH //
+B3.8.17/ strii.zuudrair na^(abhibhaaSeta muutra.puriiSe na^(avekSeta //
+B3.8.18/ amedhyaM (dRSTvaa (japati / abaddhaM mano daridraM cakSuH suuryo
+jyotiSaaM zreSTho diikSe maa maa (haasiir iti // [K adds: atha yady enam
+abhivarSaty undatiir balaM dhatteti]
+B3.8.19/ prathamaayaam apara.pakSasya caturdaza graasaan //
+B3.8.20/ evam eka.apacayena^aa^amaavaasyaayaaH //
+B3.8.21/ amaavaasyaayaaM graaso na (vidyate //
+B3.8.22/ atha [K omits atha] prathamaayaaM puurva.pakSasya^ekaH / dvau
+dvitiiyaayaam [K: dvitiiyasyaam] //
+B3.8.23/ evam eka.upacayena^aa paurNamaasyaaH //
+B3.8.24/ paurNamaasyaaM sthaaliipaakasya (juhoty agnaye yaa tithiH (syaan
+nakSatrebhyaz ca sa.daivatebhyaH //
+B3.8.25/ purastaat^zroNaayaa abhijitaH sa.daivatasya (hutvaa gaaM
+braahmaNebhyo (dadyaat //
+B3.8.26/ tad etac caandraayaNaM pipiilikaa.madhyam / vipariitaM yava.madhyam //
+B3.8.27/ ato^anyatarac (caritvaa sarvebhyaH paatakebhyaH paapakRt^zuddho
+(bhavati //
+B3.8.28/ kaamaaya kaamaaya^etad aahaaryam ity (aacakSate //
+B3.8.29/ yaM kaamaM (kaamayate tam etena^(aapnoti //
+B3.8.30/ etena vaa RSaya aatmaanaM (zodhayitvaa puraa karmaaNy (asaadhayan
+/ tad etad dhanyaM puNyaM putryaM pautryaM pazavyam aayuSyaM svargyaM
+yazasyaM saarvakaamikam //
+B3.8.31/ nakSatraaNaaM dyutiM suuryaa.candramasor eva [K omits eva]
+saayujyaM salokataam (aapnoti ya u ca^enad (adhiite / ya u ca^enad (adhiite
+//
+
+B3.9.1/ atha^ato^anaznat.paaraayaNa.vidhiM (vyaakhyaasyaamaH //
+B3.9.2/ zuci.vaasaaH (syaac ciira.vaasaa vaa //
+B3.9.3/ haviSyam annam (icched apaH phalaani vaa //
+B3.9.4/ graamaat praaciiM vaa^udiiciiM vaa dizam (upaniSkramya gomayena
+go.carma.maatraM catur.azraM sthaNDilam (upalipya (prokSya lakSaNam
+(ullikhya adbhir (abhyukSya agnim (upasamaadhaaya (saMparistiirya^etaabhyo
+devataabhyo (juhuyaat / agnaye svaahaa / prajaapataye svaahaa / somaaya
+svaahaa [K: somaaya svaahaa prajaapataye svaahaa] vizvebhyo devebhyaH
+svayaMbhuva Rgbhyo yajurbhyaH saamabhyo^atharvabhyaH zraddhaayai prajJaayai
+medhaayai zriyai hriyai savitre saavitryai sadasaspataye^anumataye ca [K
+adds: vyaaharen na caantaraa viramet] //
+B3.9.5/ (hutvaa veda.aadim (aarabheta saMtatam (adhiiyiita // [K omits]
+B3.9.6/ na^antaraa (vyaaharen na ca^antaraa (viramet // [K omits]
+B3.9.7/ atha^antaraa (vyaahared atha^antaraa (viramet triH [K: triin]
+praaNaan (aayamya vRttaantaad eva^(aarabheta //
+B3.9.8/ apratibhaayaaM yaavataa kaalena na veda taavantaM kaalaM tad
+(adhiiyiita sa yadaa (jaaniiyaad [K: yaj jaaniiyaat] Rkto yajuSTaH saamata
+iti //
+B3.9.9/ tad.braahmaNaM tac.chaandasaM tad.daivatam (adhiiyiita //
+B3.9.10/ dvaadaza veda.saMhitaa (adhiiyiita / yad
+anena^anadhyaaye^(adhiiyiita yad guravaH kopitaa yaany akaaryaaNi (bhavanti
+taabhiH (puniite / zuddham asya puutaM brahma (bhavati //
+B3.9.11/ ata uurdhvaM saMcayaH //
+B3.9.12/ aparaa dvaadaza veda.saMhitaa (adhiitya taabhir uzanaso lokam
+(avaapnoti //
+B3.9.13/ aparaa dvaadaza veda.saMhitaa (adhiitya taabhir bRhaspater lokam
+(avaapnoti //
+B3.9.14/ aparaa dvaadaza veda.saMhitaa (adhiitya taabhiH prajaapater lokam
+(avaapnoti //
+B3.9.15/ anaznan saMhitaa sahasram (adhiiyiita / brahma.bhuuto virajo [K:
+viraajo] brahma (bhavati //
+B3.9.16/ saMvatsaraM bhaikSaM prayuJjaano divyaM cakSur (labhate //
+B3.9.17/ SaN maasaan yaavaka.bhakSaz caturo maasaan udaka.saktu.bhakSo dvau
+maasau phala.bhakSo maasam ab.bhakSo dvaadaza.raatraM vaa^apraaznan kSipram
+(antardhiiyate jJaatiin punaati sapta^avaraan sapta puurvaan aatmaanaM
+paJcadazaM paGktiM ca (punaati //
+B3.9.18/ taam etaaM deva.nizrayaNii^ity [K: devanizzrayaNiity] (aacakSate //
+B3.9.19/ etayaa vai devaa devatvam (agacchann RSaya RSitvam //
+B3.9.20/ tasya ha vaa etasya yajJasya trividha eva^aarambha.kaalaH
+praataH.savane maadhyaMdine savane braahme vaa^apara.raatre //
+B3.9.21/ taM vaa etaM prajaapatiH saptarSibhyaH (provaaca saptarSayo
+mahaajajJave mahaajajJur braahmaNebhyaH / braahmaNebhyaH //
+
+B3.10.1/ ukto varNa.dharmaz ca^aazrama.dharmaz ca //
+B3.10.2/ atha khalv ayaM puruSo yaapyena karmaNaa mithyaa vaa (caraty
+ayaajyaM vaa (yaajayaty apratigraahyasya vaa (pratigRhNaaty anaazya.annasya
+vaa^annam (aznaaty acaraNiiyena vaa (carati //
+B3.10.3/ tatra praayazcittaM (kuryaan na (kuryaad iti (miimaaMsante [K
+omits miimaaMsante] //
+B3.10.4/ nahi karma (kSiiyata iti //
+B3.10.5/ (kuryaad ity [K: kuryaat tv] eva //
+B3.10.6/ punastomena^iSTvaa [K: punastomena yajeta] punaH savanam
+aayaanti^iti [K: aayantiiti] (vijJaayate //
+B3.10.7/ atha^apy (udaaharanti / sarvaM paapmaanaM (tarati (tarati
+brahmahatyaaM yo^azvamedhena (yajata iti //
+B3.10.8/ agniSTutaa vaa^abhizaMsyamaano [K: vaabhizasyamaano] (yajeta^iti ca //
+B3.10.9/ tasya niSkrayaNaani japas tapo homa upavaaso daanam //
+B3.10.10/ upaniSado vedaadayo vedaantaaH sarvacchandaHsu saMhitaa madhuuny
+aghamarSaNam atharvaziro rudraaH puruSasuuktaM raajana.rauhiNe saamanii
+bRhad.rathaMtare puruSagatir mahaanaamnyo mahaavairaajaM mahaadivaakiirtyaM
+jyeSTha.saamnaam anyatamaM bahiSpavamaanaH [K: bahiSpavamaanaM]
+kuuzmaaNDyaH paavamaanyaH saavitrii ca^iti paavanaani //
+B3.10.11/ upasan.nyaayena payovratataa zaakabhakSataa phalabhakSataa
+muulabhakSataa prasRti.yaavako hiraNya.praazanaM ghRta.praazanaM
+soma.paanam iti medhyaani //
+B3.10.12/ sarve ziloccayaaH sarvaaH sravantyaH saritaH puNyaa hradaas
+tiirthaany RSi.niketanaani goSTha.kSetra.pariSkandaa iti dezaaH //
+B3.10.13/ ahiMsaa satyam astainyaM savaneSu^udaka.upasparzanaM
+guru.zuzruuSaa brahmacaryam adhaH.zayanam ekavastrataa^anaazaka iti
+tapaaMsi //
+B3.10.14/ hiraNyaM gaur vaaso^azvo bhuumis tilaa ghRtam annam iti deyaani //
+B3.10.15/ saMvatsaraH SaN.maasaaz catvaaras trayo dvaav ekaz
+caturviMzaty.aho dvaadaza.ahaH SaD.ahas try.aho^aho.raatra eka.aha iti
+kaalaaH //
+B3.10.16/ etaany anaadeze (kriyeran //
+B3.10.17/ enaHsu guruSu guruuNi laghuSu laghuuni //
+B3.10.18/ kRcchra.atikRcchrau caandraayaNam iti sarva.praayazcittiH /
+sarva.praayazcittiH //
+
+
+B4.1.1ab/ praayazcittaani (vakSyaamo naanaa.arthaani pRthak.pRthak /
+B4.1.1cd/ teSu.teSu ca doSeSu gariiyaaMsi laghuuni ca //
+B4.1.2ab/ yady atra hi (bhaved yuktaM tad^hi tatra^eva (nirdizet /
+B4.1.2cd/ bhuuyo.bhuuyo gariiyaHsu laghuSv alpiiyasas tathaa //
+B4.1.3ab/ vidhinaa zaastra.dRSTena praaNa.aayaamaan (samaacaret /
+B4.1.3cd/ yad upastha.kRtaM paapaM padbhyaaM vaa yat kRtaM (bhavet /
+B4.1.3ef/ baahubhyaaM manasaa vaacaa zrotra.tvag.ghraaNa.cakSuSaa //
+B4.1.4/ api vaa [K: atha vaacaa]
+cakSuH.zrotra.tvag.ghraaNa.mano.vyatikrameSu tribhiH praaNa.aayaamaiH
+(zudhyati //
+B4.1.5/ zuudra.anna.strii.gamana.bhojaneSu kevaleSu pRthak.pRthak
+sapta.ahaM sapta.sapta praaNa.aayaamaan (dhaarayet //
+B4.1.6/ abhakSya.abhojya.apeya.anaadya.praazaneSu tathaa^apaNya.vikrayeSu
+madhu.maaMsa.ghRta.taila.kSaara.lavaNa.avara.anna.varjeSu yac ca^anyad apy
+evaM.yuktaM dvaadaza.ahaM dvaadaza.dvaadaza praaNa.aayaamaan (dhaarayet //
+B4.1.7/ paataka.pataniiya.upapaataka.varjeSu yac ca^anyad apy evaM.yuktam
+ardhamaasaM dvaadaza.dvaadaza praaNa.aayaamaan (dhaarayet //
+B4.1.8/ paataka.pataniiya.varjeSu yac ca^anyad apy evaM.yuktaM dvaadaza
+dvaadaza.ahaan dvaadaza.dvaadaza praaNa.aayaamaan (dhaarayet //
+B4.1.9/ paataka.varjeSu yac ca^anyad apy evaM.yuktaM dvaadaza.ardhamaasaan
+dvaadaza.dvaadaza praaNa.aayaamaan (dhaarayet //
+B4.1.10/ atha paatakeSu saMvatsaraM dvaadaza.dvaadaza praaNa.aayaamaan
+(dhaarayet //
+B4.1.11ab/ (dadyaad guNavate kanyaaM nagnikaaM brahmacaariNe /
+B4.1.11cd/ api vaa guNa.hiinaaya na^(uparundhyaad rajasvalaam //
+B4.1.12ab/ triiNi varSaaNy RtumatiiM yaH kanyaaM na (prayacchati /
+B4.1.12cd/ sa tulyaM bhruuNa.hatyaayai doSam (Rcchaty asaMzayam //
+B4.1.13ab/ na (yaacate ced evaM (syaad yaacate cet pRthak.pRthak /
+B4.1.13cd/ ekaikasminn Rtau doSaM paatakaM manur (abraviit //
+B4.1.14ab/ triiNi varSaaNy Rtumatii (kaaGkSeta pitR.zaasanam /
+B4.1.14cd/ tataz caturthe varSe tu (vindeta sadRzaM patim /
+B4.1.14ef/ avidyamaane sadRze guNa.hiinam api (zrayet //
+B4.1.15ab/ balaac cet prahRtaa kanyaa mantrair yadi na saMskRtaa /
+B4.1.15cd/ anyasmai vidhivad deyaa yathaa kanyaa tathaa^eva saa //
+B4.1.16ab/ nisRSTaayaaM hute vaa^api yasyai bhartaa (mriyeta saH /
+B4.1.16cd/ saa ced akSata.yoniH (syaad gata.pratyaagataa satii /
+B4.1.16ef/ paunarbhavena vidhinaa punaH.saMskaaram (arhati //
+B4.1.17ab/ triiNi varSaaNy RtumatiiM yo bhaaryaaM na^(adhigacchati /
+B4.1.17cd/ sa tulyaM bhruuNa.hatyaayai doSam (Rcchaty asaMzayam //
+B4.1.18ab/ Rtu.snaataaM tu yo bhaaryaaM saMnidhau na^upagacchati /
+B4.1.18cd/ pitaras tasya taM maasaM tasmin rajasi (zerate //
+B4.1.19ab/ Rtau na^(upaiti yo bhaaryaam anRtau yaz ca (gacchati /
+B4.1.19cd/ tulyam (aahus tayor doSam ayonau yaz ca (siJcati //
+B4.1.20ab/ bhartuH pratinivezena yaa bhaaryaa (skandayed Rtum /
+B4.1.20cd/ taaM graama.madhye (vikhyaapya bhruuNa.ghniiM [H: bhruNa-]
+(nirdhamed gRhaat //
+B4.1.21ab/ Rtu.snaataaM na ced (gacchen niyataaM dharmacaariNiim /
+B4.1.21cd/ niyama.atikrame tasya praaNa.aayaama.zataM smRtam //
+B4.1.22ab/ praaNa.aayaamaan pavitraaNi vyaahRtiiH praNavaM tathaa /
+B4.1.22cd/ pavitra.paaNir aasiino brahma naityakam (abhyaset //
+B4.1.23ab/ (aavartayet sadaa yuktaH praaNa.aayaamaan punaH.punaH /
+B4.1.23cd/ aa keza.antaan nakha.agraac ca tapas tapyata uttamam //
+B4.1.24ab/ nirodhaaj (jaayate vaayur vaayor agniz ca (jaayate /
+B4.1.24cd/ taapena^aapo^(adhijaayante tato^antaH (zudhyate tribhiH //
+B4.1.25ab/ yogena^(avaapyate jJaanaM yogo dharmasya lakSaNam /
+B4.1.25cd/ yoga.muulaa guNaaH sarve tasmaad yuktaH sadaa (bhavet //
+B4.1.26ab/ praNava.aadyaas trayo vedaaH praNave paryavasthitaaH /
+B4.1.26cd/ praNavo vyaahRtayaz ca^eva nityaM brahma sanaatanam //
+B4.1.27cd/ praNave nitya.yuktasya vyaahRtiiSu ca saptasu /
+B4.1.27cd/ tripadaayaaM ca gaayatryaaM na bhayaM (vidyate kvacit //
+B4.1.28ab/ savyaahRtikaaM sapraNavaaM gaayatriiM zirasaa saha /
+B4.1.28cd/ triH (paThed aayata.praaNaH praaNa.aayaamaH sa (ucyate //
+B4.1.29ab/ savyaahRtikaaH sapraNavaaH praaNa.aayaamaas tu SoDaza /
+B4.1.29cd/ api bhruuNa.hanaM maasaat (punanty ahar.ahar.dhRtaaH [K:
+aharahaH kRtaaH] //
+B4.1.30-1ab/ etad.aadyaM tapaH zreSTham etad dharmasya lakSaNam /
+B4.1.30-1cd/ sarva.doSa.upaghaata.artham etad eva (viziSyate //
+B4.1.30-2/ etad eva (viziSyata iti //
+
+B4.2.1ab/ praayazcittaani (vakSyaamo naanaa.arthaani pRthak.pRthak /
+B4.2.1cd/ teSu.teSu ca doSeSu gariiyaaMsi laghuuni ca //
+B4.2.2ab/ yady atra hi (bhaved yuktaM tad^hi tatra^eva (nirdizet /
+B4.2.2cd/ bhuuyo.bhuuyo gariiyaHsu laghuSv alpiiyasas tathaa //
+B4.2.3ab/ vidhinaa zaastra.dRSTena praayazcittaani (nirdizet //
+B4.2.4ab/ pratigrahiiSyamaaNas tu (pratigRhya tathaa^eva ca /
+B4.2.4cd/ Rcas taratsamandyas tu catasraH (parivartayet //
+B4.2.5ab/ abhojyaanaaM tu sarveSaam abhojya.annasya bhojane /
+B4.2.5cd/ Rgbhis taratsamandiibhir [K: taratsamandiiyair] maarjanaM
+paapa.zodhanam //
+B4.2.6ab/ bhruuNa.hatyaa.vidhis tv anyas taM tu (vakSyaamy ataH param /
+B4.2.6cd/ vidhinaa yena (mucyante paatakebhyo^api sarvazaH //
+B4.2.7ab/ praaNa.aayaamaan pavitraaNi vyaahRtiiH praNavaM tathaa /
+B4.2.7cd/ (japed aghamarSaNaM suuktaM [K: yuktaH] payasaa dvaadaza kSapaaH //
+B4.2.8ab/ tri.raatraM vaayu.bhakSo vaa klinna.vaasaaH plutaH [K:
+klinnavaasaaplutaz] zuciH //
+B4.2.9ab/ pratiSiddhaaMs tathaa^aacaaraan abhyasya^api punaH.punaH /
+B4.2.9cd/ vaaruNiibhir (upasthaaya sarva.paapaiH (pramucyate // iti //
+B4.2.10/ atha^avakiirNy amaavaasyaayaaM nizy agnim (upasamaadhaaya
+daarvihomikiiM pariceSTaaM (kRtvaa dve aajya.aahutii (juhoti / kaama
+avakiirNo^(asmy avakiirNo^(asmi kaama kaamaaya svaahaa / kaama
+abhidrugdho^(asmy abhidrugdho^(asmi kaama kaamaaya svaahaa^iti // [cf.
+B2.1.1.34]
+B4.2.11/ hutvaa prayata.aJjaliH kavaatiryaGG agnim upatiSTheta / saM maa
+(siJcantu marutaH sam indraH saM bRhaspatiH / saM maa^ayam agniH siJcatv
+aayuSaa ca balena ca^aayuSmantaM (karota [K: karotu] maa^iti [= B2.1.1.35]
+/ prati ha^asmai marutaH praaNaan (dadhati prati indro balaM prati
+bRhaspatir brahmavarcasaM praty agnir itarat sarvam / sarva.tanur (bhuutvaa
+sarvam aayur (eti / trir (abhimantrayeta / triSatyaa hi devaa iti
+(vijJaayate //
+B4.2.12ab/ yo^apuuta iva (manyeta aatmaanam upapaatakaiH /
+B4.2.12cd/ sa (hutvaa^etena vidhinaa sarvasmaat paapaat (pramucyate //
+B4.2.13/ api vaa^anaadya.apeya.pratiSiddha.bhojaneSu doSavac ca karma
+(kRtvaa^abhisaMdhi.puurvam an.abhisaMdhi.puurvaM vaa zuudraayaaM ca retaH
+(siktvaa^ayonau vaa^abliGgaabhir vaaruNiibhiz ca^(upaspRzya prayato
+(bhavati //
+B4.2.14-1/ atha^apy (udaaharanti /
+B4.2.14-2ab/ anaadya.apeya.pratiSiddha.bhojane viruddha.dharma.aacarite [K:
+anaadyapraazanaapeyapratiSiddhabhojanevizuddhadharmaacarite] ca karmaNi /
+B4.2.14-2cd/ mati.pravRtte^api ca paataka.upamair (vizudhyate^atha^api ca
+sarva.paatakaiH //
+B4.2.15ab/ tri.raatraM vaa^apy upavasaMs trir ahno^abhyupayann [K:
+ahnobhyupeyaad] apaH /
+B4.2.15cd/ praaNaan aatmani (saMyamya triH (paThed aghamarSaNam /
+B4.2.15ef/ yathaa^azvamedha.avabhRtha evaM tan manur (abraviit //
+B4.2.16-1/ (vijJaayate ca /
+B4.2.16-2ab/ caraNaM pavitraM vitataM puraaNaM yena puutas (tarati duSkRtaani /
+B4.2.16-2cd/ tena pavitreNa zuddhena puutaa ati paapmaanam araatiM (tarema
+// iti //
+
+B4.3.1ab/ praayazcittaani (vakSyaamo^avikhyaataani vizeSataH /
+B4.3.1cd/ samaahitaanaaM yuktaanaaM pramaadeSu kathaM (bhavet //
+B4.3.2/ oM.puurvaabhir vyaahRtibhiH sarvaabhiH sarva.paatakeSv (aacaamet //
+B4.3.3/ yat prathamam (aacaamati tena^RgvedaM (priiNaati yad dvitiiyaM tena
+yajurvedaM yat tRtiiyaM tena saamavedam //
+B4.3.4/ yat prathamaM (parimaarSTi tena^atharvavedaM yad dvitiiyaM
+tena^itihaasa.puraaNam //
+B4.3.5/ yat savyaM paaNiM (prokSati paadau ziro hRdayaM naasike cakSuSii
+zrotre naabhiM ca^(upaspRzati tena^oSadhi.vanaspatayaH sarvaaz ca devataaH
+(priiNaati / tasmaad aacamanaad eva sarvasmaat paapaat (pramucyate //
+B4.3.6/ aSTau vaa samidha (aadadhyaat / deva.kRtasya^enaso^avayajanam (asi
+svaahaa / manuSya.kRtasya^enaso^avayajanam (asi svaahaa /
+pitR.kRtasya^enaso^avayajanam (asi svaahaa / aatma.kRtasya^enaso^avayajanam
+(asi svaahaa / yad divaa ca naktaM ca^enaz (cakRma tasya^avayajanam (asi
+svaahaa / yat svapantaz ca jaagrataz ca^enaz (cakRma tasya^avayajanam (asi
+svaahaa / yad vidvaaMsaz ca^avidvaaMsaz ca^enaz (cakRma tasya^avayajanam
+(asi svaahaa / enasa enaso^avayajanam (asi svaahaa^iti //
+B4.3.7/ etair aSTaabhir (hutvaa sarvasmaat paapaat (pramucyate //
+B4.3.8-1/ atha^apy (udaaharanti /
+B4.3.8-2ab/ aghamarSaNaM devakRtaM zuddhavatyas taratsamaaH /
+B4.3.8-2cd/ kuuzmaaNDyaH paavamaanyaz ca virajaa mRtyulaaGgalam /
+B4.3.8-2ef/ durgaa vyaahRtayo rudraa mahaa.doSa.vinaazanaaH //
+B4.3.8-3/ mahaa.doSa.vinaazanaa iti //
+
+B4.4.1ab/ praayazcittaani (vakSyaamo^avikhyaataani vizeSataH /
+B4.4.1cd/ samaahitaanaaM yuktaanaaM pramaadeSu kathaM (bhavet //
+B4.4.2/ RtaM ca satyaM ca^iti / etad aghamarSaNaM trir antar.jale paThan
+sarvasmaat paapaat (pramucyate //
+B4.4.3/ aayaM gauH pRznir (akramiid iti / etaam RcaM trir antar.jale paThan
+sarvasmaat paapaat (pramucyate //
+B4.4.4/ drupadaad iven [iva^id] mumucaana iti / etaam RcaM trir antar.jale
+paThan sarvasmaat paapaat (pramucyate //
+B4.4.5/ haMsaH zuci.Sad iti / etaam RcaM trir antar.jale paThan sarvasmaat
+paapaat (pramucyate //
+B4.4.6/ api vaa saavitriiM [K: saavitriiM gaayatriiM] paccho^ardharcazas
+tataH samastaaM [K adds: ity etaam RcaM] trir antar.jale paThan sarvasmaat
+paapaat (pramucyate //
+B4.4.7/ api vaa vyaahRtiir vyastaaH samastaaz ca^iti trir antar.jale paThan
+sarvasmaat paapaat (pramucyate //
+B4.4.8/ api vaa praNavam eva trir antar.jale paThan sarvasmaat paapaat
+(pramucyate //
+B4.4.9/ tad etad dharma.zaastraM na^aputraaya [K: naabhaktaaya naaputraaya]
+na^aziSyaaya na^asaMvatsaroSitaaya (dadyaat //
+B4.4.10/ sahasraM dakSiNa [K: dakSiNaa] RSabha.ekaadazaM guru.prasaado vaa
+/ guru.prasaado vaa //
+
+B4.5.1ab/ atha^ataH (saMpravakSyaami saama.Rg.yajur.atharvaNaam /
+B4.5.1cd/ karmabhir yair (avaapnoti kSipraM kaamaan mano.gataan //
+B4.5.2ab/ japa.homa.iSTi.yantraadyaiH (zodhayitvaa sva.vigraham /
+B4.5.2cd/ (saadhayet sarva.karmaaNi na^anyathaa siddhim (aznute //
+B4.5.3ab/ japa.homa.iSTi.yantraaNi kariSyann aadito dvijaH /
+B4.5.3cd/ zukla.puNyadina.RkSeSu keza.zmazruuNi (vaapayet //
+B4.5.4ab/ (snaayaat triSavaNaM [tri.savanam] (paayaad aatmaanaM
+krodhato^anRtaat /
+B4.5.4cd/ strii.zuudrair na^(abhibhaaSeta brahmacaarii havir.vrataH //
+B4.5.5ab/ go.vipra.pitR.devebhyo (namaskuryaad [K: namaskurvan] divaa^asvapan /
+B4.5.5cd/ japa.homa.iSTi.yantra.stho divaa.sthaano nizaa.aasanaH //
+B4.5.6ab/ praajaapatyo (bhavet kRcchro divaa raatraav ayaacitam /
+B4.5.6cd/ kramazo vaayu.bhakSaz ca dvaadaza.ahaM tryahaM.tryaham //
+B4.5.7ab/ ahar ekaM tathaa naktam ajJaataM vaayu.bhakSaNam /
+B4.5.7cd/ trivRd eSa paraavRtto baalaanaaM kRcchra (ucyate //
+B4.5.8ab/ ekaikaM graasam (azniiyaat puurva.uktena tryahaM.tryaham /
+B4.5.8cd/ vaayu.bhakSas tryahaM ca^anyad atikRcchraH sa (ucyate //
+B4.5.9ab/ ambu.bhakSas tryahaan etaan vaayu.bhakSas tataH param /
+B4.5.9cd/ kRcchra.atikRcchras tRtiiyo vijJeyaH so^atipaavanaH //
+B4.5.10ab/ tryahaM.tryahaM (pibed uSNaM payaH sarpiH kuza.udakam /
+B4.5.10cd/ vaayu.bhakSas tryahaM ca^anyat taptakRcchraH sa (ucyate //
+B4.5.11ab/ go.muutraM gomayaM kSiiraM dadhi sarpiH kuza.udakam /
+B4.5.11cd/ eka.raatra.upavaasaz ca kRcchraH saaMtapanaH smRtaH //
+B4.5.12ab/ gaayatryaa^(aadaaya [K: gaayatryaa gRhya] go.muutraM
+gandhadvaaraa^iti gomayam /
+B4.5.12cd/ aa (pyaayasva^iti ca kSiiraM dadhikraavNaa^iti vai dadhi /
+B4.5.12ef/ zukram (asi jyotir ity [K: jyotir asiity] aajyaM devasya
+tvaa^iti kuza.udakam [K: kuzodakam iti] //
+B4.5.13ab/ go.muutra.bhaagas tasya^ardhaM zakRt kSiirasya tu trayam [K:
+kSiirasya tayam] /
+B4.5.13cd/ dvayaM dadhno ghRtasya^eka ekaz ca kuza.vaariNaH /
+B4.5.13ef/ evaM saaMtapanaH kRcchraH zvapaakam api (zodhayet //
+B4.5.14ab/ go.muutraM gomayaM ca^eva kSiiraM dadhi ghRtaM tathaa [K:
+gomuutraM gomayaM kSiiraM dadhi sarpiH kuzodakam] /
+B4.5.14cd/ paJca.raatraM tad.aahaaraH paJca.gavyena (zudhyati //
+B4.5.15ab/ yat aatmano^apramattasya dvaadaza.aham abhojanam /
+B4.5.15cd/ paraako naama kRcchro^ayaM sarva.paapa.praNaazanaH //
+B4.5.16ab/ go.muutra.aadibhir abhyastam ekaikaM taM trisaptakam /
+B4.5.16cd/ mahaasaaMtapanaM kRcchraM (vadanti brahmavaadinaH //
+B4.5.17ab/ eka.vRddhyaa site piNDaan [K: piNDe] eka.haanyaa^asite tataH /
+B4.5.17cd/ pakSayor upavaasau dvau tad^hi caandraayaNaM smRtam //
+B4.5.18ab/ caturaH praatar (azniiyaat piNDaan vipraH samaahitaH /
+B4.5.18cd/ caturo^astamite suurye zizu.caandraayaNaM (caret [K: smRtam] //
+B4.5.19ab/ aSTaav.aSTau maasam ekaM piNDaan madhyaMdine sthite /
+B4.5.19cd/ niyata.aatmaa haviSyasya yati.caandraayaNaM [H: -caandaayaNaM]
+(caret //
+B4.5.20ab/ yathaa kathaMcit piNDaanaaM dvijas tisras tv aziitayaH /
+B4.5.20cd/ maasena^aznan haviSyasya candrasya^(eti salokataam //
+B4.5.21ab/ yathaa^udyaMz candramaa (hanti jagatas tamaso bhayam /
+B4.5.21cd/ evaM [K: tathaa] paapaad bhayaM (hanti dvijaz caandraayaNaM caran //
+B4.5.22ab/ kaNa.piNyaaka.takraaNi yava.aacaamo[K: tathaa caapo]^anila.azanaH /
+B4.5.22cd/ eka.tri.paJca.sapta.iti paapaghno^ayaM tulaapumaan //
+B4.5.23ab/ yaavakaH sapta.raatreNa vRjinaM (hanti dehinaam /
+B4.5.23cd/ sapta.raatra.upavaaso vaa dRSTam etan maniiSibhiH //
+B4.5.24ab/ pauSa.bhaadrapada.jyeSThaasv [K: pauSabhaadrapadajyeSThaa]
+aardra.aakaaza.aatapa.aazrayaat /
+B4.5.24cd/ triin^zuklaan (mucyate paapaat pataniiyaad Rte dvijaH //
+B4.5.25ab/ go.muutraM gomayaM kSiiraM dadhi sarpiH kuza.udakam /
+B4.5.25cd/ yava.aacaamena saMyukto brahmakuurco^atipaavanaH //
+B4.5.26ab/ amaavaasyaaM niraahaaraH paurNamaasyaaM tila.azanaH /
+B4.5.26cd/ zukla.kRSNa.kRtaat paapaan (mucyate abdasya parvabhiH //
+B4.5.27ab/ bhaikSa.aahaaro^agnihotribhyo maasena^ekena (zudhyati /
+B4.5.27cd/ yaayaavara.vanasthebhyo dazabhiH paJcabhir dinaiH //
+B4.5.28ab/ ekaaha.dhanino^annena dinena^ekena (zudhyati /
+B4.5.28cd/ kaapota.vRtti.niSThasya piitvaa^apaH (zudhyate tribhiH //
+B4.5.29ab/ Rg.yajuH.saamavedaanaaM vedasya^anyatamasya vaa /
+B4.5.29cd/ paaraayaNaM trir (abhyasyed anaznan so^atipaavanaH //
+B4.5.30ab/ atha cet (tvarate kartuM divasaM [K: divase] maaruta.azanaH /
+B4.5.30cd/ raatrau jala.sthito [K: jale sthito] vyuSTaH praajaapatyena tat
+samam //
+B4.5.31ab/ gaayatryaa^aSTa.sahasraM tu japaM (kRtvaa^utthite ravau /
+B4.5.31cd/ (mucyate sarva.paapebhyo yadi na bhruuNa.haa (bhavet //
+B4.5.32ab/ yo^annadaH satyavaadii ca bhuuteSu kRpayaa sthitaH /
+B4.5.32cd/ puurva.ukta.yantra.zuddhebhyaH sarvebhyaH so^(atiricyate //
+
+B4.6.1ab/ sa.maadhucchandasaa rudraa gaayatrii praNava.anvitaa /
+B4.6.1cd/ sapta vyaahRtayaz ca^eva japyaaH [K: jaapyaaH] paapa.vinaazanaaH //
+B4.6.2ab/ mRgaareSTiH pavitreSTis trihaviH paavamaany api /
+B4.6.2cd/ iSTayaH paapa.naazinyo vaizvaanaryaa samanvitaaH //
+B4.6.3ab/ idaM ca^eva^aparaM guhyam ucyamaanaM (nibodhata /
+B4.6.3cd/ (mucyate sarva.paapebhyo mahataH paatakaad Rte //
+B4.6.4ab/ pavitrair maarjanaM kurvan rudra.ekaadaziniiM [K:
+rudraikaardezikaaM] japan /
+B4.6.4cd/ pavitraaNi ghRtair juhvat prayacchan hema.go.tilaan //
+B4.6.5ab/ yo^(azniiyaad yaavakaM pakvaM go.muutre sa.zakRd.rase /
+B4.6.5cd/ sa.dadhi.kSiira.sarpiSke (mucyate so^aMhasaH kSaNaat //
+B4.6.6ab/ prasuuto yaz ca zuudraayaaM yena^agamyaa ca laGghitaa /
+B4.6.6cd/ sapta.raatraat (pramucyete vidhinaa^etena taav ubhau //
+B4.6.7ab/ reto.muutra.puriiSaaNaaM praazane^abhojya.bhojane /
+B4.6.7cd/ paryaadhaana.ijyayor etat parivitte ca bheSajam //
+B4.6.8ab/ apaatakaani karmaaNi kRtvaa^eva subahuuny api /
+B4.6.8cd/ (mucyate sarva.paapebhya ity etad vacanaM sataam //
+B4.6.9ab/ mantra.maarga.pramaaNaM tu vidhaanaM [K: vidhaane] samudiiritam /
+B4.6.9cd/ bharadvaaja.aadayo yena brahmaNaH saatmataaM [K: samataaM] gataaH //
+B4.6.10-1ab/ prasanna.hRdayo vipraH prayogaad asya karmaNaH /
+B4.6.10-1cd/ kaamaaMs taaMs taan (avaapnoti ye ye kaamaa hRdi sthitaaH //
+B4.6.10-2/ ye ye kaamaa hRdi sthitaa iti //
+
+B4.7.1ab/ nivRttaH paapa.karmabhyaH pravRttaH puNya.karmasu /
+B4.7.1cd/ yo vipras tasya (sidhyanti vinaa yantrair api kriyaaH //
+B4.7.2ab/ braahmaNaa Rjavas tasmaad yad yad (icchanti cetasaa /
+B4.7.2cd/ tat tad (aasaadayanty aazu saMzuddhaa Rju.karmabhiH //
+B4.7.3ab/ evam etaani yantraaNi taavat kaaryaaNi dhiimataa /
+B4.7.3cd/ kaalena yaavataa^(upaiti vigrahaH [K: vigrahaM] zuddhim aatmanaH //
+B4.7.4ab/ ebhir yantrair vizuddha.aatmaa tri.raatra.upoSitas tataH /
+B4.7.4cd/ tad (aarabheta yena^RddhiM karmaNaa (praaptum (icchati //
+B4.7.5ab/ kSmaapavitraH [K: kSaapavitraM] sahasraakSo mRgaaro^aMhomucau gaNau /
+B4.7.5cd/ paavamaanyaz ca kuuzmaaNDyo vaizvaanarya Rcaz ca yaaH //
+B4.7.6ab/ ghRta.odanena taa juhvat sapta.ahaM savana.trayam /
+B4.7.6cd/ mauna.vratii haviSya.aazii nigRhiita.indriya.kriyaH //
+B4.7.7ab/ siMhe ma ity apaaM puurNe paatre^(avekSya catuS.pathe /
+B4.7.7cd/ (mucyate sarva.paapebhyo mahataH paatakaad api //
+B4.7.8ab/ vRddhatve yauvane baalye yaH kRtaH paapa.saMcayaH /
+B4.7.8cd/ puurva.janmasu ca^ajJaanaat [K: vaajJaanaat] tasmaad api (vimucyate //
+B4.7.9ab/ (bhojayitvaa dvijaan ante paayasena sa.sarpiSaa [K: susarpiSaa] /
+B4.7.9cd/ go.bhuumi.tila.hemaani bhuktavadbhyaH (pradaaya ca //
+B4.7.10ab/ vipro (bhavati puuta.aatmaa nirdagdha.vRjina.indhanaH /
+B4.7.10cd/ kaamyaanaaM karmaNaaM yogyas [K: yojyaH]
+tathaa^aadhaana.aadi.karmaNaam //
+
+B4.8.1ab/ atilobhaat pramaadaad vaa yaH (karoti kriyaam imaam /
+B4.8.1cd/ anyasya so^aMhas.aaviSTo gara.giir iva (siidati //
+B4.8.2ab/ aacaaryasya pitur maatur aatmanaz ca kriyaam imaam /
+B4.8.2cd/ kurvan (bhaaty arka.vad vipraH saa kaaryaa^eSaam ataH kriyaa //
+B4.8.3ab/ ka etena sahasra.akSaM pavitreNa^(akarot^zucim /
+B4.8.3cd/ agniM vaayuM raviM somaM yama.aadiiMz ca sura.iizvaraan //
+B4.8.4ab/ yat kiMcit puNya.naama^iha triSu lokeSu vizrutam /
+B4.8.4cd/ vipra.aadi tat kRtaM kena pavitra.kriyayaa^anayaa //
+B4.8.5ab/ praajaapatyam [K: prajaapatyam] idaM guhyaM paapa.ghnaM
+prathama.udbhavam /
+B4.8.5cd/ samutpannaany ataH pazcaat pavitraaNi sahasrazaH //
+B4.8.6ab/ yo^abda.aayana.Rtu.pakSa.ahaan^(juhoty aSTau gaNaan imaan /
+B4.8.6cd/ (punaati ca^aatmano vaMzyaan daza puurvaan daza^avaraan [K:
+dazaaparaan] //
+B4.8.7ab/ (jJaayate ca^amarair dyu.sthaiH puNya.karmaa^iti bhuu.sthitaH /
+B4.8.7cd/ deva.vat^(modate bhuuyaH svarga.loke^api puNya.kRt // [K puts
+this verse after B4.8.12]
+B4.8.8ab/ etaan aSTau gaNaan (hotuM na (zaknoti yadi dvijaH /
+B4.8.8cd/ eko^api tena hotavyo rajas tena^asya (nazyati //
+B4.8.9ab/ suunavo yasya ziSyaa vaa (juhvaty aSTau gaNaan imaan /
+B4.8.9cd/ adhyaapana.parikriitair aMhasaH so^api (mucyate //
+B4.8.10ab/ dhanena^api parikriitair aatma.paapa.jighaaMsayaa /
+B4.8.10cd/ haavaniiyaa hy azaktena na^avasaadyaH zariira.dhRk //
+B4.8.11ab/ dhanasya (kriyate tyaagaH karmaNaaM sukRtaam api /
+B4.8.11cd/ puMso^anRNasya paapasya vimokSaH (kriyate kvacit //
+B4.8.12ab/ vimukto [K: mukto yo] vidhinaa^etena sarva.paapaarNa.saagaraat /
+B4.8.12cd/ aatmaanaM (manyate zuddhaM samarthaM karma.saadhane //
+B4.8.13ab/ sarva.paapaarNa.mukta.aatmaa kriyaa (aarabhate tu yaaH /
+B4.8.13cd/ ayatnena^eva taaH siddhiM (yaanti zuddha.zariiriNaH //
+B4.8.14ab/ praajaapatyam [K: prajaapatyam] idaM puNyam RSiNaa [K: RSiiNaaM]
+samudiiritam /
+B4.8.14cd/ idam (adhyaapayen nityaM (dhaarayet^(zRNute^api vaa /
+B4.8.14ef/ (mucyate sarva.paapebhyo brahma.loke (mahiiyate //
+B4.8.15ab/ yaan (siSaadhayiSur mantraan dvaadaza.ahaani taaJ (japet /
+B4.8.15cd/ ghRtena payasaa dadhnaa (praazya nizy odanaM sakRt //
+[K before B4.8.16-1ab: Rgyajussaamavedaanaam atharvaaGgirasaam api /]
+B4.8.16-1ab/ dazavaaraM tathaa homaH sarpiSaa savana.trayam /
+B4.8.16-1cd/ puurva.sevaa (bhaved eSaaM [K: eSaa] mantraaNaaM karma.saadhane //
+B4.8.16-2/ mantraaNaaM karmasaadhana iti //
+atilobhaat pramaadaad vaa / nivRttaH paapakarmabhyaH // samaadhuzchandasaa
+rudraaH // athaataH saMpravakSyaami // praayazcittaani vakSyaamaH //
+praayazcittaani vakSyaamaH // praayazcittaani vakSyaamaH // praayazcittaani
+vakSyaamaH // iti caturthaH praznaH //4// iti baudhaayanadharmasuutraM
+samaaptam //
+
+
