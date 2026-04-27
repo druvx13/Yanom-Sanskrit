@@ -11,6 +11,9 @@ TARGET_PATH = REPO_ROOT / "dharma" / "dev" / "manu_dev.txt"
 
 
 INDEPENDENT_VOWELS = {
+    "aa": "आ",
+    "ii": "ई",
+    "uu": "ऊ",
     "ai": "ऐ",
     "au": "औ",
     "RR": "ॠ",
@@ -28,6 +31,9 @@ INDEPENDENT_VOWELS = {
 }
 
 VOWEL_SIGNS = {
+    "aa": "ा",
+    "ii": "ी",
+    "uu": "ू",
     "ai": "ै",
     "au": "ौ",
     "RR": "ॄ",
@@ -102,6 +108,7 @@ def transliterate_hk_to_devanagari(text: str) -> str:
     output: list[str] = []
     i = 0
     pending_consonant = False
+    previous_was_phoneme = False
 
     while i < len(text):
         consonant = _match_token(text, i, CONSONANT_TOKENS)
@@ -110,6 +117,7 @@ def transliterate_hk_to_devanagari(text: str) -> str:
                 output.append("्")
             output.append(CONSONANTS[consonant])
             pending_consonant = True
+            previous_was_phoneme = True
             i += len(consonant)
             continue
 
@@ -120,23 +128,39 @@ def transliterate_hk_to_devanagari(text: str) -> str:
             else:
                 output.append(INDEPENDENT_VOWELS[vowel])
             pending_consonant = False
+            previous_was_phoneme = True
             i += len(vowel)
             continue
 
         mark = _match_token(text, i, MARK_TOKENS)
-        if mark is not None:
+        if mark is not None and previous_was_phoneme:
+            if pending_consonant:
+                output.append("्")
+                pending_consonant = False
             output.append(MARKS[mark])
-            pending_consonant = False
+            previous_was_phoneme = True
             i += len(mark)
             continue
 
         ch = text[i]
         if ch == "'":
+            if pending_consonant:
+                output.append("्")
+                pending_consonant = False
             output.append("ऽ")
+            next_vowel = _match_token(text, i + 1, VOWEL_TOKENS)
+            if next_vowel in {"a", "aa", "A"}:
+                i += len(next_vowel)
         else:
+            if pending_consonant:
+                output.append("्")
+                pending_consonant = False
             output.append(ch)
-        pending_consonant = False
+        previous_was_phoneme = False
         i += 1
+
+    if pending_consonant:
+        output.append("्")
 
     return "".join(output)
 
