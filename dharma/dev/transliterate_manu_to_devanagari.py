@@ -94,7 +94,8 @@ MARKS = {
 VOWEL_TOKENS = sorted(VOWEL_SIGNS, key=len, reverse=True)
 CONSONANT_TOKENS = sorted(CONSONANTS, key=len, reverse=True)
 MARK_TOKENS = sorted(MARKS, key=len, reverse=True)
-SANSKRIT_LINE_RE = re.compile(r"^([A-Za-z]?\d+\.\d+[a-z]/)(.*)$")
+# Matches verse-line prefixes such as "1.2a/" or "M1.2b/".
+SANSKRIT_LINE_RE = re.compile(r"^(?P<prefix>[A-Za-z]?\d+\.\d+[a-z]/)(?P<tail>.*)$")
 
 
 def _match_token(text: str, index: int, tokens: list[str]) -> str | None:
@@ -148,9 +149,14 @@ def transliterate_hk_to_devanagari(text: str) -> str:
                 output.append("्")
                 pending_consonant = False
             output.append("ऽ")
-            next_vowel = _match_token(text, i + 1, VOWEL_TOKENS)
-            if next_vowel in {"a", "aa", "A"}:
+            i += 1
+            next_vowel = _match_token(text, i, VOWEL_TOKENS)
+            # In this source, avagraha is encoded as "'a", "'aa", or "'A";
+            # skip that vowel because avagraha already represents the elided अ.
+            if next_vowel is not None and next_vowel in {"a", "aa", "A"}:
                 i += len(next_vowel)
+            previous_was_phoneme = False
+            continue
         else:
             if pending_consonant:
                 output.append("्")
@@ -175,7 +181,8 @@ def convert_file() -> None:
         core = line[:-1] if stripped_newline else line
         match = SANSKRIT_LINE_RE.match(core)
         if match:
-            prefix, tail = match.groups()
+            prefix = match.group("prefix")
+            tail = match.group("tail")
             converted_tail = transliterate_hk_to_devanagari(tail)
             converted_lines.append(f"{prefix}{converted_tail}{stripped_newline}")
         else:
